@@ -110,15 +110,12 @@ if (crurl.includes("https://bvdkht.vn/feedback/2850/xet-nghiem-tinh-trung-o-tphc
 <a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" target="_blank" rel="noopener" class="cta-button">Liên hệ ngay để được tư vấn</a>
 <h2>Kết luận</h2>
 <p>Xét nghiệm tinh trùng TPHCM là bước quan trọng để đánh giá sức khỏe sinh sản nam giới, giúp phát hiện sớm các vấn đề liên quan đến vô sinh hoặc hiếm muộn. Với danh sách 13+ địa chỉ uy tín và thông tin chi tiết về quy trình, hy vọng bạn sẽ tìm được cơ sở phù hợp để thực hiện xét nghiệm. Nếu cần tư vấn nhanh chóng và bảo mật, hãy liên hệ Phòng khám Chuyên khoa An Đông qua <strong>Hotline: 028.7777.9888</strong>.</p>
-<a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" target="_blank" rel="noopener">
-<img src="https://www.vnbacsionline.com/ckfinder/userfiles/images/Icon/Icon4/gifchat/gifchat_/Chat-nam_khoa-Gif.gif" alt="Liên hệ tư vấn xét nghiệm tinh trùng" width="600" height="400">
-
-<a target="_blank" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" rel="nofollow">
-<img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
-<a rel="follow,noopener" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+<div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
 </body>
 </html>
     `;
 }
-
-
