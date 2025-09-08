@@ -19,7 +19,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
     <div class="logo"> <a href="#"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
         <div id="content">
 <h1>Phòng khám Chuyên khoa An Đông uy tín điểm 10 chất lượng tại TPHCM</h1>
-<p><a href="">Phòng khám chuyên khoa An Đông</a> tại 360 An Dương Vương, Phường Chợ Quán, TP.HCM đã trở thành một trong những cơ sở y tế hàng đầu, mang đến dịch vụ chăm sóc sức khỏe toàn diện cho người dân TP.HCM và các tỉnh lân cận. Với sứ mệnh đồng hành cùng bệnh nhân trong hành trình bảo vệ sức khỏe, phòng khám hoạt động theo triết lý “Tận tâm – Minh bạch – Chuyên nghiệp”, đảm bảo mang lại trải nghiệm y tế chất lượng cao, thân thiện và đáng tin cậy.</p>
+<p><a href="https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-dong.html">Phòng khám chuyên khoa An Đông</a> tại 360 An Dương Vương, Phường Chợ Quán, TP.HCM đã trở thành một trong những cơ sở y tế hàng đầu, mang đến dịch vụ chăm sóc sức khỏe toàn diện cho người dân TP.HCM và các tỉnh lân cận. Với sứ mệnh đồng hành cùng bệnh nhân trong hành trình bảo vệ sức khỏe, phòng khám hoạt động theo triết lý “Tận tâm – Minh bạch – Chuyên nghiệp”, đảm bảo mang lại trải nghiệm y tế chất lượng cao, thân thiện và đáng tin cậy.</p>
     <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://sun9-42.userapi.com/QDegjV79OcqBVuSne-T8CatGFzKsfJOD1j_5Hg/I4LFo5LQICw.jpg" alt="Phòng khám chuyên khoa An Đông" width="600" height="400"></p>
 
     <h2>Giới thiệu về Phòng khám chuyên khoa An Đông</h2>
