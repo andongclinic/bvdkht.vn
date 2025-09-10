@@ -19,7 +19,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2856/23-dia-chi-chua-viem-dai-hep
 <div class="header" style="display: flex; justify-content: center;">
     <div class="logo"> <a href="#"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo"  width="500" height="90"> </a></div></div>
         <div id="content">
-<h1>23+ địa chỉ chữa viêm, dài, hẹp bao quy đầu uy tín, an toàn ở TPHCM</h1>
+<h1 style="text-align: center;">23+ địa chỉ chữa viêm, dài, hẹp bao quy đầu uy tín, an toàn ở TPHCM</h1>
  <p>Theo thống kê y tế, khoảng 1/3 nam giới tại TP.HCM từng gặp các vấn đề về bao quy đầu như viêm nhiễm, dài hoặc hẹp gây ảnh hưởng sức khỏe sinh sản và đời sống tình dục. Việc phát hiện sớm và khám chữa kịp thời giúp hạn chế biến chứng nguy hiểm. Dưới đây là danh sách <strong><a href="https://bvdkht.vn/feedback/2856/23-dia-chi-chua-viem-dai-hep-bao-quy-dau-tphcm.html">23+ địa chỉ điều trị viêm, dài, hẹp bao quy đầu uy tín, an toàn ở TPHCM</a></strong> mà bạn có thể tham khảo để chăm sóc sức khỏe nam khoa hiệu quả hơn.</p>
 
         <h2>Các vấn đề thường gặp về bao quy đầu</h2>
@@ -125,7 +125,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2856/23-dia-chi-chua-viem-dai-hep
         <p>Dưới đây là một vài cơ sở khám chữa bệnh bao quy đầu uy tín tại TPHCM được đánh giá cao hiện nay:</p>
 
         <h3>Phòng khám Chuyên khoa An Đông – Nơi khám và điều trị bệnh về bao quy đầu uy tín tại TPHCM</h3>
-        <p>Trong nhiều năm qua, <strong><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-an-dong-phuong-cho-quan-dia-chi-tham-kham-nam-khoa-post1216277.vov">Phòng khám Chuyên khoa An Đông</a></strong> đã trở thành một trong những địa chỉ được nhiều người tin tưởng khi cần khám viêm bao quy đầu hoặc chữa dài, hẹp bao quy đầu tại TPHCM. Không chỉ phục vụ bệnh nhân trong khu vực thành phố, nơi đây còn tiếp nhận rất nhiều khách từ các tỉnh lân cận nhờ chất lượng dịch vụ, bác sĩ giàu kinh nghiệm và phác đồ điều trị hiệu quả.</p>
+        <p>Trong nhiều năm qua, <strong><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-an-dong-phuong-cho-quan-dia-chi-tham-kham-nam-khoa-post1216277.vov">Phòng khám Chuyên khoa An Đông</a></strong> đã trở thành một trong những địa chỉ được nhiều người tin tưởng khi cần khám các bệnh về bao quy đầu tại TPHCM. Không chỉ phục vụ bệnh nhân trong khu vực thành phố, nơi đây còn tiếp nhận rất nhiều khách từ các tỉnh lân cận nhờ chất lượng dịch vụ, bác sĩ giàu kinh nghiệm và phác đồ điều trị hiệu quả.</p>
         <p><strong>1. Phòng khám được cấp phép hoạt động rõ ràng, uy tín</strong></p>
         <p>Phòng khám Chuyên khoa An Đông (địa chỉ: 360 An Dương Vương, Phường Chợ Quán, TPHCM) hoạt động dưới sự giám sát và cấp phép của Sở Y tế TP.HCM, đáp ứng đầy đủ các tiêu chuẩn y tế hiện hành. Người bệnh có thể yên tâm lựa chọn nơi đây để khám và điều trị viêm bao quy đầu, chữa dài bao quy đầu hay khắc phục tình trạng hẹp bao quy đầu với quy trình an toàn, minh bạch và tuân thủ đúng quy định.</p>
         <p><strong>2. Cơ sở vật chất hiện đại, trang thiết bị tiên tiến</strong></p>
