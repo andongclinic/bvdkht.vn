@@ -178,7 +178,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2856/23-dia-chi-chua-viem-dai-hep
         <p><strong>Quy trình khám:</strong> Khoa học, nhanh chóng, hạn chế tối đa thời gian chờ đợi</p>
 
         <h2>Lời khuyên</h2>
-      <p>Hy vọng qua bài viết, bạn đã có thêm thông tin hữu ích về các vấn đề viêm, dài, hẹp bao quy đầu cũng như danh sách <strong>22+ địa chỉ khám và điều trị uy tín, an toàn tại TPHCM</strong>. Chủ động thăm khám sớm và lựa chọn cơ sở y tế chất lượng sẽ giúp bạn điều trị hiệu quả, hạn chế biến chứng và bảo vệ sức khỏe sinh sản lâu dài.</p>
+      <p>Hy vọng qua bài viết, bạn đã có thêm thông tin hữu ích về danh sách <strong>23+ địa chỉ khám và điều trị viêm, dài, hẹp bao quy đầu TPHCM</strong>. Chủ động thăm khám sớm và lựa chọn cơ sở y tế chất lượng sẽ giúp bạn điều trị hiệu quả, hạn chế biến chứng và bảo vệ sức khỏe sinh sản lâu dài.</p>
 <p>Nếu cần được hỗ trợ chi tiết hơn, bạn có thể liên hệ Phòng khám Chuyên khoa An Đông qua hotline <strong>028.7777.9888</strong> để được bác sĩ tư vấn và đặt lịch khám nhanh chóng.</p>
 <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
     <div class="chat">
