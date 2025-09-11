@@ -157,7 +157,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-an-dong.html")) {
         <p><img alt="" src="https://www.vnbacsionline.com//ckfinder/userfiles/images/Icon/Icon5/1-15040QFI0540.gif" style="height:15px; opacity:0.9; width:15px" /> <p>Đăng ký lịch hẹn trước tại <span style="color:#6B7280"><strong>phòng khám chuyên khoa An Đông</strong></span> để nhận gói khám sức khỏe toàn diện với chi phí tối ưu. Liên hệ ngay qua <a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c">Khung Chat</a> hoặc hotline <span style="color:#FF6200"><strong>028 7777 9888</strong></span> để nhận ưu đãi!</p>
     </div>
     <p>Phòng khám Chuyên khoa An Đông là địa chỉ tin cậy dành cho những ai đang tìm kiếm dịch vụ y tế chất lượng tại TPHCM. Để được tư vấn chi tiết và đặt lịch nhanh chóng, bạn có thể liên hệ qua hotline 028 7777 9888 hoặc sử dụng Khung Chat trực tuyến. Đăng ký hẹn trước, bạn còn có cơ hội nhận gói khám sức khỏe toàn diện với chi phí tối ưu và nhiều ưu đãi hấp dẫn.</p>
-    <p><strong>Xem thêm báo chí nói gì về Phòng Khám Đa Khoa An Đông:</strong></p>
+    <p><strong>Xem thêm báo chí nói gì về Phòng Khám An Đông:</strong></p>
 
 <ul style="padding-left:18px;">
   <li><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/dat-hen-truc-tuyen-tai-phong-kham-an-dong-tien-loi-nhanh-chong-va-bao-mat-post1226719.vov">Đặt hẹn trực tuyến tại Phòng khám An Đông: Tiện lợi, nhanh chóng và bảo mật</a></li>
