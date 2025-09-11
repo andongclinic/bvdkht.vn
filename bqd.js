@@ -276,7 +276,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2856/gia-cat-bao-quy-dau-tphcm.ht
         <p><span style="color:#003366"><strong>Phản hồi từ bệnh nhân:</strong></span> Anh Q.T (29 tuổi, Quận 7): “Phòng khám Chuyên khoa An Đông rất chuyên nghiệp. Bác sĩ tư vấn rõ ràng, thủ thuật nhanh, không đau. Tôi được hướng dẫn chăm sóc kỹ lưỡng, hồi phục nhanh. Rất hài lòng!”</p>
         <p>Anh M.L (25 tuổi, Bình Thạnh): “Tôi chọn công nghệ Stapler tại đây và không hối hận. Vết mổ đẹp, không để lại sẹo. Bác sĩ và nhân viên rất tận tâm, chi phí hợp lý.”</p>
     </div>
-    <p style="text-align:center"><a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c">TƯ VẤN MIỄN PHÍ</a></p>
     <p>Hy vọng bài viết đã cung cấp thông tin hữu ích về <strong>giá cắt bao quy đầu TPHCM</strong> và địa chỉ uy tín. Để đặt lịch khám tại Phòng khám Chuyên khoa An Đông, vui lòng liên hệ:</p>
     <p>
         <strong>Liên hệ ngay:</strong><br>
