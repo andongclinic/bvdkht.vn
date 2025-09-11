@@ -244,11 +244,11 @@ if (crurl.includes("https://bvdkht.vn/feedback/2856/gia-cat-bao-quy-dau-tphcm.ht
         </tr>
         <tr>
             <td>Cắt bao quy đầu thủ thuật Stapler</td>
-            <td>6.800.000 VND</td>
+            <td>Ưu đãi 30%</td>
         </tr>
         <tr>
             <td>Cắt bao quy đầu không thủ thuật Stapler</td>
-            <td>5.200.000 VND</td>
+            <td>Ưu đãi 30%</td>
         </tr>
     </table>
     <div class="warning-box">
