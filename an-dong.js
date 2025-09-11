@@ -108,8 +108,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-an-dong.html")) {
         <div id="content">
 <h1 style="text-align:center;">Phòng khám chuyên khoa An Đông uy tín chất lượng tốt ở TPHCM</h1>
  <p><strong> <a href="https://bvdkht.vn/feedback/2849/phong-kham-an-dong.html">Phòng khám chuyên khoa An Đông</a></strong> tại TPHCM tự hào là cơ sở y tế hàng đầu, mang đến dịch vụ chăm sóc sức khỏe chất lượng cao, đáp ứng nhu cầu đa dạng của bệnh nhân. Với không gian hiện đại, công nghệ tiên tiến và đội ngũ nhân viên tận tâm, phòng khám An Đông đã khẳng định vị thế là địa chỉ uy tín, giúp bệnh nhân an tâm trong quá trình thăm khám và điều trị. Bài viết này sẽ cung cấp thông tin chi tiết về chất lượng dịch vụ, quy trình khám chữa bệnh và những lợi ích nổi bật khi lựa chọn phòng khám chuyên khoa An Đông.</p>
-
-
+ 
     <h2>Chất lượng dịch vụ vượt trội tại phòng khám An Đông</h2>
     <p>Tọa lạc tại <span style="color:red">360 Đường An Dương Vương, Phường Chợ Quán, TPHCM</span> - phòng khám chuyên khoa An Đông được thiết kế với không gian hiện đại, sạch sẽ và thân thiện. Môi trường khám chữa bệnh được bố trí khoa học, từ khu vực tiếp đón đến các phòng xét nghiệm, đảm bảo sự thoải mái và tiện nghi cho bệnh nhân. Tất cả các khu vực đều được vệ sinh và vô trùng thường xuyên, đáp ứng tiêu chuẩn y tế nghiêm ngặt, mang lại sự an tâm tuyệt đối.</p>
     <p>Phòng khám An Đông chú trọng đầu tư vào công nghệ y tế tiên tiến, với các thiết bị chẩn đoán và điều trị nhập khẩu từ các nước phát triển. Những thiết bị này giúp bác sĩ đưa ra kết quả chính xác, hỗ trợ quá trình điều trị đạt hiệu quả cao trong thời gian ngắn. Hệ thống quản lý thông tin hiện đại cũng giúp lưu trữ hồ sơ bệnh án một cách an toàn, đảm bảo tính bảo mật và thuận tiện cho việc theo dõi sức khỏe lâu dài.</p>
