@@ -88,7 +88,8 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-an-dong.html")) {
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
         <title>Phòng khám chuyên khoa An Đông uy tín chất lượng tốt ở TPHCM</title>
-        <meta content="Tìm hiểu quy trình, chi phí và các cơ sở xét nghiệm tinh dịch đồ chất lượng tại TP.HCM." name="description">
+        <meta content="Phòng khám chuyên khoa An Đông tại TPHCM cung cấp dịch vụ y tế chất lượng cao, quy trình khám chữa bệnh chuyên nghiệp, công nghệ hiện đại, mang đến sự an tâm cho bệnh nhân." name="description">
+        <meta content="phòng khám chuyên khoa An Đông, phòng khám An Đông, khám chữa bệnh uy tín TPHCM, dịch vụ y tế chất lượng" name="keywords">
         <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Phòng khám chuyên khoa An Đông uy tín chất lượng tốt ở TPHCM","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.6","ratingCount":"376","bestRating":"10","worstRating":"1"}}
@@ -105,7 +106,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-an-dong.html")) {
 <div class="header" style="display: flex; justify-content: center;">
     <div class="logo"> <a href="#"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
         <div id="content">
-<h1>Phòng khám chuyên khoa An Đông uy tín chất lượng tốt ở TPHCM</h1>
+<h1 style="text-align:center;">Phòng khám chuyên khoa An Đông uy tín chất lượng tốt ở TPHCM</h1>
  <p><strong> <a href="https://bvdkht.vn/feedback/2849/phong-kham-an-dong.html">Phòng khám chuyên khoa An Đông</a></strong> tại TPHCM tự hào là cơ sở y tế hàng đầu, mang đến dịch vụ chăm sóc sức khỏe chất lượng cao, đáp ứng nhu cầu đa dạng của bệnh nhân. Với không gian hiện đại, công nghệ tiên tiến và đội ngũ nhân viên tận tâm, phòng khám An Đông đã khẳng định vị thế là địa chỉ uy tín, giúp bệnh nhân an tâm trong quá trình thăm khám và điều trị. Bài viết này sẽ cung cấp thông tin chi tiết về chất lượng dịch vụ, quy trình khám chữa bệnh và những lợi ích nổi bật khi lựa chọn phòng khám chuyên khoa An Đông.</p>
 
 
