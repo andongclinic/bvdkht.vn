@@ -200,8 +200,15 @@ if (crurl.includes("https://bvdkht.vn/feedback/2856/gia-cat-bao-quy-dau-tphcm.ht
         <meta charset="utf-8">
         <title>Giá cắt bao quy đầu TPHCM bao nhiêu? Địa chỉ uy tín</title>
         <meta content="Giá cắt bao quy đầu TPHCM dao động tùy phương pháp và cơ sở y tế. Để an toàn, tiết kiệm và kín đáo, chị em nên chọn địa chỉ uy tín như Phòng khám An Đông để được tư vấn rõ ràng." name="description">
-        <meta content="giá cắt bao quy đầu tphcm, chi phí cắt bao quy đầu, cắt bao quy đầu bao nhiêu tiền, bảng giá cắt bao quy đầu, cắt bao quy đầu giá rẻ, cắt bao quy đầu tphcm, địa chỉ cắt bao quy đầu, cắt bao quy đầu uy tín, chi phí hợp lý cắt bao quy đầu, cắt bao quy đầu an toàn" name="keywords">
+        <meta content="giá cắt bao quy đầu tphcm, chi phí cắt bao quy đầu tphcm, cắt bao quy đầu tphcm bao nhiêu tiền, bảng giá cắt bao quy đầu tphcm, cắt bao quy đầu tphcm giá rẻ, cắt bao quy đầu tphcm, địa chỉ cắt bao quy đầu, cắt bao quy đầu uy tín, chi phí hợp lý cắt bao quy đầu, cắt bao quy đầu an toàn" name="keywords">
         <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
+        <style>
+        .highlight-box { border: 1px solid #99BADD; padding: 15px; background: #F6F9FC; border-radius: 5px; }
+        .warning-box { border: 2px dashed #336699; padding: 15px; background: #EAF1F7; border-radius: 5px; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { border: 1px solid #99BADD; padding: 10px; text-align: left; }
+        th { background: #EAF1F7; color: #003366; }
+    </style>
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Giá cắt bao quy đầu TPHCM","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.6","ratingCount":"8","bestRating":"10","worstRating":"1"}}
         </script>
