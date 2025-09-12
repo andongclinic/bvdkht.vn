@@ -314,7 +314,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/gioi-thieu-phong-kham-chuyen
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
         <title>Giới thiệu về Phòng khám chuyên khoa An Đông phường Chợ Quán TP Hồ Chí Minh</title>
-        <meta content="Phòng khám Chuyên khoa An Đông địa chỉ 360 An Dương Vương, Phường Chợ Quán đã trở thành một biểu tượng của sự uy tín và chất lượng trong lĩnh vực chăm sóc sức khỏe tại khu vực TPHCM." name="description">
+        <meta content="Phòng khám chuyên khoa An Đông được thiết kế như một bệnh viện thu nhỏ, với các phòng chức năng riêng biệt, đáp ứng đầy đủ các tiêu chuẩn y tế nghiêm ngặt." name="description">
         <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Giới thiệu về Phòng khám chuyên khoa An Đông phường Chợ Quán TP Hồ Chí Minh","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.6","ratingCount":"360","bestRating":"10","worstRating":"1"}}
