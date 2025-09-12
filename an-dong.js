@@ -194,8 +194,8 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-k
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
         <title>Dịch vụ y tế chuyên nghiệp tại Công ty TNHH Phòng khám Đa khoa An Đông</title>
-        <meta content="Phòng khám chuyên khoa An Đông tại TPHCM cung cấp dịch vụ y tế chất lượng cao, quy trình khám chữa bệnh chuyên nghiệp, công nghệ hiện đại, mang đến sự an tâm cho bệnh nhân." name="description">
-        <meta content="phòng khám chuyên khoa An Đông, phòng khám An Đông, khám chữa bệnh uy tín TPHCM, dịch vụ y tế chất lượng" name="keywords">
+        <meta content="Ngay từ khi thành lập, Công ty TNHH Phòng khám Đa khoa An Đông đã đặt ra tầm nhìn trở thành một trong những cơ sở y tế tư nhân hàng đầu, mang đến dịch vụ chất lượng cao, kết hợp giữa công nghệ y tế tiên tiến và đội ngũ bác sĩ giàu kinh nghiệm." name="description">
+        <meta content="công ty tnhh phòng khám đa khoa an đông, phòng khám chuyên khoa An Đông, phòng khám An Đông, khám chữa bệnh uy tín TPHCM, dịch vụ y tế chất lượng" name="keywords">
         <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Công ty TNHH Phòng khám Đa khoa An Đông","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.3","ratingCount":"868","bestRating":"10","worstRating":"1"}}
