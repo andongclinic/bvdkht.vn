@@ -326,9 +326,16 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/gioi-thieu-phong-kham-chuyen
     <div class="logo"> <a href="#"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
         <div id="content">
 <h1>Giới thiệu về Phòng khám chuyên khoa An Đông phường Chợ Quán TP Hồ Chí Minh</h1>
-    <p><strong><a href="https://bvdkht.vn/feedback/2849/gioi-thieu-phong-kham-chuyen-khoa-an-dong.html">Phòng khám chuyên khoa An Đông</a><strong> tại 360 An Dương Vương, Phường Chợ Quán, TP.HCM, là một trong những cơ sở y tế tư nhân hàng đầu, mang đến dịch vụ chăm sóc sức khỏe chất lượng cao cho người dân TP.HCM và các khu vực lân cận. Với sứ mệnh cung cấp dịch vụ y tế chuyên nghiệp, an toàn và tận tâm, phòng khám đã trở thành điểm đến đáng tin cậy cho hàng ngàn bệnh nhân. Được cấp phép hoạt động bởi Sở Y tế TP.HCM, <a href="https://phongkhamchuyenkhoaandong.vn">Phòng khám An Đông</a> không chỉ chú trọng đến chất lượng khám chữa bệnh mà còn tạo ra một môi trường thân thiện, thoải mái, giúp bệnh nhân an tâm khi điều trị. Với đội ngũ bác sĩ giàu kinh nghiệm, trang thiết bị hiện đại và quy trình khám chữa bệnh khoa học, An Đông cam kết mang lại hiệu quả điều trị tối ưu, tiết kiệm thời gian và chi phí cho bệnh nhân.</p>
+    <p><strong><a href="https://bvdkht.vn/feedback/2849/gioi-thieu-phong-kham-chuyen-khoa-an-dong.html">Phòng khám chuyên khoa An Đông</a></strong> tại 360 An Dương Vương, Phường Chợ Quán, TP.HCM, là một trong những cơ sở y tế tư nhân hàng đầu, mang đến dịch vụ chăm sóc sức khỏe chất lượng cao cho người dân TP.HCM và các khu vực lân cận. Với sứ mệnh cung cấp dịch vụ y tế chuyên nghiệp, an toàn và tận tâm, phòng khám đã trở thành điểm đến đáng tin cậy cho hàng ngàn bệnh nhân. Được cấp phép hoạt động bởi Sở Y tế TP.HCM, <a href="https://phongkhamchuyenkhoaandong.vn">Phòng khám An Đông</a> không chỉ chú trọng đến chất lượng khám chữa bệnh mà còn tạo ra một môi trường thân thiện, thoải mái, giúp bệnh nhân an tâm khi điều trị. Với đội ngũ bác sĩ giàu kinh nghiệm, trang thiết bị hiện đại và quy trình khám chữa bệnh khoa học, An Đông cam kết mang lại hiệu quả điều trị tối ưu, tiết kiệm thời gian và chi phí cho bệnh nhân.</p>
     <p>Phòng khám chuyên khoa An Đông được thiết kế như một bệnh viện thu nhỏ, với các phòng chức năng riêng biệt, đáp ứng đầy đủ các tiêu chuẩn y tế nghiêm ngặt. Từ khi thành lập, phòng khám đã không ngừng cải tiến dịch vụ, đầu tư vào công nghệ y tế tiên tiến và xây dựng đội ngũ y tế chuyên môn cao để đáp ứng nhu cầu ngày càng cao của cộng đồng. Với triết lý hoạt động “Tận tâm – Minh bạch – Chuyên nghiệp”, An Đông không chỉ tập trung vào việc điều trị bệnh mà còn chú trọng đến việc nâng cao trải nghiệm của bệnh nhân, từ khâu đặt hẹn đến chăm sóc sau điều trị.</p>
-
+<ul>
+  <li><a href="https://tuoitre.vn/dich-vu-dat-hen-truc-tuyen-cua-phong-kham-chuyen-khoa-an-dong-quan-5-20250624173143567.htm">Phòng khám Chuyên khoa An Đông</a></li>
+  <li><a href="https://vtcnews.vn/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-ar931025.html">Phòng khám Chuyên khoa An Đông</a></li>
+  <li><a href="https://baomoi.com/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-c51686139.epi">Phòng khám Chuyên khoa An Đông</a></li>
+  <li><a href="https://www.nguoiduatin.vn/phong-kham-an-dong-360-d-an-duong-vuong-phuong-4-quan-5-20424121910463483.htm">Phòng khám Chuyên khoa An Đông</a></li>
+  <li><a href="https://ngoisao.vn/suc-khoe/cham-soc-suc-khoe/phong-kham-an-dong-360-dong-hanh-cung-ban-tren-hanh-trinh-suc-khoe-455403.htm">Phòng khám Chuyên khoa An Đông</a></li>
+  <li><a href="https://doisongvietnam.vn/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban-157334-6.html">Phòng khám Chuyên khoa An Đông</a></li>
+</ul>
     <h2>Giới thiệu về Phòng khám chuyên khoa An Đông</h2>
     <p>Phòng khám chuyên khoa An Đông được thành lập với tầm nhìn trở thành một trong những cơ sở y tế tư nhân hàng đầu tại TP.HCM, mang đến dịch vụ chăm sóc sức khỏe chất lượng cao, đáp ứng nhu cầu đa dạng của người dân. Tọa lạc tại vị trí thuận lợi ở trung tâm Quận 5, phòng khám dễ dàng tiếp cận từ các quận lân cận như Quận 1, Quận 3, Quận 4 và Quận 10, giúp bệnh nhân tiết kiệm thời gian di chuyển. Được Sở Y tế TP.HCM cấp phép hoạt động, phòng khám tuân thủ nghiêm ngặt các quy định về y tế, đảm bảo tính pháp lý và an toàn tuyệt đối cho bệnh nhân.</p>
     <p>Phòng khám An Đông nổi bật với cơ sở vật chất khang trang, được thiết kế theo mô hình y tế hiện đại với các khu vực chức năng như phòng khám chuyên khoa, phòng xét nghiệm, phòng tiểu phẫu và khu vực chờ được bố trí khoa học, tiện nghi. Không gian sạch sẽ, thoáng mát, được vệ sinh và khử khuẩn định kỳ, mang lại cảm giác an tâm và thoải mái cho bệnh nhân. Hệ thống trang thiết bị y tế tại đây được nhập khẩu từ các quốc gia có nền y học tiên tiến như Mỹ, Đức và Nhật Bản, đảm bảo độ chính xác cao trong chẩn đoán và hiệu quả tối ưu trong điều trị.</p>
@@ -355,6 +362,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/gioi-thieu-phong-kham-chuyen
     <ul>
         <li><strong>Nam khoa:</strong> Phòng khám chuyên điều trị các bệnh lý nam khoa phổ biến như liệt dương, xuất tinh sớm, viêm bàng quang, vô sinh nam, viêm niệu đạo, hẹp/dài bao quy đầu và rối loạn cương dương. Các phương pháp điều trị hiện đại như liệu pháp Plissit, công nghệ Ozone và kỹ thuật xâm lấn tối thiểu được áp dụng để mang lại hiệu quả cao, giảm đau và rút ngắn thời gian hồi phục. Các bác sĩ tại đây không chỉ tập trung vào điều trị triệu chứng mà còn giải quyết nguyên nhân gốc rễ, giúp nam giới lấy lại sự tự tin và sức khỏe.</li>
         <li><strong>Bệnh xã hội:</strong> An Đông là một trong những địa chỉ hàng đầu trong việc xét nghiệm và điều trị các bệnh lây truyền qua đường tình dục như sùi mào gà (sử dụng công nghệ ALA-PDT), giang mai (liệu pháp miễn dịch cân bằng), lậu (kỹ thuật DHA) và herpes sinh dục. Các phương pháp này giúp loại bỏ vi khuẩn nhanh chóng, hạn chế tái phát và đảm bảo sự riêng tư tuyệt đối cho bệnh nhân.</li>
+        <p><img src="https://i.pinimg.com/736x/0b/f0/9d/0bf09d1ad535710ca48b8d65be684c35.jpg" alt="Lý do nên chữa bệnh tại Phòng khám An Đông" width="600" height="400"></p>
         <li><strong>Bệnh trĩ và hậu môn – trực tràng:</strong> Phòng khám áp dụng kỹ thuật HCPT và PPH để điều trị các bệnh lý như trĩ nội, trĩ ngoại, áp xe hậu môn, rò hậu môn và nứt kẽ hậu môn. Các phương pháp này được thực hiện với độ chính xác cao, ít đau, không để lại sẹo và giúp bệnh nhân hồi phục nhanh chóng.</li>
         <li><strong>Da liễu:</strong> Phòng khám cung cấp dịch vụ điều trị các vấn đề da liễu như chàm, vảy nến, mụn trứng cá, viêm da và nấm da bằng công nghệ tiên tiến và phác đồ cá nhân hóa. Các bác sĩ da liễu tại đây không chỉ điều trị triệu chứng mà còn tư vấn cách chăm sóc da để ngăn ngừa tái phát.</li>
         <li><strong>Các dịch vụ khác:</strong> Ngoài các chuyên khoa chính, phòng khám còn cung cấp các gói khám sức khỏe định kỳ, điều trị hôi nách bằng công nghệ xâm lấn tối thiểu và các dịch vụ xét nghiệm tổng quát để phát hiện sớm các vấn đề sức khỏe.</li>
@@ -384,15 +392,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/gioi-thieu-phong-kham-chuyen
     <p><strong>Website:</strong> <a href="https://phongkhamchuyenkhoaandong.vn">phongkhamchuyenkhoaandong.vn</a></p>
     <p><strong>Thời gian làm việc:</strong> 8h – 20h, tất cả các ngày trong tuần (bao gồm lễ, Tết)</p>
 </div>
-
-<ul>
-  <li><a href="https://tuoitre.vn/dich-vu-dat-hen-truc-tuyen-cua-phong-kham-chuyen-khoa-an-dong-quan-5-20250624173143567.htm">Phòng khám Chuyên khoa An Đông</a></li>
-  <li><a href="https://vtcnews.vn/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-ar931025.html">Phòng khám Chuyên khoa An Đông</a></li>
-  <li><a href="https://baomoi.com/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-c51686139.epi">Phòng khám Chuyên khoa An Đông</a></li>
-  <li><a href="https://www.nguoiduatin.vn/phong-kham-an-dong-360-d-an-duong-vuong-phuong-4-quan-5-20424121910463483.htm">Phòng khám Chuyên khoa An Đông</a></li>
-  <li><a href="https://ngoisao.vn/suc-khoe/cham-soc-suc-khoe/phong-kham-an-dong-360-dong-hanh-cung-ban-tren-hanh-trinh-suc-khoe-455403.htm">Phòng khám Chuyên khoa An Đông</a></li>
-  <li><a href="https://doisongvietnam.vn/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban-157334-6.html">Phòng khám Chuyên khoa An Đông</a></li>
-</ul>
 
     <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
     <div class="chat">
