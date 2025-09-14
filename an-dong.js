@@ -402,3 +402,114 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/gioi-thieu-phong-kham-chuyen
 </html>
     `;
 }
+
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-dong-uy-tin-tai-tphcm.html")) {
+    document.querySelector('html').innerHTML = `
+    <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Phòng khám Chuyên khoa An Đông - 360 An Dương Vương: Địa chỉ khám chữa bệnh uy tín</title>
+        <meta content="Phòng khám chuyên khoa An Đông tại 360 Đường An Dương Vương, Phường Chợ Quán là địa chỉ y tế uy tín, cung cấp dịch vụ khám chữa bệnh chất lượng cao với đội ngũ bác sĩ tận tâm, cơ sở vật chất hiện đại. Gọi 028 7777 9888 để đặt lịch khám ngay!" name="description">
+        <meta content="Phòng khám chuyên khoa An Đông, Phòng khám An Đông, khám chữa bệnh TP.HCM, y tế uy tín, bác sĩ chuyên môn cao, đặt hẹn trực tuyến" name="keywords">
+        <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Phòng khám Chuyên khoa An Đông - 360 An Dương Vương","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.7","ratingCount":"977","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+        <style>
+        .contact-info {
+            background-color: #f4f4f4;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+        </style>
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+        <div id="content">
+<h1>Phòng khám Chuyên khoa An Đông - 360 An Dương Vương: Địa chỉ khám chữa bệnh uy tín</h1>
+<p>Phòng khám chuyên khoa An Đông (tọa lạc tại 360 Đường An Dương Vương, Phường Chợ Quán, TPHCM) là một trong những cơ sở y tế chăm sóc sức khỏe hiệu quả và chất lượng cho người dân TP.HCM và các khu vực lân cận. Với phương châm “Tận tâm chữa bệnh – Phục vụ chu đáo – Chăm sóc toàn diện”, phòng khám không ngừng nâng cao chất lượng dịch vụ. Được dẫn dắt bởi đội ngũ ban lãnh đạo có tầm nhìn chiến lược và chuyên môn cao, Phòng khám An Đông cam kết cung cấp các giải pháp y tế tiên tiến, đáp ứng mọi nhu cầu chăm sóc sức khỏe của cộng đồng.</p>
+<p><img src="https://i.pinimg.com/736x/ff/94/82/ff94820ef0b87f7e8e856f72dda4a775.jpg" alt="Cơ sở vật chất tại Phòng khám An Đông" width="600" height="400"></p>
+<p>Vị trí đắc địa tại trung tâm Quận 5 giúp bệnh nhân từ các quận lân cận như Quận 1, Quận 3, Quận 10 hay Củ Chi, Hóc Môn dễ dàng tiếp cận. Phòng khám không chỉ nổi bật với cơ sở vật chất hiện đại mà còn được đánh giá cao nhờ đội ngũ y bác sĩ tận tâm, quy trình khám chữa bệnh chuyên nghiệp và dịch vụ chăm sóc chu đáo. Với hệ thống đặt hẹn trực tuyến tiện lợi và thời gian làm việc linh hoạt, Phòng khám chuyên khoa An Đông là lựa chọn lý tưởng cho những ai tìm kiếm một địa chỉ y tế uy tín, chất lượng tại TP.HCM.</p>
+    
+<h2>Chất lượng vượt trội tạo nên thương hiệu Phòng khám An Đông</h2>
+    <p>Phòng khám chuyên khoa An Đông không ngừng nỗ lực để trở thành một trong những cơ sở y tế tư nhân hàng đầu tại TP.HCM, với trọng tâm là cung cấp dịch vụ chăm sóc sức khỏe toàn diện, an toàn và hiệu quả. Từ đội ngũ nhân lực đến cơ sở vật chất và các dịch vụ y tế, mọi khía cạnh tại phòng khám đều được đầu tư kỹ lưỡng để đáp ứng các tiêu chuẩn quốc tế, mang lại trải nghiệm tốt nhất cho bệnh nhân.</p>
+    <p>Cơ sở vật chất tại Phòng khám An Đông được thiết kế theo mô hình y tế hiện đại, với các khu vực chức năng như phòng tiếp nhận, phòng khám chuyên khoa, phòng xét nghiệm và phòng tiểu phẫu được bố trí khoa học, tạo sự thuận tiện tối đa cho bệnh nhân. Môi trường khám chữa bệnh luôn được giữ vô trùng, đảm bảo an toàn tuyệt đối và giảm nguy cơ lây nhiễm chéo. Các thiết bị y tế tại đây đều được nhập khẩu từ các quốc gia có nền y học tiên tiến như Đức, Pháp, Nhật Bản và Singapore, bao gồm máy siêu âm màu 4D, hệ thống xét nghiệm tự động và các công nghệ điều trị tiên tiến như ALA-PDT, HCPT, DHA. Những thiết bị này không chỉ nâng cao độ chính xác trong chẩn đoán mà còn tối ưu hóa hiệu quả điều trị, giúp bệnh nhân phục hồi nhanh chóng và giảm thiểu biến chứng.</p>
+    <p><img src="https://i.pinimg.com/736x/90/d8/ab/90d8ab55a70466d358581da56a097eea.jpg" alt="Cơ sở vật chất tại Phòng khám An Đông" width="600" height="400"></p>
+    <p>Đội ngũ bác sĩ tại Phòng khám An Đông là một trong những điểm mạnh nổi bật. Các bác sĩ đều được đào tạo bài bản tại các trường y danh tiếng trong và ngoài nước, với nhiều năm kinh nghiệm làm việc tại các bệnh viện lớn. Họ không ngừng cập nhật kiến thức y khoa thông qua các khóa đào tạo chuyên sâu và hội thảo quốc tế, đảm bảo áp dụng những phương pháp điều trị mới nhất. Sự tận tâm của đội ngũ y tế được thể hiện qua việc lắng nghe, tư vấn chi tiết và xây dựng phác đồ điều trị cá nhân hóa, phù hợp với từng bệnh nhân. Mô hình “1 bác sĩ – 1 điều dưỡng – 1 bệnh nhân” được áp dụng để đảm bảo sự riêng tư và bảo mật thông tin, đặc biệt phù hợp với các bệnh lý nhạy cảm như nam khoa, phụ khoa hay bệnh xã hội.</p>
+    <p>Chi phí khám chữa bệnh tại Phòng khám An Đông được niêm yết công khai theo quy định của Sở Y tế TP.HCM, đảm bảo minh bạch và không phát sinh thêm bất kỳ khoản phí nào ngoài những gì đã trao đổi với bệnh nhân. Trước khi tiến hành điều trị, bác sĩ sẽ tư vấn chi tiết về chi phí, giúp bệnh nhân chủ động về tài chính và an tâm trong suốt quá trình thăm khám. Ngoài ra, phòng khám còn cung cấp các gói khám chữa bệnh đa dạng, từ cơ bản đến chuyên sâu, phù hợp với mọi nhu cầu và điều kiện kinh tế của bệnh nhân.</p>
+    <ul>
+  <li><a href="https://bvtwhue.com.vn/upload/files/top10pkad360adv.pdf">https://bvtwhue.com.vn/upload/files/top10pkad360adv.pdf</a></li>
+  <li><a href="https://tuoitre.vn/dich-vu-dat-hen-truc-tuyen-cua-phong-kham-chuyen-khoa-an-dong-quan-5-20250624173143567.htm">https://tuoitre.vn/dich-vu-dat-hen-truc-tuyen-cua-phong-kham-chuyen-khoa-an-dong-quan-5-20250624173143567.htm</a></li>
+  <li><a href="https://vneconomy.vn/phong-kham-da-khoa-an-dong-co-tot-khong.htm">https://vneconomy.vn/phong-kham-da-khoa-an-dong-co-tot-khong.htm</a></li>
+  <li><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-an-dong-phuong-cho-quan-dia-chi-tham-kham-nam-khoa-post1216277.vov">https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-an-dong-phuong-cho-quan-dia-chi-tham-kham-nam-khoa-post1216277.vov</a></li>
+  <li><a href="https://baomoi.com/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-c51686139.epi">https://baomoi.com/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-c51686139.epi</a></li>
+  <li><a href="https://www.doccen.vn/home/08ddd8d5-6534-cc47-0242-ac1201000000">https://www.doccen.vn/home/08ddd8d5-6534-cc47-0242-ac1201000000</a></li>
+  <li><a href="https://vrrc.apc.tw/ckfinder/ckfiles/files/13327625.pdf">https://vrrc.apc.tw/ckfinder/ckfiles/files/13327625.pdf</a></li>
+  <li><a href="https://vtcnews.vn/phong-kham-da-khoa-an-dong-360-dia-chi-cham-soc-suc-khoe-cho-cong-dong-ar931021.html">https://vtcnews.vn/phong-kham-da-khoa-an-dong-360-dia-chi-cham-soc-suc-khoe-cho-cong-dong-ar931021.html</a></li>
+  <li><a href="https://phongkhamandong.salekit.com/phong-kham-da-khoa-an-dong-360-an-duong-vuong-phuong-4-quan-5-tphcm.html">https://phongkhamandong.salekit.com/phong-kham-da-khoa-an-dong-360-an-duong-vuong-phuong-4-quan-5-tphcm.html</a></li>
+  <li><a href="http://phongkhamdakhoaandong.xim.tv/tin-tuc/kham-pha-phong-kham-da-khoa-an-dong-o-so-360-an-duong-vuong-new94221.html">http://phongkhamdakhoaandong.xim.tv/tin-tuc/kham-pha-phong-kham-da-khoa-an-dong-o-so-360-an-duong-vuong-new94221.html</a></li>
+  <li><a href="https://phongkhamdakhoaandong.salekit.com/phong-kham-da-khoa-an-dong-tai-360-duong-an-duong-vuong-quan-5-tphcm.html">https://phongkhamdakhoaandong.salekit.com/phong-kham-da-khoa-an-dong-tai-360-duong-an-duong-vuong-quan-5-tphcm.html</a></li>
+  <li><a href="https://bvdkht.vn/feedback/2831?phong-kham-chuyen-khoa-an-dong-dia-chi-cham-soc-suc-khoe-uy-tin-tai-tphcm-307.html">https://bvdkht.vn/feedback/2831?phong-kham-chuyen-khoa-an-dong-dia-chi-cham-soc-suc-khoe-uy-tin-tai-tphcm-307.html</a></li>
+  <li><a href="https://bvdkht.vn/feedback/2849/phong-kham-an-dong.html">https://bvdkht.vn/feedback/2849/phong-kham-an-dong.html</a></li>
+  <li><a href="https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-khoa-an-dong.html">https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-khoa-an-dong.html</a></li>
+  <li><a href="https://bvdkht.vn/feedback/2849/gioi-thieu-phong-kham-chuyen-khoa-an-dong.html">https://bvdkht.vn/feedback/2849/gioi-thieu-phong-kham-chuyen-khoa-an-dong.html</a></li>
+</ul>
+<h2>Dịch vụ khám chữa bệnh đa dạng và chuyên sâu</h2>
+    <p>Phòng khám chuyên khoa An Đông cung cấp danh mục dịch vụ y tế phong phú, đáp ứng nhu cầu chăm sóc sức khỏe toàn diện của bệnh nhân. Các chuyên khoa nổi bật tại đây bao gồm nam khoa, phụ khoa, da liễu, hậu môn – trực tràng, bệnh xã hội và các dịch vụ kiểm tra sức khỏe định kỳ. Mỗi lĩnh vực đều được đảm nhiệm bởi các bác sĩ chuyên môn cao, sử dụng công nghệ tiên tiến để mang lại hiệu quả điều trị tối ưu.</p>
+    <h3>1. Nam khoa</h3>
+    <p>Phòng khám chuyên điều trị các bệnh lý nam khoa như liệt dương, xuất tinh sớm, viêm bàng quang, vô sinh nam, viêm niệu đạo, hẹp/dài bao quy đầu và rối loạn cương dương. Các phương pháp điều trị hiện đại như liệu pháp Plissit, công nghệ Ozone và kỹ thuật xâm lấn tối thiểu được áp dụng để đảm bảo an toàn, ít đau và rút ngắn thời gian phục hồi. Các bác sĩ không chỉ tập trung vào điều trị triệu chứng mà còn chú trọng cải thiện sức khỏe tổng thể, giúp nam giới lấy lại sự tự tin và chất lượng cuộc sống.</p>
+    <h3>2. Bệnh xã hội</h3>
+    <p>Phòng khám là địa chỉ uy tín trong việc xét nghiệm và điều trị các bệnh lây truyền qua đường tình dục như sùi mào gà (sử dụng công nghệ ALA-PDT), giang mai (liệu pháp miễn dịch cân bằng), lậu (kỹ thuật DHA) và herpes sinh dục. Các phương pháp này giúp loại bỏ tác nhân gây bệnh nhanh chóng, giảm nguy cơ tái phát và đảm bảo bảo mật thông tin tuyệt đối cho bệnh nhân.</p>
+    <p><img src="https://i.pinimg.com/736x/93/61/3b/93613b6abdb266b6f9af55a3c7577d67.jpg" alt="Dịch vụ khám chữa bệnh tại Phòng khám An Đông" width="600" height="400"></p>
+    <h3>3. Hậu môn – Trực tràng</h3>
+    <p><strong>Hậu môn – trực tràng:</strong> Phòng khám áp dụng các kỹ thuật hiện đại như HCPT và PPH để điều trị bệnh trĩ, áp xe hậu môn, rò hậu môn, nứt kẽ hậu môn và polyp hậu môn. Những phương pháp này đảm bảo ít đau, không để lại biến chứng và giúp bệnh nhân phục hồi nhanh chóng.</p>
+    h3>4. Da liễu:</h3>
+    <p>Các vấn đề về da như mụn trứng cá, chàm, vảy nến, viêm da và nấm da được điều trị bằng các công nghệ tiên tiến và phác đồ cá nhân hóa. Đội ngũ bác sĩ da liễu tại đây không chỉ chữa trị triệu chứng mà còn tư vấn cách chăm sóc da lâu dài, giúp bệnh nhân duy trì làn da khỏe mạnh.</p>
+   <h3>5. Các dịch vụ khác</h3>
+   <p>Ngoài các chuyên khoa chính, phòng khám còn cung cấp các gói khám sức khỏe định kỳ, điều trị hôi nách bằng công nghệ xâm lấn tối thiểu và các dịch vụ xét nghiệm tổng quát để phát hiện sớm các vấn đề sức khỏe.</p>
+<h2>Quy trình khám chữa bệnh nhanh gọn và chuyên nghiệp</h2>
+    <p>Phòng khám chuyên khoa An Đông áp dụng quy trình khám chữa bệnh khoa học, tinh gọn, giúp tiết kiệm thời gian và mang lại sự tiện lợi tối đa cho bệnh nhân. Quy trình được thiết kế để đảm bảo sự thoải mái, riêng tư và hiệu quả trong suốt quá trình thăm khám và điều trị.</p>
+    <p><strong>Đăng ký và đặt lịch hẹn:</strong> Bệnh nhân có thể đặt lịch khám trước qua hotline 028 7777 9888 hoặc website <a href="https://phongkhamchuyenkhoaandong.vn">phongkhamchuyenkhoaandong.vn</a>. Hệ thống đặt hẹn trực tuyến cho phép chọn khung giờ phù hợp, nhận mã số khám và giảm thời gian chờ đợi. Đội ngũ tư vấn hoạt động 24/7, sẵn sàng hỗ trợ giải đáp thắc mắc và hướng dẫn chi tiết.</p>
+    <p><strong>Tiếp nhận và khám lâm sàng:</strong> Khi đến phòng khám, bệnh nhân được đội ngũ lễ tân hướng dẫn hoàn tất thủ tục nhanh chóng. Bác sĩ sẽ tiến hành khám lâm sàng ban đầu, thu thập thông tin về tiền sử bệnh lý và triệu chứng hiện tại để đánh giá tổng quan tình trạng sức khỏe.</p>
+    <p><img src="https://i.pinimg.com/736x/b7/2f/bf/b72fbfbd8c413497f667a0afa6004e09.jpg" alt="Quy trình khám chữa bệnh tại Phòng khám An Đông" width="600" height="400"></p>
+    <p><strong>Xét nghiệm và chẩn đoán:</strong> Dựa trên kết quả khám lâm sàng, bác sĩ có thể chỉ định các xét nghiệm như máu, nước tiểu, mẫu bệnh phẩm hoặc siêu âm để xác định chính xác nguyên nhân. Với hệ thống thiết bị hiện đại, quá trình này diễn ra nhanh chóng, chính xác, giúp rút ngắn thời gian chờ kết quả.</p>
+    <p><strong>Tư vấn và điều trị:</strong> Sau khi có kết quả chẩn đoán, bác sĩ sẽ giải thích chi tiết về tình trạng bệnh, nguyên nhân, mức độ và đề xuất phác đồ điều trị phù hợp. Mọi phương pháp điều trị đều được thảo luận rõ ràng để bệnh nhân hiểu và đồng thuận trước khi tiến hành.</p>
+    <p><strong>Chăm sóc sau điều trị:</strong> Bệnh nhân được hướng dẫn chi tiết về cách chăm sóc tại nhà, chế độ dinh dưỡng và sinh hoạt để hỗ trợ quá trình hồi phục. Lịch tái khám được sắp xếp để bác sĩ theo dõi hiệu quả điều trị và điều chỉnh phác đồ nếu cần.</p>
+    <p>Quy trình này không chỉ đảm bảo hiệu quả điều trị mà còn mang lại sự thoải mái và an tâm cho bệnh nhân nhờ sự hỗ trợ tận tình từ đội ngũ y tế. Mô hình khám riêng tư giúp bệnh nhân dễ dàng chia sẻ các vấn đề sức khỏe nhạy cảm mà không lo ngại về quyền riêng tư.</p>
+<h2>Thời gian hoạt động linh hoạt và dịch vụ hỗ trợ 24/7</h2>
+    <p>Phòng khám chuyên khoa An Đông hoạt động từ 8h sáng đến 20h tối, tất cả các ngày trong tuần, kể cả cuối tuần và ngày lễ, tạo điều kiện thuận lợi cho bệnh nhân có lịch trình bận rộn. Thời gian làm việc linh hoạt giúp bệnh nhân dễ dàng sắp xếp thăm khám mà không ảnh hưởng đến công việc hay học tập. Hệ thống đặt hẹn trực tuyến qua hotline 028 7777 9888 hoặc website <a href="https://phongkhamchuyenkhoaandong.vn">phongkhamchuyenkhoaandong.vn</a> cho phép bệnh nhân chọn khung giờ phù hợp, nhận mã số khám và được ưu tiên khám ngay khi đến.</p>
+    <p>Ngoài ra, phòng khám cung cấp dịch vụ tư vấn 24/7, với đội ngũ bác sĩ và nhân viên túc trực để giải đáp thắc mắc về các bệnh lý, phương pháp điều trị hoặc chi phí. Bệnh nhân có thể liên hệ bất cứ lúc nào để nhận tư vấn sơ bộ hoặc đặt lịch khám nhanh chóng. Dịch vụ này đặc biệt hữu ích cho những người ở xa hoặc cần hỗ trợ khẩn cấp về các vấn đề sức khỏe.</p>
+    <p><img src="https://i.pinimg.com/736x/01/0f/05/010f05a6ed2716d8151f884a5c469632.jpg" alt="Dịch vụ hỗ trợ tại Phòng khám An Đông" width="600" height="400"></p>
+    <p>Đội ngũ nhân viên y tế tại Phòng khám An Đông luôn thể hiện thái độ thân thiện, chuyên nghiệp, từ khâu tiếp nhận đến chăm sóc sau điều trị. Mọi thủ tục được xử lý nhanh gọn, giúp bệnh nhân tiết kiệm thời gian và cảm thấy thoải mái trong suốt quá trình thăm khám. Sự tận tâm của đội ngũ y tế, kết hợp với hệ thống công nghệ hiện đại, giúp Phòng khám An Đông trở thành điểm đến lý tưởng cho những ai tìm kiếm dịch vụ y tế chất lượng cao tại TP.HCM.</p>
+    <p>Phòng khám cũng cam kết bảo mật thông tin tuyệt đối, với hệ thống lưu trữ hồ sơ bệnh án điện tử an toàn, chỉ sử dụng cho mục đích điều trị. Điều này đặc biệt quan trọng đối với các bệnh lý nhạy cảm, giúp bệnh nhân an tâm chia sẻ tình trạng sức khỏe mà không lo ngại về quyền riêng tư.</p>
+<h2>Phản hồi tích cực từ bệnh nhân</h2>
+    <p>Uy tín và chất lượng của Phòng khám chuyên khoa An Đông được khẳng định qua những phản hồi tích cực từ hàng ngàn bệnh nhân đã trải nghiệm dịch vụ tại đây. Nhiều người đánh giá cao sự chuyên nghiệp, tận tâm và hiệu quả trong điều trị, cùng với không gian khám chữa bệnh thân thiện, sạch sẽ.</p>
+    <p>Anh Quốc Anh (Quận 1) chia sẻ: “Tôi đã điều trị nam khoa tại Phòng khám An Đông và rất hài lòng. Bác sĩ tư vấn kỹ lưỡng, giải thích rõ ràng về tình trạng bệnh và phương pháp điều trị. Quy trình khám nhanh gọn, không phải chờ lâu, và không gian rất sạch sẽ. Tôi sẽ giới thiệu bạn bè đến đây.”</p>
+    <p>Chị Minh Thư (Quận 7) nhận xét: “Tôi từng e ngại khi đi khám phụ khoa, nhưng đội ngũ y tế tại An Đông rất thân thiện và tôn trọng sự riêng tư. Bác sĩ hướng dẫn chi tiết cách chăm sóc sau điều trị, giúp tôi hồi phục nhanh chóng. Chi phí cũng được thông báo rõ ràng ngay từ đầu, rất minh bạch.”</p>
+    <p><img src="https://i.pinimg.com/736x/61/4d/d0/614dd09ff0923beb76781533f765555f.jpg" alt="Phản hồi từ bệnh nhân tại Phòng khám An Đông" width="600" height="400"></p>
+    <p>Anh Hoàng Long (TP Thủ Đức) cho biết: “Hệ thống đặt hẹn trực tuyến rất tiện lợi, tôi chỉ cần gọi điện là được sắp xếp lịch khám ngay. Thiết bị tại phòng khám hiện đại, bác sĩ tận tâm, và nhân viên hỗ trợ rất chu đáo. Tôi cảm thấy an tâm khi điều trị ở đây.”</p>
+    <p>Những phản hồi này không chỉ là minh chứng cho chất lượng dịch vụ mà còn là động lực để Phòng khám An Đông tiếp tục cải thiện và phát triển, mang lại trải nghiệm y tế tốt nhất cho bệnh nhân. Sự hài lòng của bệnh nhân chính là thước đo thành công của phòng khám, giúp An Đông ngày càng khẳng định vị thế trong lĩnh vực y tế tại TP.HCM.</p>
+
+    <div class="contact-info">
+        <h2>Thông tin liên hệ</h2>
+        <p><strong>Phòng khám chuyên khoa An Đông</strong></p>
+        <p><strong>Địa chỉ:</strong> 360 Đường An Dương Vương, Phường Chợ Quán, TPHCM</p>
+        <p><strong>Hotline:</strong> 028 7777 9888</p>
+        <p><strong>Website:</strong> <a href="https://phongkhamchuyenkhoaandong.vn">phongkhamchuyenkhoaandong.vn</a></p>
+        <p><strong>Thời gian làm việc:</strong> 8h – 20h, tất cả các ngày trong tuần (bao gồm lễ, Tết)</p>
+    </div>
+
+    <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+</body>
+</html>
+    `;
+}
