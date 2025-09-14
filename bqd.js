@@ -397,7 +397,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2856/chi-phi-cat-bao-quy-dau.html
 
 <p>Phòng khám đầu tư mạnh vào máy móc nhập khẩu từ Mỹ, Đức và Nhật Bản, đảm bảo độ chính xác cao và giảm thiểu rủi ro. Không gian thủ thuật luôn vô trùng theo tiêu chuẩn quốc tế, với hệ thống lọc không khí HEPA và dụng cụ dùng một lần. Quy trình được chuẩn hóa từ khám ban đầu, gây tê đến theo dõi sau mổ, giúp bệnh nhân thoải mái và an tâm. Nếu có sự cố, đội ngũ sẵn sàng xử lý ngay lập tức, giảm thiểu biến chứng xuống mức gần như zero.</p>
 
-<h3>Phương pháp cắt bằng máy Surkon: Ưu điểm vượt trội</h3>
+<h3>Ưu điểm vượt trội của phương pháp cắt bằng máy Surkon: </h3>
 <p><img src="https://andongclinic.vn/ckfinder/userfiles/images/Phuong-phap-dieu-tri/may-surkon.jpg" alt="Tại sao cần phải cắt bao quy đầu?<" width="600" height="400"></p>
 <p>An Đông áp dụng độc quyền kỹ thuật cắt bao quy đầu bằng máy Surkon, được các tổ chức y tế quốc tế như FDA chứng nhận. Phương pháp này tích hợp cắt và khâu tự động, mang lại nhiều lợi ích:</p>
 
@@ -416,7 +416,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2856/chi-phi-cat-bao-quy-dau.html
 
 <p>Phòng khám An Đông nổi bật với dịch vụ chăm sóc chu đáo, từ tư vấn miễn phí đến hỗ trợ tái khám. Chi phí niêm yết công khai, hợp lý và không phát sinh ẩn. Thông tin bệnh nhân được bảo mật tuyệt đối theo luật HIPAA. Thủ tục nhanh gọn, chỉ 5-10 phút đăng ký, phù hợp với lịch trình bận rộn.</p>
 
-<p>Để đăng ký, liên hệ Hotline: 0968 063 109 hoặc 028 7777 9888, hoặc đến trực tiếp An Dương Vương, P.4, Q.5, TPHCM. Cắt bao quy đầu tại An Đông là lựa chọn thông minh cho sức khỏe bền vững.</p>
+<p>Để đăng ký, liên hệ Hotline: 0968 063 109 hoặc 028 7777 9888, hoặc đến trực tiếp An Dương Vương, Phường Chợ Quán, TPHCM. Cắt bao quy đầu tại An Đông là lựa chọn thông minh cho sức khỏe bền vững.</p>
 <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
     <div class="chat">
         <a target="_blank" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" rel="nofollow">
