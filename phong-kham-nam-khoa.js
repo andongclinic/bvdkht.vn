@@ -11,11 +11,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2861/10-benh-vien-phong-kham-nam-
         <meta content="danh sách bệnh viện nam khoa tphcm, phòng khám nam khoa uy tín tphcm, bệnh viện nam khoa tốt tphcm, phòng khám nam khoa chất lượng tphcm, địa chỉ khám nam khoa tphcm, bệnh viện chữa bệnh nam khoa tphcm, bác sĩ nam khoa tphcm, phòng khám nam khoa ngoài giờ tphcm, bệnh viện nam khoa uy tín tphcm, khám nam khoa tphcm" name="keywords">
         <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
         <style>
-        .highlight-box { border: 1px solid #99BADD; padding: 15px; background: #F6F9FC; border-radius: 5px; }
-        .warning-box { border: 2px dashed #336699; padding: 15px; background: #EAF1F7; border-radius: 5px; }
-        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
-        th, td { border: 1px solid #99BADD; padding: 10px; text-align: left; }
-        th { background: #EAF1F7; color: #003366; }
+        .contact-info { background: #f1f1f1; padding: 10px; border-radius: 5px; }
     </style>
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Danh sách 10 bệnh viện và phòng khám nam khoa uy tín tại TPHCM","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.6","ratingCount":"966","bestRating":"10","worstRating":"1"}}
@@ -157,4 +153,5 @@ if (crurl.includes("https://bvdkht.vn/feedback/2861/10-benh-vien-phong-kham-nam-
 </body>
 </html>
     `;
+
 }
