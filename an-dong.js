@@ -458,7 +458,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
   <li><a href="https://bvdkht.vn/feedback/2849/phong-kham-an-dong.html">https://bvdkht.vn/feedback/2849/phong-kham-an-dong.html</a></li>
   <li><a href="https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-khoa-an-dong.html">https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-khoa-an-dong.html</a></li>
   <li><a href="https://bvdkht.vn/feedback/2849/gioi-thieu-phong-kham-chuyen-khoa-an-dong.html">https://bvdkht.vn/feedback/2849/gioi-thieu-phong-kham-chuyen-khoa-an-dong.html</a></li>
-  <li><a href="https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-dong-uy-tin-tai-tphcm.html</a></li>
+  <li><a href="https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-dong-uy-tin-tai-tphcm.html">https://bvdkht.vn/feedback/2849/gioi-thieu-phong-kham-chuyen-khoa-an-dong.html</a></li>
 </ul>
 <h2>Dịch vụ khám chữa bệnh đa dạng và chuyên sâu</h2>
     <p>Phòng khám chuyên khoa An Đông cung cấp danh mục dịch vụ y tế phong phú, đáp ứng nhu cầu chăm sóc sức khỏe toàn diện của bệnh nhân. Các chuyên khoa nổi bật tại đây bao gồm nam khoa, phụ khoa, da liễu, hậu môn – trực tràng, bệnh xã hội và các dịch vụ kiểm tra sức khỏe định kỳ. Mỗi lĩnh vực đều được đảm nhiệm bởi các bác sĩ chuyên môn cao, sử dụng công nghệ tiên tiến để mang lại hiệu quả điều trị tối ưu.</p>
