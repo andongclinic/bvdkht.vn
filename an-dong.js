@@ -538,6 +538,22 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/vi-sao-chon-phong-kham-chuye
 <h1 style="text-align: center;">Vì sao nhiều người chọn Phòng khám Chuyên khoa An Đông là nơi chọn mặt gửi vàng?</h1>
 <p>Phòng khám chuyên khoa An Đông, tọa lạc tại <strong>360 An Dương Vương, Phường Chợ Quán, TP.HCM</strong> là một trong những cơ sở y tế tư nhân hàng đầu, được đông đảo bệnh nhân tin chọn khi cần chăm sóc sức khỏe.</p>
     <p>Với thế mạnh vượt trội ở các chuyên khoa như nam khoa, da liễu, nội khoa tổng quát và bệnh xã hội, phòng khám mang đến dịch vụ khám chữa bệnh hiệu quả, an toàn và chuyên nghiệp. Được xây dựng theo quy chuẩn y tế quốc tế, An Đông không ngừng cải tiến để cung cấp các dịch vụ y tế chất lượng cao, hướng tới mục tiêu trở thành phòng khám chuyên khoa hàng đầu tại TP.HCM. Để đặt lịch khám nhanh chóng, hãy liên hệ qua hotline <strong>02877779888</strong> hoặc truy cập <a href="https://phongkhamchuyenkhoaandong.vn">phongkhamchuyenkhoaandong.vn</a>.</p>
+<ul>
+  <li><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/dat-hen-truc-tuyen-tai-phong-kham-an-dong-tien-loi-nhanh-chong-va-bao-mat-post1226719.vov" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://tuoitre.vn/dich-vu-dat-hen-truc-tuyen-cua-phong-kham-chuyen-khoa-an-dong-quan-5-20250624173143567.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-an-dong-phuong-cho-quan-dia-chi-tham-kham-nam-khoa-post1216277.vov" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-an-dong-luon-dat-chat-luong-dich-vu-va-su-hai-long-cua-khach-hang-len-hang-dau_172534.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-da-khoa-an-dong-uy-tin-tan-tam-vi-suc-khoe-cong-dong_177951.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vneconomy.vn/phong-kham-da-khoa-an-dong-co-tot-khong.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://dantri.com.vn/suc-khoe/phong-kham-an-dong-dia-chi-cham-soc-suc-khoe-tai-tphcm-20241218202022715.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vtcnews.vn/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-ar931025.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://baomoi.com/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-c51686139.epi" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://www.nguoiduatin.vn/phong-kham-an-dong-360-d-an-duong-vuong-phuong-4-quan-5-20424121910463483.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://tinmoi.vn/dich-vu-dat-hen-cong-nghe-cao-cua-phong-kham-chuyen-khoa-an-dong-quan-5-d330-011640161.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://ngoisao.vn/suc-khoe/cham-soc-suc-khoe/phong-kham-an-dong-360-dong-hanh-cung-ban-tren-hanh-trinh-suc-khoe-455403.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vnreview.vn/threads/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban.62882/" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://doisongvietnam.vn/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban-157334-6.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+</ul>
 <h2>Đội ngũ bác sĩ chuyên môn cao, tận tâm với bệnh nhân</h2>
     <p>Phòng khám chuyên khoa An Đông được thành lập bởi ban lãnh đạo có tầm nhìn chiến lược, cùng đội ngũ bác sĩ giàu tâm huyết và trình độ chuyên môn cao. Với sứ mệnh “Vì bệnh nhân phục vụ – Lấy chất lượng hàng đầu”, các bác sĩ tại đây luôn đặt lợi ích của bệnh nhân lên trên hết. Đội ngũ y bác sĩ được đào tạo bài bản tại các trường y danh tiếng trong và ngoài nước, sở hữu nhiều năm kinh nghiệm trong các lĩnh vực như nam khoa, da liễu, nội khoa và bệnh xã hội. Họ thường xuyên tham gia các khóa đào tạo quốc tế để cập nhật kiến thức và kỹ thuật y khoa tiên tiến, đảm bảo chẩn đoán chính xác và điều trị hiệu quả.</p>
     <p><img src="https://i.pinimg.com/736x/ff/94/82/ff94820ef0b87f7e8e856f72dda4a775.jpg" alt="Phòng khám Chuyên khoa An Đông" width="600" height="400"></p>
