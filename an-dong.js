@@ -670,18 +670,10 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
     <p>🔸 <strong>Da liễu:</strong> Chăm sóc và điều trị các bệnh lý về da như mụn, nám, tàn nhang, viêm da và vảy nến, mang lại làn da khỏe mạnh cho bệnh nhân.</p>
     <p>🔸 <strong>Xét nghiệm – chẩn đoán hình ảnh:</strong> Cung cấp kết quả xét nghiệm máu, siêu âm và chẩn đoán hình ảnh nhanh chóng, chính xác, hỗ trợ hiệu quả cho quá trình điều trị.</p>
 <h2>Phản hồi từ bệnh nhân về Phòng khám chuyên khoa An Đông</h2>
-    <p>Phòng khám chuyên khoa An Đông nhận được nhiều đánh giá tích cực từ bệnh nhân nhờ chất lượng dịch vụ và sự tận tâm của đội ngũ y tế. Dưới đây là một số phản hồi thực tế:</p>
-    <div style="
-    background-color: #ffe6e6; 
-    border-top: 1px solid red; 
-    border-bottom: 1px solid red; 
-    padding: 15px; 
-    font-family: Arial, sans-serif;
-">
-    <p><strong>Anh Nam (Quận 1):</strong> “Tôi khám nam khoa tại An Đông và rất ấn tượng với thái độ tận tình của bác sĩ. Quy trình nhanh gọn, chi phí được thông báo rõ ràng, không phát sinh thêm.”</p>
-    <p><strong>Chị Linh (Tân Bình):</strong> “Phòng khám sạch sẽ, thoáng mát, nhân viên hỗ trợ nhiệt tình. Tôi điều trị bệnh da liễu ở đây và thấy kết quả rất tốt, sẽ tiếp tục quay lại.”</p>
-    <p><strong>Anh Hùng (Bình Thạnh):</strong> “Đặt lịch qua hotline 02877779888 rất tiện, bác sĩ giải thích kỹ càng, giúp tôi hiểu rõ tình trạng bệnh. Dịch vụ ngoài giờ rất phù hợp với người bận rộn như tôi.”</p>
-</div>
+<p>Phòng khám chuyên khoa An Đông nhận được nhiều đánh giá tích cực từ bệnh nhân nhờ chất lượng dịch vụ và sự tận tâm của đội ngũ y tế. Dưới đây là một số phản hồi thực tế:</p>
+<p><strong>Anh Nam (Quận 1):</strong> “Tôi khám nam khoa tại An Đông và rất ấn tượng với thái độ tận tình của bác sĩ. Quy trình nhanh gọn, chi phí được thông báo rõ ràng, không phát sinh thêm.”</p>
+<p><strong>Chị Linh (Tân Bình):</strong> “Phòng khám sạch sẽ, thoáng mát, nhân viên hỗ trợ nhiệt tình. Tôi điều trị bệnh da liễu ở đây và thấy kết quả rất tốt, sẽ tiếp tục quay lại.”</p>
+<p><strong>Anh Hùng (Bình Thạnh):</strong> “Đặt lịch qua hotline 02877779888 rất tiện, bác sĩ giải thích kỹ càng, giúp tôi hiểu rõ tình trạng bệnh. Dịch vụ ngoài giờ rất phù hợp với người bận rộn như tôi.”</p>
 <p>Những phản hồi này khẳng định uy tín và chất lượng của An Đông, từ không gian, dịch vụ đến hiệu quả điều trị.</p>
 <h2>Thông tin liên hệ Phòng khám chuyên khoa An Đông</h2>
     <p>Nếu bạn đang tìm kiếm một địa chỉ y tế ngoài giờ uy tín tại TP.HCM, Phòng khám chuyên khoa An Đông là lựa chọn lý tưởng. Với đội ngũ bác sĩ tận tâm, cơ sở vật chất hiện đại, chi phí minh bạch và lịch làm việc linh hoạt, An Đông cam kết mang đến trải nghiệm y tế chất lượng cao. Hãy liên hệ ngay để đặt lịch khám hoặc nhận tư vấn miễn phí qua các cách sau:</p>
