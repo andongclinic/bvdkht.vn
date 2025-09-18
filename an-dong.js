@@ -625,7 +625,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
 <div class="header" style="display: flex; justify-content: center;">
     <div class="logo"> <a href="#"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
         <div id="content">
-<h1>Phòng khám chuyên khoa An Đông – Cơ sở y tế khám ngoài giờ chất lượng</h1>
+<h1  style="text-align: center;">Phòng khám chuyên khoa An Đông – Cơ sở y tế khám ngoài giờ chất lượng</h1>
 <p><a href="https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-dong-kham-ngoai-gio.html">Phòng khám chuyên khoa An Đông</a></strong> ở <span style="color:red";>360 An Dương Vương, Phường Chợ Quán</span> là một trong những cơ sở y tế tư nhân uy tín, mang đến dịch vụ chăm sóc sức khỏe chất lượng cao cho người dân TP.HCM và các khu vực lân cận. Đây là lựa chọn lý tưởng cho những ai cần dịch vụ y tế ngoài giờ hành chính, với sự tận tâm và chất lượng được đặt lên hàng đầu.</p>
 <h2>Lợi ích khi lựa chọn phòng khám chuyên khoa An Đông ngoài giờ</h2>
     <p>Trong nhịp sống hối hả của TP.HCM, việc sắp xếp thời gian để đến các bệnh viện công trong giờ hành chính thường là thách thức đối với nhiều người. Hiểu được điều này, Phòng khám chuyên khoa An Đông đã thiết kế lịch làm việc linh hoạt từ <strong>8h sáng đến 20h tối, tất cả các ngày trong tuần, kể cả lễ và Tết</strong>. Điều này giúp bệnh nhân dễ dàng sắp xếp lịch khám mà không ảnh hưởng đến công việc hay cuộc sống cá nhân. Dịch vụ khám ngoài giờ tại An Đông không chỉ tiện lợi mà còn đảm bảo chất lượng tương đương giờ hành chính, với đội ngũ bác sĩ tận tâm và quy trình khám chữa bệnh khoa học, nhanh chóng. Bệnh nhân có thể đặt lịch khám dễ dàng qua hotline <strong>02877779888</strong> hoặc website chính thức, mang lại sự thuận tiện tối đa.</p>
@@ -684,7 +684,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
     <p><strong>Thời gian làm việc:</strong> 8:00-20:00, tất cả các ngày, kể cả lễ và Tết</p>
     <p><strong>Hotline:</strong> 02877779888</p>
     <p><strong>Website:</strong> <a href="https://phongkhamchuyenkhoaandong.vn">phongkhamchuyenkhoaandong.vn</a></p>
-
+    
     <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
     <div class="chat">
         <a target="_blank" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" rel="nofollow">
