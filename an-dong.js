@@ -635,20 +635,20 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
     <p>✅ Thủ tục nhanh gọn, quy trình khoa học: Từ khâu tiếp nhận, đăng ký đến khám và điều trị, mọi bước đều được tối ưu hóa để tiết kiệm thời gian. Bệnh nhân được hướng dẫn chi tiết, đảm bảo trải nghiệm y tế mượt mà và hiệu quả.</p>
     <p>✅ Dịch vụ y tế cao cấp: Dù khám ngoài giờ, bệnh nhân vẫn được phục vụ bởi đội ngũ bác sĩ chuyên môn cao, sẵn sàng lắng nghe và tư vấn tận tình, không thu thêm phí ngoài giờ.</p>
 <ul>
-  <li><a href=""https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/dat-hen-truc-tuyen-tai-phong-kham-an-dong-tien-loi-nhanh-chong-va-bao-mat-post1226719.vov"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://tuoitre.vn/dich-vu-dat-hen-truc-tuyen-cua-phong-kham-chuyen-khoa-an-dong-quan-5-20250624173143567.htm"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-an-dong-phuong-cho-quan-dia-chi-tham-kham-nam-khoa-post1216277.vov"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://congan.com.vn/doi-song/suc-khoe/phong-kham-an-dong-luon-dat-chat-luong-dich-vu-va-su-hai-long-cua-khach-hang-len-hang-dau_172534.html"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://congan.com.vn/doi-song/suc-khoe/phong-kham-da-khoa-an-dong-uy-tin-tan-tam-vi-suc-khoe-cong-dong_177951.html"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://vneconomy.vn/phong-kham-da-khoa-an-dong-co-tot-khong.htm"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://dantri.com.vn/suc-khoe/phong-kham-an-dong-dia-chi-cham-soc-suc-khoe-tai-tphcm-20241218202022715.htm"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://vtcnews.vn/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-ar931025.html"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://baomoi.com/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-c51686139.epi"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://www.nguoiduatin.vn/phong-kham-an-dong-360-d-an-duong-vuong-phuong-4-quan-5-20424121910463483.htm"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://tinmoi.vn/dich-vu-dat-hen-cong-nghe-cao-cua-phong-kham-chuyen-khoa-an-dong-quan-5-d330-011640161.html"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://ngoisao.vn/suc-khoe/cham-soc-suc-khoe/phong-kham-an-dong-360-dong-hanh-cung-ban-tren-hanh-trinh-suc-khoe-455403.htm"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://vnreview.vn/threads/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban.62882/"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
-  <li><a href=""https://doisongvietnam.vn/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban-157334-6.html"" target=""_blank"">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/dat-hen-truc-tuyen-tai-phong-kham-an-dong-tien-loi-nhanh-chong-va-bao-mat-post1226719.vov" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://tuoitre.vn/dich-vu-dat-hen-truc-tuyen-cua-phong-kham-chuyen-khoa-an-dong-quan-5-20250624173143567.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-an-dong-phuong-cho-quan-dia-chi-tham-kham-nam-khoa-post1216277.vov" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-an-dong-luon-dat-chat-luong-dich-vu-va-su-hai-long-cua-khach-hang-len-hang-dau_172534.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-da-khoa-an-dong-uy-tin-tan-tam-vi-suc-khoe-cong-dong_177951.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vneconomy.vn/phong-kham-da-khoa-an-dong-co-tot-khong.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://dantri.com.vn/suc-khoe/phong-kham-an-dong-dia-chi-cham-soc-suc-khoe-tai-tphcm-20241218202022715.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vtcnews.vn/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-ar931025.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://baomoi.com/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-c51686139.epi" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://www.nguoiduatin.vn/phong-kham-an-dong-360-d-an-duong-vuong-phuong-4-quan-5-20424121910463483.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://tinmoi.vn/dich-vu-dat-hen-cong-nghe-cao-cua-phong-kham-chuyen-khoa-an-dong-quan-5-d330-011640161.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://ngoisao.vn/suc-khoe/cham-soc-suc-khoe/phong-kham-an-dong-360-dong-hanh-cung-ban-tren-hanh-trinh-suc-khoe-455403.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vnreview.vn/threads/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban.62882/" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://doisongvietnam.vn/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban-157334-6.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
 </ul>
 <h2>Ưu điểm nổi trội của Phòng khám chuyên khoa An Đông</h2>
     <p>Phòng khám chuyên khoa An Đông là cơ sở y tế tư nhân được Sở Y tế TP.HCM cấp phép hoạt động hợp pháp, chuyên cung cấp dịch vụ khám và điều trị các bệnh lý như nam khoa, bệnh xã hội, da liễu, nội khoa tổng quát và xét nghiệm – chẩn đoán hình ảnh. Với hơn nhiều năm hoạt động, phòng khám đã xây dựng được uy tín vững chắc nhờ vào chất lượng dịch vụ và sự tận tâm với bệnh nhân.</p>
