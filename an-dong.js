@@ -677,8 +677,16 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
     <p>Những phản hồi này khẳng định uy tín và chất lượng của An Đông, từ không gian, dịch vụ đến hiệu quả điều trị.</p>
 <h2>Thông tin liên hệ Phòng khám chuyên khoa An Đông</h2>
     <p>Nếu bạn đang tìm kiếm một địa chỉ y tế ngoài giờ uy tín tại TP.HCM, Phòng khám chuyên khoa An Đông là lựa chọn lý tưởng. Với đội ngũ bác sĩ tận tâm, cơ sở vật chất hiện đại, chi phí minh bạch và lịch làm việc linh hoạt, An Đông cam kết mang đến trải nghiệm y tế chất lượng cao. Hãy liên hệ ngay để đặt lịch khám hoặc nhận tư vấn miễn phí qua các cách sau:</p>
-    <p><strong>Cách 1:</strong> Gọi trực tiếp đến hotline <strong>02877779888</strong> để trao đổi với bác sĩ hoặc nhân viên tư vấn.</p>
-    <p><strong>Cách 2:</strong> Truy cập website phongkhamchuyenkhoaandong.vn để đặt lịch khám trực tuyến hoặc để lại câu hỏi.</p>
+    <div style="
+    background-color: #cce5ff; 
+    border: 2px dashed #004085; 
+    padding: 15px; 
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+">
+    <p><strong>Cách 1:</strong> Gọi trực tiếp đến hotline <a href="tel:02877779888">02877779888</a> để trao đổi với bác sĩ hoặc nhân viên tư vấn.</p>
+    <p><strong>Cách 2:</strong> Truy cập website <a href="https://phongkhamchuyenkhoaandong.vn" target="_blank">phongkhamchuyenkhoaandong.vn</a> để đặt lịch khám trực tuyến hoặc để lại câu hỏi.</p>
+</div>
     <p><strong><span style="color:red;">Công ty TNHH Phòng khám Chuyên khoa An Đông</span></strong></p>
     <p><strong>Địa chỉ:</strong> 360 An Dương Vương, Phường Chợ Quán, Quận 5, TP.HCM</p>
     <p><strong>Thời gian làm việc:</strong> 8:00-20:00, tất cả các ngày, kể cả lễ và Tết</p>
