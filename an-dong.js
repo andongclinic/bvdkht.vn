@@ -668,7 +668,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
     <p>🔸 <strong>Bệnh xã hội:</strong> Chẩn đoán và điều trị các bệnh lây truyền qua đường tình dục như lậu, giang mai, sùi mào gà và mụn rộp sinh dục, với công nghệ tiên tiến và bảo mật tuyệt đối.</p>
     <p><img src="https://i.pinimg.com/736x/52/df/35/52df35b102945251abd2031f687bceba.jpg" alt="Phòng khám Chuyên khoa An Đông" width="600" height="400"></p>
     <p>🔸 <strong>Da liễu:</strong> Chăm sóc và điều trị các bệnh lý về da như mụn, nám, tàn nhang, viêm da và vảy nến, mang lại làn da khỏe mạnh cho bệnh nhân.</p>
-    <p><strong>Xét nghiệm – chẩn đoán hình ảnh:</strong> Cung cấp kết quả xét nghiệm máu, siêu âm và chẩn đoán hình ảnh nhanh chóng, chính xác, hỗ trợ hiệu quả cho quá trình điều trị.</p>
+    <p>🔸 <strong>Xét nghiệm – chẩn đoán hình ảnh:</strong> Cung cấp kết quả xét nghiệm máu, siêu âm và chẩn đoán hình ảnh nhanh chóng, chính xác, hỗ trợ hiệu quả cho quá trình điều trị.</p>
 <h2>Phản hồi từ bệnh nhân về Phòng khám chuyên khoa An Đông</h2>
     <p>Phòng khám chuyên khoa An Đông nhận được nhiều đánh giá tích cực từ bệnh nhân nhờ chất lượng dịch vụ và sự tận tâm của đội ngũ y tế. Dưới đây là một số phản hồi thực tế:</p>
     <p><strong>Anh Nam (Quận 1):</strong> “Tôi khám nam khoa tại An Đông và rất ấn tượng với thái độ tận tình của bác sĩ. Quy trình nhanh gọn, chi phí được thông báo rõ ràng, không phát sinh thêm.”</p>
