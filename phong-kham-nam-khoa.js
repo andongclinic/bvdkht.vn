@@ -197,13 +197,13 @@ if (crurl.includes("https://bvdkht.vn/feedback/2861/chi-phi-kham-nam-khoa-tphcm.
         <p dir="ltr">Đầu tiên, bác sĩ sẽ đo lường các chỉ số cơ bản như chiều cao, cân nặng, áp suất máu, nhịp tim. Quan trọng là thu thập thông tin chi tiết về lịch sử bệnh cá nhân và gia đình, lối sống (hút thuốc, uống rượu, dinh dưỡng), và các dấu hiệu bất thường (nếu có).</p>
         <h3 dir="ltr">Bước 2: Kiểm tra chi tiết bộ phận sinh dục</h3>
         <p dir="ltr">Đây là giai đoạn quan trọng trong quá trình khám nam khoa. Bác sĩ sẽ quan sát bên ngoài cơ quan sinh dục, gồm dương vật, lớp da quy đầu, túi tinh, và ống dẫn tinh. Mục tiêu là phát hiện tổn thương, dị dạng bẩm sinh, khối u, hoặc dấu hiệu nhiễm trùng. Việc này giúp đánh giá tình trạng hẹp/dài da quy đầu, nhận biết sớm bệnh xã hội hoặc ung thư túi tinh.</p>
-        <p dir="ltr"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.pinimg.com/736x/4e/fe/a9/4efea998b6f4621f6607e4022166f726.jpg" alt="Hình ảnh Ghim câu chuyện"></p>
+        <p dir="ltr"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.pinimg.com/736x/4e/fe/a9/4efea998b6f4621f6607e4022166f726.jpg" alt="Khám nam khoa ở TPHCM hết bao nhiêu tiền?"></p>
         <h3 dir="ltr">Bước 3: Các xét nghiệm hỗ trợ cần thiết</h3>
         <p dir="ltr">Sau kiểm tra lâm sàng, bác sĩ sẽ yêu cầu các xét nghiệm phù hợp dựa trên tình trạng sức khỏe. Các loại phổ biến thường là:</p>
         <p dir="ltr">✜ Xét nghiệm máu và nước tiểu: Đánh giá hoạt động gan, thận, lượng đường, và tìm dấu hiệu nhiễm trùng.</p>
-        <p dir="ltr">✜Xét nghiệm tinh trùng: Dành cho nam giới muốn kiểm tra khả năng sinh con hoặc nghi ngờ vô sinh.</p>
-        <p dir="ltr">✜Xét nghiệm bệnh xã hội: Kiểm tra các bệnh lây qua tình dục như mụn cóc, lậu, giang mai, HIV, v.v.</p>
-        <p dir="ltr">✜Siêu âm: Siêu âm túi tinh, tuyến tiền liệt hoặc hệ niệu để tìm tổn thương nội bộ.</p>
+        <p dir="ltr">✜ Xét nghiệm tinh trùng: Dành cho nam giới muốn kiểm tra khả năng sinh con hoặc nghi ngờ vô sinh.</p>
+        <p dir="ltr">✜ Xét nghiệm bệnh xã hội: Kiểm tra các bệnh lây qua tình dục như mụn cóc, lậu, giang mai, HIV, v.v.</p>
+        <p dir="ltr">✜ Siêu âm: Siêu âm túi tinh, tuyến tiền liệt hoặc hệ niệu để tìm tổn thương nội bộ.</p>
         <p dir="ltr">Quá trình kiểm tra và xét nghiệm kỹ lưỡng này là nền tảng khoa học để bác sĩ chẩn đoán chính xác và lập kế hoạch điều trị tối ưu, trực tiếp ảnh hưởng đến chi phí khám nam khoa.</p>
         <h2 dir="ltr">Mức giá khám nam khoa tại TP.HCM: Các yếu tố quyết định phí</h2>
         <p dir="ltr">Nhiều quý ông thắc mắc khám nam khoa ở TP.HCM tốn bao nhiêu hoặc mức giá khám nam khoa TP.HCM là thế nào. Thực ra, mức giá khám nam khoa tại TP.HCM không cố định mà biến động theo nhiều yếu tố chính:</p>
@@ -213,7 +213,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2861/chi-phi-kham-nam-khoa-tphcm.
         <p dir="ltr"><strong>Khám khi có dấu hiệu/bệnh</strong>: Nếu có triệu chứng nghiêm trọng (như đau túi tinh, tiểu khó, tiết dịch niệu đạo) hoặc đã chẩn đoán bệnh (như viêm tuyến tiền liệt, rối loạn cương), phí sẽ tăng đáng kể. Lý do là cần thêm xét nghiệm chuyên sâu (ví dụ: cấy vi khuẩn, xét nghiệm hormone, soi nội) và thời gian tư vấn kéo dài hơn.</p>
         <h3 dir="ltr">2. Vị trí và chất lượng cơ sở y tế</h3>
         <p dir="ltr">Phí khám nam khoa ở các bệnh viện công lớn (như Bệnh viện Bình Dân, Bệnh viện Chợ Rẫy) thường rẻ hơn so với bệnh viện quốc tế hoặc phòng khám chuyên khoa tư nhân chất lượng.</p>
-        <p dir="ltr"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.pinimg.com/736x/7a/21/34/7a2134029abde5c747154abb30f3fdab.jpg" alt="Hình ảnh Ghim câu chuyện"></p>
+        <p dir="ltr"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.pinimg.com/736x/7a/21/34/7a2134029abde5c747154abb30f3fdab.jpg" alt="Khám nam khoa ở TPHCM hết bao nhiêu tiền?"></p>
         <p dir="ltr"><strong>Bệnh viện công</strong>: Phí thấp nhưng thường đông đúc và chờ đợi lâu.</p>
         <p dir="ltr"><strong>Phòng khám chuyên khoa/bệnh viện quốc tế</strong>: Phí cao hơn nhưng bù lại dịch vụ cao cấp, thiết bị hiện đại, bác sĩ giỏi, và đặc biệt là sự riêng tư, thoải mái khi khám.</p>
         <h3 dir="ltr">3. Gói khám và yêu cầu cá nhân</h3>
@@ -225,12 +225,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2861/chi-phi-kham-nam-khoa-tphcm.
         <p dir="ltr">Để có cái nhìn rõ nét hơn về mức giá khám nam khoa ở TP.HCM, dưới đây là chi phí tham khảo tại vài cơ sở chất lượng (Chú ý: các mức này chỉ ước lượng và có thể thay đổi theo thời gian và dịch vụ):</p>
         <h3 dir="ltr">1. BỆNH VIỆN BÌNH DÂN</h3>
         <p dir="ltr">Mức phí ước tính: Khoảng 300.000 – 500.000 VNĐ (chỉ phí khám và vài xét nghiệm cơ bản).</p>
-
-<grok-card data-id="b52905" data-type="image_card"></grok-card>
-
-
-
-<grok-card data-id="f805a2" data-type="image_card"></grok-card>
 
         <p dir="ltr">Ưu điểm: Uy tín cao, đội ngũ chuyên gia Nam học hàng đầu.</p>
         <p dir="ltr">Nhược điểm: Thường đông bệnh nhân, chờ đợi lâu.</p>
@@ -250,8 +244,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2861/chi-phi-kham-nam-khoa-tphcm.
         <h3 dir="ltr">5. PHÒNG KHÁM CHUYÊN KHOA AN ĐÔNG</h3>
         <p dir="ltr"><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-an-dong-phuong-cho-quan-dia-chi-tham-kham-nam-khoa-post1216277.vov"><strong>Phòng khám Chuyên khoa An Đông</strong></a> là một địa chỉ khám nam khoa tư nhân đáng tin, đã được Sở Y tế cấp phép, đảm bảo chất lượng và an toàn. Phòng khám cung cấp gói khám nam khoa với mức phí khám nam khoa tại TP.HCM phải chăng, giúp nhiều nam giới dễ dàng tiếp cận dịch vụ y tế tốt.</p>
         <p dir="ltr">
-
-<grok-card data-id="b48df8" data-type="image_card"></grok-card>
 
 </p>
         <p dir="ltr">Điểm mạnh của phòng khám là đội ngũ bác sĩ chuyên môn cao, kinh nghiệm phong phú, luôn cập nhật kiến thức y khoa mới, từ đó giải quyết hiệu quả các vấn đề nhạy cảm ở nam giới. Ngoài ra, Phòng khám Chuyên khoa An Đông có không gian khám hiện đại, sạch sẽ và chú trọng quyền riêng tư, giúp bệnh nhân cảm thấy dễ chịu và không e ngại khi khám.</p>
@@ -280,3 +272,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/2861/chi-phi-kham-nam-khoa-tphcm.
     `;
 
 }
+
