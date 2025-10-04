@@ -722,7 +722,9 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-k
     </head>
     <body>
 <div class="header" style="display: flex; justify-content: center;">
-<style>
+    <div class="logo"> <a href="#"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+        <div id="content">
+<h1  style="text-align: center;">Công ty TNHH Phòng khám Chuyên khoa An Đông chăm sóc sức khỏe toàn diện TP.HCM</h1>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.7;
