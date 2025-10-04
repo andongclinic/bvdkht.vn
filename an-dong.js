@@ -725,15 +725,11 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-k
     <div class="logo"> <a href="#"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
         <div id="content">
 <h1  style="text-align: center;">Công ty TNHH Phòng khám Chuyên khoa An Đông chăm sóc sức khỏe toàn diện TP.HCM</h1>
-    <div class="container">
-        <section id="intro">
-            <h2>Giới thiệu về Công ty TNHH Phòng khám Chuyên khoa An Đông</h2>
             <p>Nằm tại <strong>360 An Dương Vương, Phường Chợ Quán, TP.HCM</strong>, <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> là một trong những cơ sở y tế hàng đầu tại TP.HCM, được đông đảo người dân tin tưởng lựa chọn khi cần chăm sóc sức khỏe trong các lĩnh vực như <strong>nam khoa</strong>, <strong>bệnh xã hội</strong>, <strong>da liễu</strong>, và <strong>hậu môn - trực tràng</strong>. Với sứ mệnh mang đến dịch vụ y tế chất lượng cao, phòng khám không ngừng cải tiến để đáp ứng nhu cầu ngày càng cao của bệnh nhân.</p>
             <p>Được thành lập với mục tiêu cung cấp dịch vụ y tế toàn diện, phòng khám chú trọng vào việc xây dựng một môi trường khám chữa bệnh chuyên nghiệp, thân thiện và hiệu quả. Tại đây, bệnh nhân được phục vụ bởi đội ngũ bác sĩ giàu kinh nghiệm, cơ sở vật chất hiện đại, và các công nghệ điều trị tiên tiến. Đặc biệt, <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> cam kết mang đến trải nghiệm y tế tốt nhất với chi phí minh bạch, quy trình nhanh gọn, và dịch vụ tư vấn tận tình.</p>
             <p>Để thuận tiện cho bệnh nhân, phòng khám cung cấp hệ thống đặt lịch khám trực tuyến qua <a href="tel:02877779888">hotline 028 7777 9888</a>, website, hoặc Zalo. Điều này giúp tiết kiệm thời gian, đặc biệt với những người bận rộn, đồng thời mang lại các ưu đãi hấp dẫn khi đặt lịch trước.</p>
             <img src="https://i.pinimg.com/736x/ff/94/82/ff94820ef0b87f7e8e856f72dda4a775.jpg" alt="Mặt tiền Công ty TNHH Phòng khám Chuyên khoa An Đông">
-            <p>Với vị trí trung tâm tại Quận 5, phòng khám dễ dàng tiếp cận từ nhiều khu vực trong TP.HCM. Khuôn viên rộng rãi, bãi đỗ xe tiện lợi, và không gian sạch sẽ, thoáng mát giúp bệnh nhân cảm thấy thoải mái ngay từ khi bước vào.</p>
-        </section>
+            <p>Với vị trí trung tâm tại TPHCM, phòng khám dễ dàng tiếp cận từ nhiều khu vực trong TP.HCM. Khuôn viên rộng rãi, bãi đỗ xe tiện lợi, và không gian sạch sẽ, thoáng mát giúp bệnh nhân cảm thấy thoải mái ngay từ khi bước vào.</p>
 <ul>
   <li><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/dat-hen-truc-tuyen-tai-phong-kham-an-dong-tien-loi-nhanh-chong-va-bao-mat-post1226719.vov" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
   <li><a href="https://tuoitre.vn/dich-vu-dat-hen-truc-tuyen-cua-phong-kham-chuyen-khoa-an-dong-quan-5-20250624173143567.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
