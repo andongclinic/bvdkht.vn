@@ -719,12 +719,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-k
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Công ty TNHH Phòng khám Chuyên khoa An Đông","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","ratingCount":"266","bestRating":"5","worstRating":"1"}}
         </script>
         <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
-    </head>
-    <body>
-<div class="header" style="display: flex; justify-content: center;">
-    <div class="logo"> <a href="#"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
-        <div id="content">
-<h1  style="text-align: center;">Công ty TNHH Phòng khám Chuyên khoa An Đông chăm sóc sức khỏe toàn diện TP.HCM</h1>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.7;
@@ -732,11 +726,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-k
             margin: 0;
             padding: 0;
         }
-        header {
-            background: linear-gradient(90deg, #007bff, #00c4ff);
-            color: white;
-            text-align: center;
-            padding: 3rem 1rem;
         }
         nav {
             background: #f8f9fa;
@@ -844,22 +833,12 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-k
         }
     </style>
 </head>
-<body>
-    <header>
-        <h1>Công ty TNHH Phòng khám Chuyên khoa An Đông - Chăm sóc sức khỏe toàn diện tại TP.HCM</h1>
-        <p>Địa chỉ uy tín cung cấp dịch vụ y tế chất lượng cao trong các lĩnh vực nam khoa, bệnh xã hội, da liễu, và hậu môn - trực tràng.</p>
-    </header>
-    <nav role="navigation" aria-label="Main navigation">
-        <a href="#intro">Giới thiệu</a>
-        <a href="#doctors">Đội ngũ bác sĩ</a>
-        <a href="#facilities">Cơ sở vật chất</a>
-        <a href="#treatments">Phương pháp điều trị</a>
-        <a href="#services">Dịch vụ</a>
-        <a href="#specialties">Chuyên khoa</a>
-        <a href="#process">Quy trình khám chữa</a>
-        <a href="#reviews">Đánh giá bệnh nhân</a>
-        <a href="#contact">Liên hệ</a>
-    </nav>
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+        <div id="content">
+<h1  style="text-align: center;">Công ty TNHH Phòng khám Chuyên khoa An Đông chăm sóc sức khỏe toàn diện TP.HCM</h1>
     <div class="container">
         <section id="intro">
             <h2>Giới thiệu về Công ty TNHH Phòng khám Chuyên khoa An Đông</h2>
