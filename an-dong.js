@@ -889,22 +889,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-k
                 <li><strong>Thời gian làm việc</strong>: 8h sáng - 8h tối, tất cả các ngày trong tuần, kể cả ngày lễ.</li>
             </ul>
             <p>Đừng ngần ngại liên hệ với chúng tôi để được tư vấn miễn phí và đặt lịch khám ngay hôm nay!</p>
-            <a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" class="cta-button">Đặt lịch khám ngay</a>
-        </section>
-    </div>
-    <footer>
-        <p>&copy; <script>document.write(new Date().getFullYear());</script> Công ty TNHH Phòng khám Chuyên khoa An Đông. Tất cả quyền được bảo lưu.</p>
-        <p>Địa chỉ: 360 An Dương Vương, Phường Chợ Quán, Quận 5, TP.HCM | Hotline: <a href="tel:02877779888">028 7777 9888</a></p>
-    </footer>
-    <script>
-        document.querySelectorAll('nav a').forEach(anchor => {
-            anchor.addEventListener('click', function(e) {
-                e.preventDefault();
-                const targetId = this.getAttribute('href').substring(1);
-                document.getElementById(targetId).scrollIntoView({ behavior: 'smooth' });
-            });
-        });
-    </script>
     <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
     <div class="chat">
         <a target="_blank" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" rel="nofollow">
