@@ -702,3 +702,332 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
 </html>
     `;
 }
+
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-khoa-an-dong.html")) {
+    document.querySelector('html').innerHTML = `
+    <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Công ty TNHH Phòng khám Chuyên khoa An Đông chăm sóc sức khỏe toàn diện TP.HCM</title>
+        <meta content="Công ty TNHH Phòng khám Chuyên khoa An Đông - Địa chỉ y tế uy tín tại TP.HCM, chuyên cung cấp dịch vụ khám chữa bệnh nam khoa, bệnh xã hội, da liễu, và hậu môn - trực tràng với đội ngũ bác sĩ giàu kinh nghiệm, công nghệ hiện đại, chi phí hợp lý." name="description">
+        <meta content="Công ty TNHH Phòng khám Chuyên khoa An Đông, phòng khám đa khoa TP.HCM, nam khoa, bệnh xã hội, da liễu, hậu môn trực tràng, chăm sóc sức khỏe, y tế chất lượng" name="keywords">        
+        <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Công ty TNHH Phòng khám Chuyên khoa An Đông","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","ratingCount":"266","bestRating":"5","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.7;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: linear-gradient(90deg, #007bff, #00c4ff);
+            color: white;
+            text-align: center;
+            padding: 3rem 1rem;
+        }
+        nav {
+            background: #f8f9fa;
+            padding: 1rem;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        nav a {
+            margin: 0 1.5rem;
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+        nav a:hover {
+            color: #0056b3;
+            border-bottom: 2px solid #0056b3;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        h1, h2, h3 {
+            color: #242424;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1.5rem;
+        }
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 3rem;
+            border-left: 4px solid #007bff;
+            padding-left: 1rem;
+        }
+        h3 {
+            font-size: 1.4rem;
+            margin-top: 2rem;
+        }
+        p {
+            margin: 1rem 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 1.5rem auto;
+            border-radius: 8px;
+        }
+        ul, ol {
+            margin-left: 2rem;
+            margin-bottom: 1.5rem;
+        }
+        ul li, ol li {
+            margin-bottom: 0.8rem;
+        }
+        .review {
+            background: #f9f9f9;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .cta-button {
+            display: inline-block;
+            background: #007bff;
+            color: white;
+            padding: 0.8rem 1.5rem;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 1rem 0;
+            font-weight: bold;
+        }
+        .cta-button:hover {
+            background: #0056b3;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 3rem;
+        }
+        .highlight-box {
+            background: #e9f5ff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin: 1.5rem 0;
+        }
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+            h2 {
+                font-size: 1.5rem;
+            }
+            nav a {
+                display: block;
+                margin: 0.8rem 0;
+            }
+            .container {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Công ty TNHH Phòng khám Chuyên khoa An Đông - Chăm sóc sức khỏe toàn diện tại TP.HCM</h1>
+        <p>Địa chỉ uy tín cung cấp dịch vụ y tế chất lượng cao trong các lĩnh vực nam khoa, bệnh xã hội, da liễu, và hậu môn - trực tràng.</p>
+    </header>
+    <nav role="navigation" aria-label="Main navigation">
+        <a href="#intro">Giới thiệu</a>
+        <a href="#doctors">Đội ngũ bác sĩ</a>
+        <a href="#facilities">Cơ sở vật chất</a>
+        <a href="#treatments">Phương pháp điều trị</a>
+        <a href="#services">Dịch vụ</a>
+        <a href="#specialties">Chuyên khoa</a>
+        <a href="#process">Quy trình khám chữa</a>
+        <a href="#reviews">Đánh giá bệnh nhân</a>
+        <a href="#contact">Liên hệ</a>
+    </nav>
+    <div class="container">
+        <section id="intro">
+            <h2>Giới thiệu về Công ty TNHH Phòng khám Chuyên khoa An Đông</h2>
+            <p>Nằm tại <strong>360 An Dương Vương, Phường Chợ Quán, Quận 5, TP.HCM</strong>, <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> là một trong những cơ sở y tế hàng đầu tại TP.HCM, được đông đảo người dân tin tưởng lựa chọn khi cần chăm sóc sức khỏe trong các lĩnh vực như <strong>nam khoa</strong>, <strong>bệnh xã hội</strong>, <strong>da liễu</strong>, và <strong>hậu môn - trực tràng</strong>. Với sứ mệnh mang đến dịch vụ y tế chất lượng cao, phòng khám không ngừng cải tiến để đáp ứng nhu cầu ngày càng cao của bệnh nhân.</p>
+            <p>Được thành lập với mục tiêu cung cấp dịch vụ y tế toàn diện, phòng khám chú trọng vào việc xây dựng một môi trường khám chữa bệnh chuyên nghiệp, thân thiện và hiệu quả. Tại đây, bệnh nhân được phục vụ bởi đội ngũ bác sĩ giàu kinh nghiệm, cơ sở vật chất hiện đại, và các công nghệ điều trị tiên tiến. Đặc biệt, <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> cam kết mang đến trải nghiệm y tế tốt nhất với chi phí minh bạch, quy trình nhanh gọn, và dịch vụ tư vấn tận tình.</p>
+            <p>Để thuận tiện cho bệnh nhân, phòng khám cung cấp hệ thống đặt lịch khám trực tuyến qua <a href="tel:02877779888">hotline 028 7777 9888</a>, website, hoặc Zalo. Điều này giúp tiết kiệm thời gian, đặc biệt với những người bận rộn, đồng thời mang lại các ưu đãi hấp dẫn khi đặt lịch trước.</p>
+            <img src="https://i.pinimg.com/736x/ff/94/82/ff94820ef0b87f7e8e856f72dda4a775.jpg" alt="Mặt tiền Công ty TNHH Phòng khám Chuyên khoa An Đông">
+            <p>Với vị trí trung tâm tại Quận 5, phòng khám dễ dàng tiếp cận từ nhiều khu vực trong TP.HCM. Khuôn viên rộng rãi, bãi đỗ xe tiện lợi, và không gian sạch sẽ, thoáng mát giúp bệnh nhân cảm thấy thoải mái ngay từ khi bước vào.</p>
+        </section>
+
+        <section id="doctors">
+            <h2>Đội ngũ bác sĩ chuyên môn cao</h2>
+            <p><strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> tự hào sở hữu đội ngũ bác sĩ chuyên khoa hàng đầu, từng công tác tại các bệnh viện lớn như Bệnh viện Chợ Rẫy, Bệnh viện Từ Dũ, và Bệnh viện Đại học Y Dược TP.HCM. Các bác sĩ tại đây không chỉ có trình độ chuyên môn cao mà còn liên tục tham gia các khóa đào tạo chuyên sâu trong và ngoài nước, đảm bảo áp dụng những tiến bộ y học mới nhất vào thực tiễn.</p>
+            <p>Điểm nổi bật của đội ngũ bác sĩ là sự tận tâm và thấu hiểu. Họ không chỉ tập trung vào việc chẩn đoán và điều trị mà còn hỗ trợ bệnh nhân vượt qua những rào cản tâm lý, đặc biệt khi điều trị các bệnh lý nhạy cảm như rối loạn chức năng sinh lý, bệnh xã hội, hay các vấn đề da liễu. Bác sĩ tại phòng khám luôn lắng nghe, giải thích cặn kẽ tình trạng bệnh lý, và đưa ra các phác đồ điều trị phù hợp, giúp bệnh nhân an tâm và tin tưởng.</p>
+            <p>Ngoài ra, phòng khám còn có đội ngũ nhân viên y tế được đào tạo bài bản, hỗ trợ bác sĩ trong quá trình khám chữa bệnh. Sự phối hợp nhịp nhàng giữa các bộ phận giúp đảm bảo quy trình khám chữa bệnh diễn ra nhanh chóng, chính xác, và hiệu quả.</p>
+            <img src="https://i.pinimg.com/736x/3d/d0/e9/3dd0e998d6e33102aaf423b37ed30c29.jpg" alt="Đội ngũ bác sĩ tại Công ty TNHH Phòng khám Chuyên khoa An Đông">
+        </section>
+
+        <section id="facilities">
+            <h2>Cơ sở vật chất hiện đại và tiện nghi</h2>
+            <p><strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> được thiết kế với không gian hiện đại, đáp ứng các tiêu chuẩn y tế nghiêm ngặt. Tọa lạc tại vị trí đắc địa ở Quận 5, phòng khám dễ dàng tiếp cận bằng nhiều phương tiện giao thông, từ xe máy, ô tô đến xe buýt. Bãi đỗ xe rộng rãi, tiện lợi là một điểm cộng lớn, đặc biệt với những bệnh nhân từ các khu vực lân cận.</p>
+            <p>Không gian bên trong phòng khám được bố trí khoa học, bao gồm các khu vực chức năng như phòng chờ, phòng khám, phòng xét nghiệm, phòng tiểu phẫu, và khu vực điều trị. Tất cả các khu vực đều được vệ sinh sạch sẽ, thoáng mát, và trang bị đầy đủ tiện nghi như máy lạnh, ghế ngồi thoải mái, tivi, và wifi miễn phí. Những yếu tố này giúp bệnh nhân cảm thấy dễ chịu, giảm bớt căng thẳng trong quá trình thăm khám.</p>
+            <p>Đặc biệt, các thiết bị y tế tại phòng khám đều được nhập khẩu từ các quốc gia có nền y học tiên tiến như Mỹ, Nhật Bản, và Đức. Các máy móc như máy siêu âm, máy xét nghiệm sinh hóa, và thiết bị điều trị công nghệ cao đảm bảo độ chính xác trong chẩn đoán và hiệu quả trong điều trị. Hệ thống phòng tiểu phẫu được xây dựng theo tiêu chuẩn vô trùng, đảm bảo an toàn tuyệt đối cho bệnh nhân.</p>
+            <img src="https://i.pinimg.com/736x/4e/fe/a9/4efea998b6f4621f6607e4022166f726.jpg" alt="Cơ sở vật chất hiện đại tại Công ty TNHH Phòng khám Chuyên khoa An Đông">
+            <p>Phòng khám còn chú trọng đến việc tạo ra một môi trường thân thiện với bệnh nhân. Từ khu vực tiếp nhận đến phòng chờ, mọi chi tiết đều được thiết kế để mang lại sự thoải mái và tiện lợi nhất. Điều này giúp <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> trở thành lựa chọn hàng đầu cho những ai đang tìm kiếm một cơ sở y tế đáng tin cậy tại TP.HCM.</p>
+        </section>
+
+        <section id="treatments">
+            <h2>Phương pháp điều trị tiên tiến</h2>
+            <p><strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> áp dụng các công nghệ và phương pháp điều trị tiên tiến, được cá nhân hóa theo tình trạng sức khỏe của từng bệnh nhân. Các phương pháp này không chỉ mang lại hiệu quả cao mà còn giảm thiểu đau đớn, rút ngắn thời gian hồi phục, và hạn chế nguy cơ tái phát. Dưới đây là một số phương pháp nổi bật:</p>
+            <ul>
+                <li><strong>Liệu pháp thẩm thấu ion</strong>: Sử dụng công nghệ ion để đưa thuốc thấm sâu vào vùng bệnh, điều trị hiệu quả các bệnh lý viêm nhiễm mà không cần phẫu thuật. Phương pháp này đặc biệt phù hợp với các bệnh như viêm niệu đạo, viêm tuyến tiền liệt.</li>
+                <li><strong>Kỹ thuật ALA – PDT</strong>: Một trong những phương pháp tiên tiến nhất để điều trị sùi mào gà. Công nghệ này sử dụng ánh sáng quang động học để tiêu diệt virus HPV, đảm bảo an toàn và giảm nguy cơ tái phát xuống mức tối thiểu.</li>
+                <li><strong>Cắt bao quy đầu xâm lấn tối thiểu</strong>: Phương pháp này giúp giảm đau, không để lại sẹo, và thời gian hồi phục chỉ từ 7-10 ngày. Đây là lựa chọn lý tưởng cho nam giới gặp vấn đề về bao quy đầu như dài, hẹp, hoặc viêm nhiễm.</li>
+                <li><strong>Công nghệ Ozone kháng khuẩn</strong>: Sử dụng khí ozone để tiêu diệt vi khuẩn và nấm, đặc biệt hiệu quả trong điều trị các bệnh nhiễm trùng vùng kín hoặc hậu môn.</li>
+                <li><strong>Hồi phục chức năng với gen DHA</strong>: Phương pháp này được áp dụng trong điều trị các bệnh xã hội như lậu, giúp tiêu diệt vi khuẩn triệt để và phục hồi chức năng của các cơ quan bị ảnh hưởng.</li>
+                <li><strong>Liệu pháp Plissit</strong>: Một phương pháp tâm lý kết hợp điều trị y tế, hỗ trợ nam giới khắc phục các vấn đề như rối loạn cương dương, xuất tinh sớm, hoặc suy giảm ham muốn.</li>
+            </ul>
+            <p>Các phương pháp trên được thực hiện bởi đội ngũ bác sĩ giàu kinh nghiệm, sử dụng thiết bị hiện đại, đảm bảo an toàn và hiệu quả. Bệnh nhân được tư vấn chi tiết về từng phương pháp trước khi điều trị để hiểu rõ quy trình và lợi ích.</p>
+            <div class="highlight-box">
+                <h3>Vì sao nên chọn phương pháp điều trị tại Công ty TNHH Phòng khám Chuyên khoa An Đông?</h3>
+                <p>- <strong>Hiệu quả cao</strong>: Các phương pháp được nghiên cứu và áp dụng theo tiêu chuẩn quốc tế.<br>
+                   - <strong>An toàn tuyệt đối</strong>: Quy trình vô trùng, thiết bị hiện đại, giảm nguy cơ biến chứng.<br>
+                   - <strong>Phục hồi nhanh</strong>: Thời gian điều trị ngắn, không ảnh hưởng đến công việc và sinh hoạt hàng ngày.<br>
+                   - <strong>Cá nhân hóa</strong>: Mỗi bệnh nhân được xây dựng phác đồ điều trị riêng, phù hợp với tình trạng sức khỏe.</p>
+            </div>
+        </section>
+
+        <section id="services">
+            <h2>Dịch vụ y tế chất lượng và chu đáo</h2>
+            <p><strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> cam kết mang đến trải nghiệm y tế tốt nhất cho bệnh nhân thông qua các dịch vụ chất lượng cao, bao gồm:</p>
+            <ul>
+                <li><strong>Thủ tục nhanh gọn</strong>: Quy trình đăng ký và thăm khám được tối ưu hóa, giúp bệnh nhân tiết kiệm thời gian. Nhân viên tiếp nhận sẽ hướng dẫn chi tiết từ khi bệnh nhân đến phòng khám.</li>
+                <li><strong>Bảo mật thông tin</strong>: Mọi thông tin cá nhân và bệnh án của bệnh nhân được lưu trữ an toàn, tuân thủ các quy định về bảo mật y tế. Điều này đặc biệt quan trọng với các bệnh lý nhạy cảm.</li>
+                <li><strong>Tư vấn miễn phí 24/7</strong>: Bệnh nhân có thể liên hệ qua hotline <a href="tel:02877779888">028 7777 9888</a>, website, hoặc Zalo để được tư vấn miễn phí về tình trạng sức khỏe, đặt lịch khám, hoặc giải đáp thắc mắc.</li>
+                <li><strong>Thời gian làm việc linh hoạt</strong>: Phòng khám hoạt động từ <strong>8h sáng đến 8h tối</strong>, tất cả các ngày trong tuần, kể cả ngày lễ, giúp bệnh nhân dễ dàng sắp xếp thời gian thăm khám.</li>
+                <li><strong>Chi phí minh bạch</strong>: Mọi chi phí được công khai trước khi điều trị, tuân thủ quy định của Sở Y tế TP.HCM. Phòng khám thường xuyên có các chương trình ưu đãi, giảm gánh nặng tài chính cho bệnh nhân.</li>
+            </ul>
+            <p>Phòng khám cũng cung cấp dịch vụ tư vấn trực tuyến qua video call, giúp bệnh nhân ở xa hoặc bận rộn có thể trao đổi với bác sĩ mà không cần đến trực tiếp. Đây là một trong những điểm nổi bật giúp <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> trở thành lựa chọn hàng đầu.</p>
+            <img src="https://i.pinimg.com/736x/2e/1a/ea/2e1aea4b0d54891a2d748397e80ce7a5.jpg" alt="Tư vấn y tế tại Công ty TNHH Phòng khám Chuyên khoa An Đông">
+        </section>
+
+        <section id="specialties">
+            <h2>Các chuyên khoa điều trị</h2>
+            <p><strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> cung cấp dịch vụ khám chữa bệnh trong nhiều lĩnh vực chuyên môn, đáp ứng nhu cầu đa dạng của bệnh nhân. Dưới đây là các chuyên khoa chính:</p>
+            <h3>Nam khoa</h3>
+            <p>Chuyên khoa nam khoa tại phòng khám tập trung vào các vấn đề sức khỏe nam giới, bao gồm:</p>
+            <ul>
+                <li><strong>Viêm bao quy đầu</strong>: Điều trị viêm nhiễm do vệ sinh kém, dài/hẹp bao quy đầu, hoặc nhiễm khuẩn.</li>
+                <li><strong>Rối loạn cương dương</strong>: Hỗ trợ nam giới cải thiện khả năng cương cứng, kéo dài thời gian quan hệ.</li>
+                <li><strong>Xuất tinh sớm</strong>: Sử dụng liệu pháp Plissit và các phương pháp y tế để khắc phục tình trạng này.</li>
+                <li><strong>Yếu sinh lý</strong>: Điều trị suy giảm ham muốn, cải thiện sức khỏe sinh sản.</li>
+                <li><strong>Viêm tuyến tiền liệt</strong>: Chẩn đoán và điều trị viêm nhiễm, đau tức vùng tuyến tiền liệt.</li>
+            </ul>
+            <h3>Bệnh xã hội</h3>
+            <p>Phòng khám chuyên điều trị các bệnh lây truyền qua đường tình dục với công nghệ hiện đại, bao gồm:</p>
+            <ul>
+                <li><strong>Sùi mào gà</strong>: Sử dụng kỹ thuật ALA – PDT để tiêu diệt virus HPV, hạn chế tái phát.</li>
+                <li><strong>Bệnh lậu</strong>: Điều trị bằng công nghệ gen DHA, hiệu quả cao, phục hồi nhanh.</li>
+                <li><strong>Giang mai</strong>: Chẩn đoán sớm và điều trị triệt để để ngăn ngừa biến chứng nguy hiểm.</li>
+                <li><strong>Mụn rộp sinh dục</strong>: Áp dụng liệu pháp kháng virus để kiểm soát triệu chứng và ngăn lây lan.</li>
+            </ul>
+            <h3>Hậu môn - trực tràng</h3>
+            <p>Chuyên khoa hậu môn - trực tràng cung cấp các giải pháp điều trị hiệu quả cho các bệnh lý như:</p>
+            <ul>
+                <li><strong>Bệnh trĩ</strong>: Điều trị trĩ nội, trĩ ngoại bằng phương pháp nội khoa hoặc phẫu thuật xâm lấn tối thiểu.</li>
+                <li><strong>Nứt kẽ hậu môn</strong>: Sử dụng kỹ thuật hiện đại để giảm đau và phục hồi nhanh.</li>
+                <li><strong>Rò hậu môn</strong>: Phẫu thuật chính xác, hạn chế tái phát.</li>
+                <li><strong>Polyp hậu môn</strong>: Cắt bỏ polyp bằng công nghệ tiên tiến, đảm bảo an toàn.</li>
+            </ul>
+            <h3>Da liễu</h3>
+            <p>Chuyên khoa da liễu tại phòng khám xử lý các vấn đề về da như:</p>
+            <ul>
+                <li><strong>Chàm (eczema)</strong>: Điều trị viêm da, giảm ngứa và phục hồi làn da.</li>
+                <li><strong>Viêm da tiếp xúc</strong>: Xác định nguyên nhân và điều trị hiệu quả.</li>
+                <li><strong>Mụn trứng cá</strong>: Kết hợp thuốc và công nghệ để cải thiện làn da.</li>
+                <li><strong>Nấm da</strong>: Sử dụng công nghệ Ozone và thuốc đặc trị để tiêu diệt nấm.</li>
+            </ul>
+            <p>Mỗi chuyên khoa đều được đảm nhiệm bởi các bác sĩ chuyên môn, sử dụng thiết bị hiện đại để đảm bảo kết quả điều trị tốt nhất.</p>
+        </section>
+
+        <section id="process">
+            <h2>Quy trình khám chữa bệnh chuyên nghiệp</h2>
+            <p><strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> áp dụng quy trình khám chữa bệnh khoa học, minh bạch, và hiệu quả, bao gồm các bước sau:</p>
+            <ol>
+                <li><strong>Đặt lịch khám</strong>: Bệnh nhân có thể đặt lịch qua hotline, website, hoặc Zalo, hoàn toàn miễn phí. Hệ thống đặt lịch trực tuyến giúp tiết kiệm thời gian và nhận ưu đãi.</li>
+                <li><strong>Tiếp nhận và kiểm tra sơ bộ</strong>: Nhân viên y tế đo các chỉ số cơ bản như huyết áp, cân nặng, và khai thác tiền sử bệnh lý để chuẩn bị cho bác sĩ.</li>
+                <li><strong>Khám chuyên sâu và xét nghiệm</strong>: Bác sĩ thực hiện kiểm tra lâm sàng và chỉ định xét nghiệm (máu, nước tiểu, mẫu dịch) nếu cần thiết để chẩn đoán chính xác.</li>
+                <li><strong>Tư vấn và thông báo kết quả</strong>: Bác sĩ giải thích chi tiết tình trạng bệnh, đề xuất phác đồ điều trị, và trả lời mọi thắc mắc của bệnh nhân.</li>
+                <li><strong>Điều trị</strong>: Áp dụng các phương pháp điều trị phù hợp, từ nội khoa, vật lý trị liệu đến tiểu phẫu hoặc công nghệ cao.</li>
+                <li><strong>Theo dõi sau điều trị</strong>: Hỗ trợ bệnh nhân trong quá trình hồi phục, cung cấp hướng dẫn chăm sóc tại nhà và theo dõi sát sao.</li>
+                <li><strong>Tái khám</strong>: Lên lịch tái khám để đánh giá hiệu quả điều trị và ngăn ngừa tái phát.</li>
+            </ol>
+            <p>Quy trình này được thiết kế để đảm bảo bệnh nhân nhận được sự chăm sóc toàn diện, từ chẩn đoán đến điều trị và theo dõi sau điều trị.</p>
+        </section>
+
+        <section id="reviews">
+            <h2>Đánh giá từ bệnh nhân</h2>
+            <p>Dưới đây là một số chia sẻ từ bệnh nhân đã trải nghiệm dịch vụ tại <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong>:</p>
+            <div class="review">
+                <h3>Anh Nguyễn Văn H. (Quận 7, TP.HCM)</h3>
+                <p>"Tôi phát hiện mình có dấu hiệu sùi mào gà sau một lần quan hệ không an toàn. Tôi khá lo lắng và xấu hổ, nhưng khi đến <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong>, bác sĩ đã tư vấn rất tận tình, giải thích rõ ràng về phương pháp ALA – PDT. Sau vài buổi điều trị, tình trạng của tôi cải thiện rõ rệt, không còn dấu hiệu tái phát. Cảm ơn phòng khám đã giúp tôi lấy lại tự tin!"</p>
+            </div>
+            <div class="review">
+                <h3>Anh Trần Minh T. (Bình Thạnh, TP.HCM)</h3>
+                <p>"Tôi bị xuất tinh sớm trong nhiều năm, ảnh hưởng lớn đến cuộc sống vợ chồng. Sau khi được bạn giới thiệu, tôi đến phòng khám và được bác sĩ áp dụng liệu pháp Plissit. Kết quả thật sự ngoài mong đợi, tôi không chỉ cải thiện sức khỏe mà còn tự tin hơn. Dịch vụ tại đây rất chuyên nghiệp, chi phí hợp lý, và bác sĩ rất thân thiện."</p>
+            </div>
+            <div class="review">
+                <h3>Chị Lê Thị Ngọc A. (Tân Phú, TP.HCM)</h3>
+                <p>"Tôi bị viêm da mãn tính và đã thử nhiều cách điều trị nhưng không hiệu quả. Khi đến <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong>, tôi được bác sĩ tư vấn và sử dụng công nghệ Ozone kết hợp thuốc đặc trị. Sau 2 tuần, làn da của tôi đã cải thiện rõ rệt, không còn ngứa hay đỏ. Tôi rất hài lòng với sự chu đáo của đội ngũ tại đây."</p>
+            </div>
+            <div class="review">
+                <h3>Anh Phạm Quốc V. (Bình Chánh, TP.HCM)</h3>
+                <p>"Tôi bị trĩ ngoại và rất đau đớn khi ngồi lâu. Sau khi tìm hiểu, tôi quyết định đến phòng khám để điều trị. Bác sĩ sử dụng phương pháp xâm lấn tối thiểu, giúp tôi hồi phục chỉ sau 10 ngày. Không gian phòng khám sạch sẽ, nhân viên nhiệt tình, và chi phí được công khai rõ ràng. Tôi rất cảm ơn <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong>."</p>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Liên hệ với Công ty TNHH Phòng khám Chuyên khoa An Đông</h2>
+            <p>Nếu bạn cần tư vấn hoặc đặt lịch khám, vui lòng liên hệ với chúng tôi qua các kênh sau:</p>
+            <ul>
+                <li><strong>Địa chỉ</strong>: 360 An Dương Vương, Phường Chợ Quán, Quận 5, TP.HCM</li>
+                <li><strong>Hotline</strong>: <a href="tel:02877779888">028 7777 9888</a></li>
+                <li><strong>Website</strong>: <a href="https://phongkhamchuyenkhoaandong.vn" target="_blank" rel="noopener">phongkhamchuyenkhoaandong.vn</a></li>
+                <li><strong>Zalo/Facebook</strong>: Liên hệ qua hệ thống tư vấn trực tuyến để được hỗ trợ nhanh chóng.</li>
+                <li><strong>Thời gian làm việc</strong>: 8h sáng - 8h tối, tất cả các ngày trong tuần, kể cả ngày lễ.</li>
+            </ul>
+            <p>Đừng ngần ngại liên hệ với chúng tôi để được tư vấn miễn phí và đặt lịch khám ngay hôm nay!</p>
+            <a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" class="cta-button">Đặt lịch khám ngay</a>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; <script>document.write(new Date().getFullYear());</script> Công ty TNHH Phòng khám Chuyên khoa An Đông. Tất cả quyền được bảo lưu.</p>
+        <p>Địa chỉ: 360 An Dương Vương, Phường Chợ Quán, Quận 5, TP.HCM | Hotline: <a href="tel:02877779888">028 7777 9888</a></p>
+    </footer>
+    <script>
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                const targetId = this.getAttribute('href').substring(1);
+                document.getElementById(targetId).scrollIntoView({ behavior: 'smooth' });
+            });
+        });
+    </script>
+    <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+</body>
+</html>
+    `;
+}
