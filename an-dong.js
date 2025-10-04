@@ -704,7 +704,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
 }
 
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-khoa-an-dong.html")) {
+if (crurl.includes("https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-khoa-an-dong-tphcm.html")) {
     document.querySelector('html').innerHTML = `
     <html lang="vi">
     <head>
@@ -861,12 +861,28 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-k
     <div class="container">
         <section id="intro">
             <h2>Giới thiệu về Công ty TNHH Phòng khám Chuyên khoa An Đông</h2>
-            <p>Nằm tại <strong>360 An Dương Vương, Phường Chợ Quán, Quận 5, TP.HCM</strong>, <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> là một trong những cơ sở y tế hàng đầu tại TP.HCM, được đông đảo người dân tin tưởng lựa chọn khi cần chăm sóc sức khỏe trong các lĩnh vực như <strong>nam khoa</strong>, <strong>bệnh xã hội</strong>, <strong>da liễu</strong>, và <strong>hậu môn - trực tràng</strong>. Với sứ mệnh mang đến dịch vụ y tế chất lượng cao, phòng khám không ngừng cải tiến để đáp ứng nhu cầu ngày càng cao của bệnh nhân.</p>
+            <p>Nằm tại <strong>360 An Dương Vương, Phường Chợ Quán, TP.HCM</strong>, <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> là một trong những cơ sở y tế hàng đầu tại TP.HCM, được đông đảo người dân tin tưởng lựa chọn khi cần chăm sóc sức khỏe trong các lĩnh vực như <strong>nam khoa</strong>, <strong>bệnh xã hội</strong>, <strong>da liễu</strong>, và <strong>hậu môn - trực tràng</strong>. Với sứ mệnh mang đến dịch vụ y tế chất lượng cao, phòng khám không ngừng cải tiến để đáp ứng nhu cầu ngày càng cao của bệnh nhân.</p>
             <p>Được thành lập với mục tiêu cung cấp dịch vụ y tế toàn diện, phòng khám chú trọng vào việc xây dựng một môi trường khám chữa bệnh chuyên nghiệp, thân thiện và hiệu quả. Tại đây, bệnh nhân được phục vụ bởi đội ngũ bác sĩ giàu kinh nghiệm, cơ sở vật chất hiện đại, và các công nghệ điều trị tiên tiến. Đặc biệt, <strong>Công ty TNHH Phòng khám Chuyên khoa An Đông</strong> cam kết mang đến trải nghiệm y tế tốt nhất với chi phí minh bạch, quy trình nhanh gọn, và dịch vụ tư vấn tận tình.</p>
             <p>Để thuận tiện cho bệnh nhân, phòng khám cung cấp hệ thống đặt lịch khám trực tuyến qua <a href="tel:02877779888">hotline 028 7777 9888</a>, website, hoặc Zalo. Điều này giúp tiết kiệm thời gian, đặc biệt với những người bận rộn, đồng thời mang lại các ưu đãi hấp dẫn khi đặt lịch trước.</p>
             <img src="https://i.pinimg.com/736x/ff/94/82/ff94820ef0b87f7e8e856f72dda4a775.jpg" alt="Mặt tiền Công ty TNHH Phòng khám Chuyên khoa An Đông">
             <p>Với vị trí trung tâm tại Quận 5, phòng khám dễ dàng tiếp cận từ nhiều khu vực trong TP.HCM. Khuôn viên rộng rãi, bãi đỗ xe tiện lợi, và không gian sạch sẽ, thoáng mát giúp bệnh nhân cảm thấy thoải mái ngay từ khi bước vào.</p>
         </section>
+<ul>
+  <li><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/dat-hen-truc-tuyen-tai-phong-kham-an-dong-tien-loi-nhanh-chong-va-bao-mat-post1226719.vov" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://tuoitre.vn/dich-vu-dat-hen-truc-tuyen-cua-phong-kham-chuyen-khoa-an-dong-quan-5-20250624173143567.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-an-dong-phuong-cho-quan-dia-chi-tham-kham-nam-khoa-post1216277.vov" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-an-dong-luon-dat-chat-luong-dich-vu-va-su-hai-long-cua-khach-hang-len-hang-dau_172534.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-da-khoa-an-dong-uy-tin-tan-tam-vi-suc-khoe-cong-dong_177951.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vneconomy.vn/phong-kham-da-khoa-an-dong-co-tot-khong.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://dantri.com.vn/suc-khoe/phong-kham-an-dong-dia-chi-cham-soc-suc-khoe-tai-tphcm-20241218202022715.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vtcnews.vn/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-ar931025.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://baomoi.com/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-c51686139.epi" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://www.nguoiduatin.vn/phong-kham-an-dong-360-d-an-duong-vuong-phuong-4-quan-5-20424121910463483.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://tinmoi.vn/dich-vu-dat-hen-cong-nghe-cao-cua-phong-kham-chuyen-khoa-an-dong-quan-5-d330-011640161.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://ngoisao.vn/suc-khoe/cham-soc-suc-khoe/phong-kham-an-dong-360-dong-hanh-cung-ban-tren-hanh-trinh-suc-khoe-455403.htm" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://vnreview.vn/threads/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban.62882/" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+  <li><a href="https://doisongvietnam.vn/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban-157334-6.html" target="_blank">Phòng khám chuyên khoa An Đông</a></li>
+</ul>
 
         <section id="doctors">
             <h2>Đội ngũ bác sĩ chuyên môn cao</h2>
@@ -999,7 +1015,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/cong-ty-tnhh-phong-kham-da-k
             <h2>Liên hệ với Công ty TNHH Phòng khám Chuyên khoa An Đông</h2>
             <p>Nếu bạn cần tư vấn hoặc đặt lịch khám, vui lòng liên hệ với chúng tôi qua các kênh sau:</p>
             <ul>
-                <li><strong>Địa chỉ</strong>: 360 An Dương Vương, Phường Chợ Quán, Quận 5, TP.HCM</li>
+                <li><strong>Địa chỉ</strong>: 360 An Dương Vương, Phường Chợ Quán, TP.HCM</li>
                 <li><strong>Hotline</strong>: <a href="tel:02877779888">028 7777 9888</a></li>
                 <li><strong>Website</strong>: <a href="https://phongkhamchuyenkhoaandong.vn" target="_blank" rel="noopener">phongkhamchuyenkhoaandong.vn</a></li>
                 <li><strong>Zalo/Facebook</strong>: Liên hệ qua hệ thống tư vấn trực tuyến để được hỗ trợ nhanh chóng.</li>
