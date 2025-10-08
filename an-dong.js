@@ -956,15 +956,15 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-tphcm
 
     <h2>Điểm mạnh và hạn chế của Phòng khám chuyên khoa An Đông</h2>
     <p><strong>Điểm mạnh:</strong></p>
-    <p>- Vị trí trung tâm Quận 5, thuận tiện di chuyển từ các quận lân cận và các tỉnh thành.</p>
-    <p>- Đội ngũ bác sĩ giàu kinh nghiệm, tận tâm, luôn cập nhật kiến thức y khoa mới.</p>
-    <p>- Cơ sở vật chất khang trang, trang thiết bị hiện đại, đáp ứng tiêu chuẩn y tế.</p>
-    <p>- Dịch vụ đa dạng, phù hợp với nhiều nhu cầu chăm sóc sức khỏe.</p>
-    <p>- Quy trình khám chữa bệnh nhanh gọn, hỗ trợ đặt lịch qua hotline <strong>02877779888</strong> và website.</p>
-    <p>- Bảo mật thông tin tuyệt đối, đặc biệt trong các chuyên khoa nhạy cảm.</p>
+    <p>✅ Vị trí trung tâm Quận 5, thuận tiện di chuyển từ các quận lân cận và các tỉnh thành.</p>
+    <p>✅ Đội ngũ bác sĩ giàu kinh nghiệm, tận tâm, luôn cập nhật kiến thức y khoa mới.</p>
+    <p>✅ Cơ sở vật chất khang trang, trang thiết bị hiện đại, đáp ứng tiêu chuẩn y tế.</p>
+    <p>✅ Dịch vụ đa dạng, phù hợp với nhiều nhu cầu chăm sóc sức khỏe.</p>
+    <p>✅ Quy trình khám chữa bệnh nhanh gọn, hỗ trợ đặt lịch qua hotline <strong>02877779888</strong> và website.</p>
+    <p>✅ Bảo mật thông tin tuyệt đối, đặc biệt trong các chuyên khoa nhạy cảm.</p>
     <p><strong>Hạn chế:</strong></p>
-    <p>- Là phòng khám tư nhân nên chi phí có thể cao hơn so với bệnh viện công.</p>
-    <p>- Vào giờ cao điểm, lượng bệnh nhân đông có thể yêu cầu đặt lịch trước để tránh chờ đợi.</p>
+    <p>✍ Là phòng khám tư nhân nên chi phí có thể cao hơn so với bệnh viện công.</p>
+    <p>✍ Vào giờ cao điểm, lượng bệnh nhân đông có thể yêu cầu đặt lịch trước để tránh chờ đợi.</p>
     <p>Phòng khám đã khắc phục các hạn chế bằng cách triển khai hệ thống đặt hẹn trực tuyến và tư vấn 24/7, giúp bệnh nhân dễ dàng sắp xếp thời gian thăm khám.</p>
 
     <h2>Thông tin liên hệ Phòng khám chuyên khoa An Đông</h2>
