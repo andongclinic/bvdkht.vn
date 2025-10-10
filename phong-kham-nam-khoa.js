@@ -379,7 +379,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2861/10-benh-vien-nam-khoa-binh-d
   </div>
 </div>
         <div id="content">
-<h1>Top 10 bệnh viện nam khoa uy tín và chuyên nghiệp ở Bình Dương</h1>
+<h1 style="text-align:center;">Top 10 bệnh viện nam khoa uy tín và chuyên nghiệp ở Bình Dương</h1>
  <p>Trong bối cảnh nhu cầu chăm sóc sức khỏe nam khoa ngày càng tăng, việc tìm kiếm một bệnh viện nam khoa uy tín Bình Dương là mối quan tâm lớn của nhiều nam giới. Khám nam khoa không chỉ giúp phát hiện sớm các vấn đề về sức khỏe sinh sản mà còn đảm bảo chất lượng cuộc sống và hạnh phúc gia đình. Dưới đây là danh sách <strong><a href="https://bvdkht.vn/feedback/2861/10-benh-vien-nam-khoa-binh-duong.html">Top 10 bệnh viện khám nam khoa tại Bình Dương</a></strong> mà bạn có thể tham khảo để lựa chọn địa chỉ khám nam khoa Bình Dương phù hợp nhất.</p>
 <p><a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" target="_blank" rel="noopener"><img src="https://andongclinic.vn/ckfinder/userfiles/images/Chat/Chat-Dakhoa.gif" alt="Liên hệ ngay" width="500" height="150"></a></p>
 <h2>1. Bệnh viện nam khoa ở Bình Dương - Bệnh viện Nam Anh</h2>
@@ -440,3 +440,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/2861/10-benh-vien-nam-khoa-binh-d
 </html>
     `;
 }
+
