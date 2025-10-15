@@ -1033,12 +1033,12 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/14-dia-chi-kham-chua-sui-mao
 <p><strong><a href="https://bvdkht.vn/feedback/2849/14-dia-chi-kham-chua-sui-mao-ga-tot-nhat-tphcm.html">Danh sách 14 địa chỉ khám chữa bệnh sùi mào gà ở đâu tốt nhất TPHCM</a></strong> gồm: Bệnh viện chữa sùi mào gà Tâm Anh, Khám sùi mào gà Bệnh viện Da liễu TPHCM, Phòng khám bệnh sùi mào gà An Đông, Bệnh viện Từ Dũ, Bệnh viện Bình Dân, Bệnh viện Nhân dân 115, Bệnh viện xét nghiệm sùi mào gà Chợ Rẫy, Điều trị sùi mào gà Bệnh viện Đại học Y Dược TPHCM.</p>
 
 <p>Địa chỉ chữa sùi mào gà ở đâu tốt nhất, nơi xét nghiệm bệnh sùi mào gà ở đâu chính xác hay khám chữa bệnh sùi mào gà ở đâu tốt tại TPHCM là vấn đề mà hầu hết người bệnh quan tâm khi cần thăm khám và điều trị. Các chuyên gia về bệnh xã hội đã lưu ý rằng bệnh sùi mào gà dễ lây lan qua đường tình dục không an toàn và có thể gây ra nhiều biến chứng nguy hiểm nếu không được điều trị kịp thời. Vì vậy, nếu nghi ngờ hoặc đã có triệu chứng của bệnh, bệnh nhân nên nhanh chóng đến kiểm tra tại các cơ sở y tế uy tín. Bài viết dưới đây sẽ cung cấp thông tin về 14 địa chỉ phòng khám sùi mào gà ở TPHCM tốt nhất để người bệnh có thể tham khảo dễ dàng.</p>
-
+<p><a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" target="_blank" rel="noopener"><img src="https://andongclinic.vn/ckfinder/userfiles/images/Chat/Chat-Dakhoa.gif" alt="Liên hệ ngay" width="500" height="150"></a></p>
 <table>
     <thead>
         <tr>
-            <th>Danh sách cơ sở khám và điều trị sùi mào gà uy tín ở TPHCM</th>
-            <th>Cơ sở</th>
+            <th style="text-align: center;">Danh sách cơ sở khám và điều trị sùi mào gà uy tín ở TPHCM</th>
+            <th style="text-align: center;">Cơ sở</th>
         </tr>
     </thead>
     <tbody>
