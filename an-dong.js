@@ -1236,3 +1236,395 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/14-dia-chi-kham-chua-sui-mao
 </html>
     `;
 }
+
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-lau-o-dau-tot-nhat-tphcm.html")) {
+    document.querySelector('html').innerHTML = `
+    <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>14 Địa chỉ khám và chữa sùi mào gà ở đâu tốt nhất TPHCM</title>
+        <meta content="Danh sách 14 địa chỉ khám chữa bệnh sùi mào gà ở đâu tốt nhất TPHCM là Bệnh viện chữa sùi mào gà Tâm Anh, Khám sùi mào gà Bệnh viện Da liễu TPHCM, Phòng khám bệnh sùi mào gà An Đông, Bệnh viện Từ Dũ, Bệnh viện Bình Dân, Bệnh viện Nhân dân 115, Bệnh viện xét nghiệm sùi mào gà Chợ Rẫy, Điều trị sùi mào gà Bệnh viện Đại học Y Dược TPHCM." name="description">
+        <meta content="chữa sùi mào gà ở đâu tốt nhất tphcm, địa chỉ chữa sùi mào gà uy tín tphcm, phòng khám chữa sùi mào gà tphcm, chữa sùi mào gà an toàn ở tphcm, bác sĩ chữa sùi mào gà giỏi tphcm, nơi điều trị sùi mào gà hiệu quả tphcm, bệnh viện chữa sùi mào gà tốt tphcm, chi phí chữa sùi mào gà tphcm" name="keywords">
+        <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"14 Địa chỉ khám và chữa sùi mào gà ở đâu tốt nhất TPHCM","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.7","ratingCount":"160","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+        <style>
+<style>
+        .highlight { background-color: #f9f9f9; padding: 10px; border-left: 5px solid #007bff; }
+    </style>
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+  <div class="logo">
+    <a href="#">
+      <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg"
+           alt="Logo" title="Logo"
+           style="width: 410px; height: 80px; object-fit: contain;">
+    </a>
+  </div>
+</div>
+<div id="content">
+<h1>14 Địa chỉ khám và chữa sùi mào gà ở đâu tốt nhất TPHCM</h1>
+<p><strong><a href="https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-lau-o-dau-tot-nhat-tphcm.html">Địa chỉ chữa bệnh lậu ở đâu tốt nhất tại TPHCM</a></strong> uy tín hay khám bệnh lậu ở đâu tốt nhất tại TPHCM đang là vấn đề nan giải của những ai không may mắc bệnh. Bệnh lậu là căn bệnh xã hội nguy hiểm, đe dọa đến sức khỏe con người. Trước tình trạng các địa chỉ chữa bệnh lậu mọc lên như nấm, nhiều người không biết nên lựa chọn cơ sở nào uy tín, chất lượng. Sau đây sẽ đưa ra một số lời khuyên hữu ích cho người bệnh và việc nên chữa bệnh lậu ở đâu tại TPHCM.</p>
+<p><a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" target="_blank" rel="noopener"><img src="https://andongclinic.vn/ckfinder/userfiles/images/Chat/Chat-Dakhoa.gif" alt="Liên hệ ngay" width="500" height="150"></a></p>
+<table>
+<h2>Top 10 địa chỉ khám và chữa bệnh lậu ở đâu tốt nhất TPHCM</h2>
+
+<ul>
+    <li>Phòng khám Chuyên khoa An Đông</li>
+    <li>Bệnh viện Bệnh Nhiệt Đới TP.HCM</li>
+    <li>Bệnh viện Da Liễu TP.HCM</li>
+    <li>Trung tâm Y khoa Medic</li>
+    <li>Bệnh viện Đại học Y Dược TP.HCM</li>
+    <li>Bệnh viện Từ Dũ</li>
+    <li>Bệnh viện Chợ Rẫy</li>
+    <li>Bệnh viện Bình Dân</li>
+    <li>Bệnh viện Phạm Ngọc Thạch</li>
+    <li>Bệnh viện Nhân Dân 115</li>
+</ul>
+
+<h2>Những thông tin về bệnh lậu mà bạn cần biết</h2>
+<p>Bệnh lậu là căn bệnh xã hội vô cùng nguy hiểm do vi khuẩn có tên là Neisseria gonorrhoeae gây ra. Đồng thời, đây cũng là căn bệnh xã hội khá phổ biến hiện nay và thường lây truyền chủ yếu qua quan hệ tình dục không an toàn ở nam giới và nữ giới.</p>
+<p>Ngoài con đường lây truyền chủ yếu qua quan hệ tình dục không an toàn, nguyên nhân gây ra bệnh lậu còn lây truyền qua nhiều con đường khác nhau như: Sử dụng chung đồ dùng cá nhân, tiếp xúc với vết thương hở và dịch mủ của người mắc bệnh lậu, lây truyền từ mẹ sang con.</p>
+<p>Bên cạnh đó, trong hầu hết các trường hợp bệnh lậu sau khi xâm nhập vào cơ thể người sẽ có thời gian ủ bệnh khá ngắn từ 3 – 5 ngày. Sau đó, người bệnh sẽ xuất hiện các triệu chứng phổ biến như sau:</p>
+<ul>
+    <li>Cơ thể xuất hiện biểu hiện đi tiểu nhiều lần, đau rát khi đi tiểu, tiểu ra máu,..</li>
+    <li>Có cảm giác chán ăn, mệt mỏi và đau họng, amidan sưng đỏ và có mủ,..</li>
+    <li>Triệu chứng bệnh lậu ở nữ giới: âm hộ, âm đạo ra nhiều khí hư bất thường kèm theo mùi hôi khó chịu, sưng tấy, ngứa rát và bị đau vùng xương chậu. Đồng thời, người bệnh còn có cảm giác đau khi quan hệ tình dục,..</li>
+    <li>Triệu chứng bệnh lậu ở nam giới: Lỗ niệu đạo bị sưng tấy, sưng đau tinh hoàn và dương vật bị chảy mủ có màu vàng hoặc xanh, xuất tinh ra máu,..</li>
+</ul>
+<p>Vì thế, người bệnh khi cơ thể xuất hiện những triệu chứng của bệnh lậu trên hãy chủ động đến ngay những cơ sở y tế uy tín để thăm khám và chữa trị càng sớm càng tốt để hạn chế gặp phải những biến chứng nguy hiểm của bệnh, cũng như giúp người bệnh tiết kiệm được nhiều thời gian và chi phí chữa trị bệnh.</p>
+<h2>Bài viết liên quan</h2>
+<ul>
+    <li>Chi phí chữa bệnh lậu hết bao nhiêu tiền tại TPHCM</li>
+    <li>Bệnh lậu khám ở đâu TPHCM</li>
+</ul>
+<h2>Yếu tố quyết định chất lượng địa chỉ khám chữa bệnh lậu uy tín ở TPHCM</h2>
+<p>Việc lựa chọn địa chỉ chữa bệnh lậu có ảnh hưởng lớn đến kết quả điều trị. Bởi nếu không được điều trị, bệnh lậu có thể dẫn đến nhiều biến chứng nguy hiểm. Bệnh lậu là bệnh xã hội có khả năng lây lan nhanh ra cộng đồng nếu không được phòng tránh đúng cách.</p>
+<p>Chất lượng của địa chỉ khám chữa bệnh lậu uy tín ở TPHCM có thể được đánh giá thông qua một số yếu tố quan trọng sau đây:</p>
+<ul>
+    <li>Khám chữa bệnh lậu ở đâu TPHCM có các bác sĩ, chuyên gia y tế có trình độ chuyên môn cao và kinh nghiệm trong việc khám và điều trị bệnh lậu. Các thiết bị y tế cần phải hiện đại và đáp ứng chuẩn quốc tế để đảm bảo chẩn đoán và điều trị chính xác.</li>
+    <li>Khám chữa bệnh lậu ở đâu TPHCM có môi trường khám chữa bệnh cần phải được bảo quản sạch sẽ, vệ sinh, không gian thoải mái để đảm bảo an toàn cho cả bệnh nhân và nhân viên y tế. Điều này cũng đóng vai trò quan trọng trong việc ngăn ngừa lây nhiễm.</li>
+    <li>Khám chữa bệnh lậu ở đâu TPHCM đang cập nhật và áp dụng các tiến bộ công nghệ y tế mới nhất để hỗ trợ chẩn đoán và điều trị hiệu quả.</li>
+    <li>Khám chữa bệnh lậu ở đâu TPHCM đáp ứng các thông tin từ những người đã trải qua khám và điều trị tại địa chỉ đó có thể cung cấp một cái nhìn thực tế về chất lượng dịch vụ. Đánh giá từ bệnh nhân trước đó có thể được tìm thấy trên các diễn đàn y tế hoặc trang web đánh giá dịch vụ y tế.</li>
+    <li>Khám chữa bệnh lậu ở đâu TPHCM tuân thủ chặt chẽ các quy tắc về bảo mật thông tin bệnh nhân và tôn trọng quyền riêng tư của họ.</li>
+    <li>Khám chữa bệnh lậu ở đâu TPHCM nên cung cấp thông tin đầy đủ và chi tiết về các dịch vụ, quy trình khám và điều trị, cũng như các chi phí liên quan.</li>
+    <li>Khám bệnh lậu ở đâu TPHCM đó có giấy phép hoạt động hợp pháp từ các cơ quan y tế có thẩm quyền.</li>
+    <li>Khám bệnh lậu ở đâu TPHCM có thể cung cấp các dịch vụ hỗ trợ như tư vấn, hướng dẫn về bệnh, và giải đáp thắc mắc của bệnh nhân.</li>
+    <li>Thời gian chờ đợi và hẹn khám: Một yếu tố khác có thể ảnh hưởng đến chất lượng dịch vụ là thời gian chờ đợi và khả năng hẹn khám theo lịch trình linh hoạt.</li>
+    <li>Địa chỉ khám chữa bệnh lậu ở đâu uy tín nên cung cấp dịch vụ tư vấn và giáo dục cho bệnh nhân về bệnh, cách phòng ngừa, và kiến thức về sức khỏe sinh sản. Việc này giúp bệnh nhân hiểu rõ hơn về tình trạng của mình và cách bảo vệ sức khỏe của họ.</li>
+</ul>
+<p>Đội ngũ y tế đa dạng và tôn trọng văn hóa: Một địa chỉ khám bệnh lậu tốt ở TPHCM cần có đội ngũ y tế đa dạng, có kiến thức về các khía cạnh văn hóa và tôn trọng sự đa dạng của bệnh nhân. Điều này có thể giúp tạo ra môi trường khám chữa bệnh thoải mái cho tất cả mọi người.</p>
+<p>Đội ngũ hỗ trợ và nhân viên thân thiện: Không chỉ có bác sĩ mà cả đội ngũ nhân viên hỗ trợ cũng cần được đào tạo và thân thiện. Những người này thường là người đầu tiên tiếp xúc với bệnh nhân và tạo ấn tượng đầu tiên, do đó, thái độ và tận tâm của họ cũng ảnh hưởng đến trải nghiệm của bệnh nhân.</p>
+<p>Kinh nghiệm và chuyên môn đối với các bệnh lậu phức tạp: Nếu địa chỉ khám bệnh lậu tốt ở TPHCM có khả năng khám và điều trị cả các trường hợp lậu phức tạp, điều này thể hiện sự chuyên môn và kinh nghiệm của họ trong lĩnh vực này.</p>
+<p>Định hướng phục vụ bệnh nhân: Một địa chỉ uy tín nên đặt bệnh nhân là tâm điểm, lắng nghe và đáp ứng nhu cầu của họ. Sự tận tâm và lòng quan tâm đối với sức khỏe của bệnh nhân có thể tạo nên một môi trường thúc đẩy sự phục hồi.</p>
+<p>Kết nối và hợp tác với cơ sở y tế khác: Một địa chỉ uy tín thường có mối quan hệ hợp tác với các cơ sở y tế khác như bệnh viện, phòng khám chuyên khoa khác để có thể tham khảo và chuyển giải cho các trường hợp phức tạp.</p>
+<p>Cộng đồng và tầm ảnh hưởng xã hội: Địa chỉ có thái độ tích cực và có những hoạt động thúc đẩy sự nhận thức và phòng ngừa bệnh lậu trong cộng đồng có thể được coi là uy tín và có tầm ảnh hưởng.</p>
+<p>Nhớ rằng, việc tìm kiếm một địa chỉ khám chữa bệnh lậu uy tín đòi hỏi bạn phải đầu tư thời gian vào việc nghiên cứu và tham khảo ý kiến từ người thân, bạn bè hoặc các nguồn đáng tin cậy để đảm bảo rằng bạn đang chọn một lựa chọn phù hợp và đáng tin cậy cho sức khỏe của mình.</p>
+<p>Dưới đây là những yếu tố quyết định cơ sở khám chữa bệnh lậu chất lượng, an toàn và uy tín.</p>
+<ul>
+    <li>Kết quả nhanh chóng: Đội ngũ bác sĩ nhiều năm kinh nghiệm, chuyên môn vững vàng, nhiệt tình, yêu nghề. Đưa ra phương án điều trị bệnh lậu tối ưu, giúp nhanh chóng khỏi bệnh và chữa dứt điểm.</li>
+    <li>Hạn chế rủi ro: Địa chỉ y tế có trang thiết bị kỹ thuật hiện đại, tiên tiến đảm bảo vô trùng,… Khi bác sĩ thực hiện điều trị sẽ hạn chế được những biến chứng đáng tiếc có thể xảy ra.</li>
+    <li>Tiết kiệm chi phí: Mọi chi phí điều trị đều được niêm yết, công khai, minh bạch. Các địa chỉ y tế được cơ quan chức năng cấp phép hoạt động trên toàn quốc, không hoạt động lén lút, không “vẽ bệnh”,…</li>
+    <li>Bảo mật thông tin: Bảo mật thông tin bệnh nhân và hình ảnh cá nhân. Không bao giờ tiết lộ nó mà không có sự đồng ý của bệnh nhân.</li>
+    <li>Nhận được nhiều phản hồi tích cực từ bệnh nhân: Các đơn vị y tế và đội ngũ y bác sĩ phải nhận được nhiều phản hồi và đánh giá tốt từ bệnh nhân.</li>
+</ul>
+
+<p>Đây là tiêu chí chính giúp người bệnh nhận biết được địa chỉ chữa bệnh lậu uy tín, chất lượng. Có thể nói, cơ sở y tế chuyên khoa tích hợp đầy đủ các yếu tố trên giúp bệnh nhanh khỏi, giảm biến chứng, giảm chi phí.</p>
+
+<div class="highlight">
+    <h3>Ưu đãi khám bệnh xã hội tổng quát</h3>
+    <p>Liên hệ 02877779888 (gọi hoặc kb zalo) miễn phí ✅Ưu đãi gói khám bệnh xã hội 30%</p>
+</div>
+
+<h2>10 địa chỉ khám chữa bệnh lậu ở đâu tốt nhất TPHCM năm 2025</h2>
+
+<ul>
+    <li>Phòng khám Chuyên khoa An Đông</li>
+    <li>Khám chữa bệnh lậu tại Bệnh viện Bệnh Nhiệt Đới TP.HCM</li>
+    <li>Bệnh viện Da Liễu TP.HCM</li>
+    <li>Trung tâm Y khoa Medic</li>
+    <li>Khám lậu tại Bệnh viện Đại học Y Dược TP.HCM</li>
+    <li>Bệnh viện Từ Dũ</li>
+    <li>Chữa lậu tại Bệnh viện Chợ Rẫy</li>
+    <li>Bệnh viện Bình Dân</li>
+    <li>Bệnh viện Phạm Ngọc Thạch</li>
+    <li>Bệnh viện Nhân Dân 115</li>
+</ul>
+
+<p>Khám chữa bệnh lậu ở đâu tốt nhất hiện nay uy tín, dưới đây chúng tôi sẽ chia sẻ cho các bạn 10 địa chỉ khám chữa bệnh lậu tốt nhất tại TPHCM cho mọi người tham khảo:</p>
+
+<p>Khám chữa bệnh lậu ở đâu tốt nhất tại TPHCM là câu hỏi nhận được nhiều sự quan tâm của người bệnh. Trên thực tế thì để tìm được một địa chỉ khám chữa bệnh lậu tốt cũng không phải là chuyện quá khó khăn gì. Dưới đây chúng tôi sẽ chia sẻ cụ thể về 10 địa chỉ khám chữa bệnh lậu ở đâu tốt tại TPHCM cho các bạn.</p>
+
+<h3>1. Phòng khám Chuyên khoa An Đông</h3>
+
+<p>Nếu bạn đang sinh sống và làm việc tại TPHCM chắc hẳn đã quá quen thuộc với Phòng Khám Chuyên Khoa An Đông. Là đơn vị khám chữa bệnh uy tín với nhiều thành công trong sự nghiệp phát triển. Trở thành cơ sở y tế được đông đảo bệnh nhân yêu thích.</p>
+
+<p>Chữa bệnh lậu ở phòng khám An Đông</p>
+
+<p>🔰Thông tin liên hệ tư vấn và đăng ký khám</p>
+
+<ul>
+    <li>✅360 An Dương Vương, Phường Chợ Quán, TPHCM</li>
+    <li>✅(gần Bệnh viện Đại học Y Dược TPHCM, gần Đại học Sài Gòn).</li>
+    <li>✅Giờ làm việc: Từ 8h00 – 20h00 làm việc từ thứ 2 đến chủ nhật, kể cả ngày lễ, tết.</li>
+    <li>✅Fanpage Phòng khám An Đông</li>
+    <li>✅Tư vấn nhanh với bác sĩ 02877779888 gọi hoặc kết bạn Zalo</li>
+    <li>✅Ưu đãi gói khám bệnh xã hội 30&</li>
+</ul>
+
+<p>Từ lâu <strong><s href="https://www.doccen.vn/home/08ddd8d5-6534-cc47-0242-ac1201000000">phòng khám Chuyên khoa An Đông</a></strong> đã trở thành top những địa chỉ khám chữa bệnh lậu uy tín, chất lượng tại TPHCM được nhiều bệnh nhân tin tưởng lựa chọn hiện nay. Nơi đây đáp ứng được đầy đủ chất lượng dịch vụ, với nhiều ưu điểm nổi trội có thể kể đến như:</p>
+
+<p>Địa chỉ khám chữa bệnh lậu ở TPHCM được cấp giấy phép hoạt động</p>
+
+<p>Phòng khám Chuyên khoa An Đông từ khi thành lập đi vào hoạt động đã được Sở Y tế TPHCM cấp giấy phép hoạt động trong lĩnh vực khám chữa bệnh xã hội, khám phụ khoa, nam khoa,... Trong đó tiêu biểu là khám và điều trị bệnh lậu nhận được rất nhiều sự tin tưởng từ phía người bệnh tại TPHCM và các tỉnh thành lân cận.</p>
+
+<p>Địa chỉ khám chữa bệnh lậu ở TPHCM có cơ sở vật chất hiện đại</p>
+
+<p>Khi đến với phòng khám, người bệnh sẽ được trải nghiệm một không gian khám chữa bệnh với hệ thống cơ sở vật chất vô cùng khang trang, rộng rãi, thoải mái với đầy đủ các phòng ban chuyên biệt như: Phòng chờ hiện đại, phòng siêu âm, phòng xét nghiệm, phòng cấp cứu,.., tất cả luôn được vệ sinh sạch sẽ đạt chuẩn, tạo không gian khám chữa bệnh thoải mái và đảm bảo an toàn cho người bệnh.</p>
+
+<p>Địa chỉ khám chữa bệnh lậu ở TPHCM có hệ thống trang thiết bị y tế hiện đại</p>
+
+<p>Phòng khám An Đông luôn chú trọng đầu tư nhiều thiết bị y tế hiện đại và được kiểm định và chọn lọc nhập khẩu từ những nước có nền y học phát triển. Nhờ đó, luôn đảm bảo cho kết quả chẩn đoán bệnh lậu nhanh chóng, có độ chính xác cao cho người bệnh.</p>
+
+<p>Ngoài ra, những thiết bị y tế này luôn trước và sau khi đưa vào sử dụng luôn được vô trùng sạch sẽ theo tiêu chuẩn quy định, đảm bảo tránh nguy cơ lây nhiễm cho người bệnh.</p>
+
+<h4>Đội ngũ bác sĩ</h4>
+
+<p>Địa chỉ khám chữa bệnh lậu ở TPHCM có đội ngũ y bác sĩ giỏi</p>
+
+<p>Tại phòng khám Chuyên khoa An Đông luôn tự hào là nơi hội tụ đội ngũ bác sĩ giỏi, giàu kinh nghiệm, có thâm niên làm việc lâu năm. Chưa kể đến, các bác sĩ tại đây từng có quá trình công tác và giữ nhiều chức vụ quan trọng tại các bệnh viện lớn trong nước như: Bệnh viện Đại học Y Dược, bệnh viện Chợ Rẫy, Bệnh viện Từ Dũ,…, cùng với đội ngũ nhân viên y tế chuyên nghiệp, được tham gia nhiều khóa học đào tạo bài bản nâng cao chất lượng dịch vụ nghề nghiệp.</p>
+
+<p>Bên cạnh đó, những bác sĩ tại đây cũng đều là những người giàu y đức, thân thiện luôn tận tâm, hết lòng vì người bệnh nhằm mang đến sự thoải mái và hài lòng khi có quá trình khám chữa bệnh tại đây.</p>
+
+<p>Địa chỉ khám chữa bệnh lậu ở TPHCM có phương pháp điều trị hiện đại</p>
+
+<p>Hầu hết những phương pháp khám chữa bệnh tại phòng khám An Đông đều được áp dụng những phương pháp chữa bệnh hiện đại, tân tiến. Đối với bệnh lậu phòng khám đang áp dụng điều trị bằng công nghệ DHA hiện đại, mang lại hiệu quả điều trị cao.</p>
+
+<p>Nguyên lý hoạt động của công nghệ DHA là sử dụng một lượng điện trường có tần số cao tác động trực tiếp vào khu vực bị tổn thương, nhằm loại bỏ đi vi khuẩn gây bệnh nhanh chóng, an toàn. Ngoài ra, phương pháp này có giúp phục hồi các vùng da bị tổn thương.</p>
+
+<p>Những ưu điểm vượt trội của công nghệ DHA trong chữa trị bệnh lậu có thể kể đến như:</p>
+
+<ul>
+    <li>Có thời gian điều trị ngắn, trong suốt quá trình điều trị không gây chảy máu và bệnh nhân sẽ không cảm thấy đau đớn nào.</li>
+    <li>Giúp định vị chính xác các khu vực viêm nhiễm một cách nhanh chóng.</li>
+    <li>Điều trị bệnh lậu bằng phương pháp DHA còn giúp tái tạo tế bào mới nên người bệnh điều trị bằng phương pháp này sẽ có thời gian phục hồi sức khỏe nhanh.</li>
+    <li>Tiêu diệt hoàn toàn vi khuẩn lậu và ngăn chặn khả năng bệnh tái phát.</li>
+</ul>
+
+<h4>Quy trình xét nghiệm bệnh lậu tại phòng khám An Đông</h4>
+
+<p>Đến với phòng khám Chuyên khoa An Đông, người bệnh sẽ nhận được sự hướng dẫn tận tình của đội ngũ nhân viên tư vấn thực hiện quy trình xét nghiệm bệnh lậu với các bước cơ bản như sau:</p>
+
+<ul>
+    <li>Bước 1: Nếu bệnh nhân không muốn phải mất nhiều thời gian chờ đợi thì có thể đăng ký lịch khám trước qua số hotline, hoặc nhấp vào khung chat miễn phí để đăng ký lịch khám trước.</li>
+    <li>Bước 2: Bệnh nhân đến khám theo đúng lịch hẹn, sau đó các chuyên viên y tế sẽ hướng dẫn bạn tận tình làm các thủ tục khám nhanh chóng.</li>
+    <li>Bước 3: Bạn sẽ được các bác sĩ hỏi về các thông tin về tình trạng sức khỏe, đời sống tình dục và các bệnh lý mắc phải trước đó. Đồng thời, bác sĩ cũng sẽ quan sát bộ phận sinh dục xem có dấu hiệu của bệnh lậu không.</li>
+    <li>Bước 4: Sau quá trình thăm khám sơ qua, bác sĩ sẽ chỉ định cho bệnh nhân làm một số xét nghiệm chuyên sâu để chẩn đoán chính xác về tình trạng bệnh lý.</li>
+    <li>Bước 5: Khi có kết quả và xác định được tình trạng bệnh lý, lúc này bác sĩ sẽ đưa ra phác đồ điều trị bệnh phù hợp với tình trạng của bệnh nhân.</li>
+    <li>Bước 6: Bệnh nhân sẽ được các bác sĩ hướng dẫn cách chăm sóc sau điều trị, sau đó người bệnh cần đến tái khám theo đúng lịch hẹn của bác sĩ để biết chắc chắn rằng bệnh của mình đã được chữa khỏi hay chưa.</li>
+</ul>
+
+<h4>Đánh giá chất lượng của phòng khám An Đông</h4>
+
+<ul>
+    <li>Bác sĩ chuyên khoa: 5⭐ Thái độ chuyên nghiệp</li>
+    <li>Phương pháp điều trị: 5⭐ Hiệu quả điều trị</li>
+    <li>Cơ sở vật chất: 5⭐ Đầy đủ và tiện nghi</li>
+    <li>Tư vấn miễn phí: 5⭐ Thái độ tư vấn</li>
+    <li>Mức độ hài lòng: 5⭐ Độ hài lòng của bệnh nhân</li>
+</ul>
+
+<p>Địa chỉ khám chữa bệnh lậu ở TPHCM có chi phí khám chữa công khai</p>
+
+<p>Các khoản chi phí khám chữa bệnh tại phòng khám luôn được niêm yết đúng theo giá quy định của Bộ Y tế đề ra, đảm bảo tính công khai rõ ràng, minh bạch. Đồng thời, các chuyên viên y tế sẽ thông báo chi tiết các mức chi phí trước khi điều trị cho người bệnh được nắm rõ, nên sẽ không có tình trạng chặt chém giá cả như những cơ sở y tế kém chất lượng khác. Nhờ vậy, người bệnh có thể hoàn toàn an tâm thực hiện khám chữa bệnh lậu tại đây.</p>
+
+<div class="highlight">
+    <h3>Ưu đãi khám bệnh xã hội tổng quát</h3>
+    <p>Liên hệ 02877779888 (gọi hoặc kb zalo) miễn phí ✅Ưu đãi gói khám bệnh xã hội #260k</p>
+</div>
+
+<p>Địa chỉ khám chữa bệnh lậu ở TPHCM có nhiều chương trình ưu đãi khi đăng ký trực tuyến</p>
+
+<p>Hiện nay, phòng khám đang diễn ra nhiều chương trình ưu đãi giảm giá dành cho những bệnh nhân đăng ký khám trước khi gọi qua số hotline 02877779888 hoặc nhấp vào khung chat trực tuyến ngay tại đây, bạn sẽ nhận được hai hạng mục ưu đãi hấp dẫn sau:</p>
+
+<ul>
+    <li>Gói khám sức khỏe tổng quát chỉ với giá 320.000 đồng.</li>
+    <li>Gói khám bệnh xã hội chỉ 260k</li>
+    <li>Giảm thêm 30% chi phí điều trị bệnh lậu bằng phương pháp miễn dịch DHA.</li>
+</ul>
+
+<p>Địa chỉ khám chữa bệnh lậu ở TPHCM có dịch vụ y tế chuyên nghiệp</p>
+
+<p>Ngoài những ưu điểm kể trên, phòng khám An Đông còn được đánh giá cao với nhiều dịch vụ y tế chuyên nghiệp như:</p>
+
+<ul>
+    <li>Bệnh nhân có quá trình khám chữa bệnh tại đây sẽ được các chuyên viên y tế hướng dẫn làm thủ tục thăm khám nhanh gọn, giúp tiết kiệm tối đa thời gian cho người bệnh.</li>
+    <li>Ngay khi có kết quả chẩn đoán bệnh, người bệnh sẽ được các bác sĩ trao đổi trực tiếp về diễn biến của bệnh, đồng thời mỗi bệnh nhân sẽ được xây dựng một phương pháp điều trị phù hợp.</li>
+    <li>Nhằm giúp người bệnh tiết kiệm được nhiều thời gian hơn và được khám nhanh không phải mất thời gian chờ đợi, người bệnh có thể gọi điện đến đường dây nóng sẽ được các chuyên viên hướng dẫn cách đặt lịch khám nhanh chóng.</li>
+    <li>Phòng khám có hệ thống chat website zalo, facebook,.., luôn sẵn sàng giải đáp mọi thắc mắc của người bệnh một cách tận tình, chu đáo.</li>
+</ul>
+
+<p>Địa chỉ khám chữa bệnh lậu ở TPHCM giúp bảo mật thông tin bệnh nhân</p>
+
+<p>Bệnh nhân khi có quá trình khám chữa bệnh lậu tại đây có thể an tâm, bởi vì mọi thông tin cá nhân của bệnh nhân sẽ được giữ kín, bảo mật tuyệt đối không tiết lộ dưới mọi hình thức.</p>
+
+<p>Địa chỉ khám chữa bệnh lậu ở TPHCM có thời gian làm việc linh hoạt</p>
+
+<p>Phòng khám hiện đang là một trong số ít những cơ sở y tế có thời gian làm việc linh hoạt từ 8h00 – 20h00 tất cả các ngày trong tuần, kể cả những ngày cuối tuần, lễ tết. Giúp người bệnh có thể chủ động lựa chọn thời gian khám chữa bệnh phù hợp với thời gian rảnh mà không còn lo ảnh hưởng đến công việc và cuộc sống hằng ngày của mình.</p>
+
+<p>Với những ưu điểm vượt trội của mình, có thể thấy phòng khám Chuyên khoa An Đông là một địa chỉ dành cho những ai vẫn băn khoăn không biết chữa bệnh lậu ở đâu uy tín tại TPHCM, có thể tin tưởng lựa chọn để điều trị dứt điểm bệnh lậu. Bạn hãy nhanh chóng gọi điện đến số hotline để được các chuyên gia tư vấn hướng dẫn cách thức đặt lịch nhanh chóng và nhận nhiều ưu đãi hấp dẫn nhé.</p>
+
+<p>Không phải ngẫu nhiên mà phòng khám Chuyên khoa An Đông trở thành địa chỉ chữa bệnh lậu ở TPHCM được nhiều người tin tưởng. Tất cả là nhờ các yếu tố sau:</p>
+
+<p>Công nghệ điều trị bệnh lậu hiện đại: Công nghệ phục hồi gene DHA</p>
+
+<p>Ưu điểm:</p>
+
+<ul>
+    <li>Tiêu diệt hiệu quả mầm bệnh bằng cách phá hủy cấu trúc tế bào vi khuẩn và kích hoạt hệ thống miễn dịch, sản sinh kháng thể chống lại virus</li>
+    <li>Tế bào bệnh bị phá hủy nhanh chóng mà không ảnh hưởng đến tế bào khỏe mạnh</li>
+    <li>Quá trình điều trị không gây đau, không tác dụng phụ, không ảnh hưởng đến các vùng xung quanh</li>
+    <li>Vết thương nhanh lành mà không ảnh hưởng đến sinh hoạt và công việc hàng ngày</li>
+    <li>Tiêu diệt hoàn toàn vi khuẩn và ngăn ngừa bệnh tái phát</li>
+</ul>
+
+<p>Đội ngũ bác sĩ chất lượng cao: Đội ngũ bác sĩ uy tín, có trình độ chuyên môn cao, nhiều năm kinh nghiệm, tận tâm, ...</p>
+
+<div class="highlight">
+    <h3>Ưu đãi khám bệnh xã hội tổng quát</h3>
+    <p>Liên hệ 02877779888 (gọi hoặc kb zalo) miễn phí ✅Ưu đãi gói khám bệnh xã hội #260k</p>
+</div>
+
+<h3>2. Khám chữa bệnh lậu ở đâu tại Bệnh viện Bệnh Nhiệt Đới TP.HCM</h3>
+
+<p>Địa chỉ: 764 Võ Văn Kiệt, Phường 1, Quận 5, TPHCM</p>
+
+<p>Giờ hoạt động: Thứ Hai - Thứ Sáu, 7:30 sáng - 11:30. Chiều 13h30 - 16h30</p>
+
+<p>Nếu nhắc tới địa chỉ chữa trị bệnh lậu tốt ở TPHCM thì khó có thể bỏ qua Bệnh viện Bệnh Nhiệt Đới TP.HCM được. Đây là bệnh viện đa khoa hạng I và rất nổi tiếng đối với người dân Miền Nam.</p>
+
+<p>Bệnh viện Bệnh Nhiệt Đới TP.HCM vốn là cái tên không còn quá xa lạ với người dân thành phố TPHCM và các tỉnh thành vùng lân cận. Bệnh viện được thành lập vào năm 1989, trải qua quãng thời gian dài hình thành và phát triển, hiện nay bệnh viện đã trở thành một trong những bệnh viện đa khoa hạng đặc biệt thuộc tuyến đầu ngành trong nhiều lĩnh vực của đất nước.</p>
+
+<p>Bệnh viện Bệnh Nhiệt Đới TP.HCM tiếp nhận điều trị trên mọi lĩnh vực, trong đó có bệnh lậu. Có lẽ không ai không biết về chất lượng chữa bệnh lậu của bệnh viện. Tất cả bệnh nhân điều trị tại đây đều nhận được kết quả như mong đợi.</p>
+
+<p>Bệnh viện Bệnh Nhiệt Đới TP.HCM là địa chỉ y tế sở hữu được đội ngũ y bác sĩ đều là những người giỏi, nắm vững trình độ chuyên môn, dày dặn kinh nghiệm trong quá trình khám và chữa trị bệnh lậu.</p>
+
+<p>Bên cạnh đó, bệnh viện cũng rất chú trọng đến việc nâng cấp, xây dựng cơ sở vật chất rộng rãi, khang trang sạch đẹp, cùng với hệ thống máy móc – trang thiết bị y tế hiện đại, nhằm mang đến quá trình khám chữa bệnh đạt hiệu quả cao cho người bệnh.</p>
+
+<p>Chính vì thế mà bệnh viện cũng là một lựa chọn tương đối tốt khi mọi người có nhu cầu đi khám chữa bệnh lậu.</p>
+
+<p>Tuy nhiên, đến nay tình trạng quá tải là khó có thể tránh khỏi được, nhưng mọi người có thể tới sớm để lấy số khám để tránh mất thêm nhiều thời gian chờ đợi.</p>
+
+<h3>3. Khám chữa bệnh lậu ở đâu tại Bệnh viện Da Liễu TP.HCM</h3>
+
+<p>Địa chỉ: 2 Nguyễn Thông, Phường 6, Quận 3, TPHCM</p>
+
+<p>Giờ hoạt động: Thứ Hai - Thứ Sáu, 7:30 sáng - 11:30. Chiều 13h30 - 16h30</p>
+
+<p>Bệnh viện Da Liễu TP.HCM là địa chỉ khám chữa bệnh lậu tiếp theo mà chúng tôi muốn chia sẻ đến các bạn. Bệnh viện được thành lập năm 1975. Khi mới thành lập, bệnh viện có khoảng 50 cán bộ, nhân viên để khám và chữa bệnh cho mọi người.</p>
+
+<p>Sau quá trình phát triển lâu dài, bệnh viện có khoảng 300 cán bộ công nhân viên cùng hệ thống cơ sở vật chất khang trang, hiện đại.</p>
+
+<p>Chuyên khoa Da liễu của bệnh viện là chuyên khoa đầu ngành của nước ta. Khoa tiến hành các xét nghiệm và điều trị các bệnh ngoài da, bệnh lây truyền qua đường tình dục, trong đó có bệnh lậu.</p>
+
+<p>Bệnh lậu đang được điều trị an toàn và hiệu quả tại Bệnh viện Da Liễu TP.HCM. Tuy nhiên, do quá tải bệnh nhân nên các thủ tục khám chữa bệnh mất nhiều thời gian.</p>
+
+<h3>4. Khám chữa bệnh lậu ở đâu tại Trung tâm Y khoa Medic</h3>
+
+<p>Nói đến địa chỉ phòng khám chữa bệnh lậu tốt tại TPHCM, thì Trung tâm Y khoa Medic là cái tên không thể nào không kể đến. Đây là một trong những phòng khám đa khoa được rất nhiều chuyên gia y tế đánh giá cao từ chất lượng dịch vụ, cơ sở vật chất hạ tầng sạch đẹp, thoáng mát, đến hệ thống máy móc trang thiết bị y tế đều rất hiện đại, tất cả đều được ban lãnh đạo phòng khám nhập về từ các nước có nền Y học phát triển.</p>
+
+<p>Bên cạnh đó, Trung tâm Y khoa Medic còn là cơ sở y tế sở hữu được đội ngũ y bác sĩ hoàn toàn là những người có trình độ chuyên môn cao, tay nghề giỏi, đã có rất nhiều kinh nghiệm trong quá trình kiểm tra, thăm khám, xét nghiệm, chẩn đoán và điều trị bệnh lậu.</p>
+
+<p>Khi đến đây khám chữa bệnh lậu, bệnh nhân cũng sẽ được đội ngũ nhân viên y tế của Trung tâm Y khoa Medic nhiệt tình hỗ trợ, hướng dẫn hoàn thành mọi thủ tục, giấy tờ một cách nhanh chóng, được tận tình chăm sóc sức khỏe cả trong và sau quá trình khám chữa bệnh lậu.</p>
+
+<p>Vậy nên Trung tâm Y khoa Medic là một lựa chọn tương đối tốt cho người bệnh đang có nhu cầu đi khám chữa bệnh lậu. Trung tâm Y khoa Medic là địa chỉ xét nghiệm và khám chữa bệnh lậu tốt ở TPHCM mà bạn có thể tới khi không may mắc bệnh lậu.</p>
+
+<p>Nơi đây có đội ngũ bác sĩ giỏi và giàu kinh nghiệm, hơn nữa chất lượng dịch vụ khám chữa ở đây cũng rất tốt. Ngoài ra thì chi phí khám chữa bệnh ở đây cũng khá hợp lý và công khai. Hiệu quả chữa trị cũng tốt nữa nên các bạn có thể yên tâm khi tới đây để điều trị bệnh lậu.</p>
+
+<h3>5. Khám chữa bệnh lậu ở đâu tại Bệnh viện Đại học Y Dược TP.HCM</h3>
+
+<p>Địa chỉ: 215 Hồng Bàng, Phường 11, Quận 5, TPHCM</p>
+
+<p>Giờ hoạt động: Thứ Hai - Thứ Sáu, 7:30 sáng - 11:30. Chiều 13h30 - 16h30</p>
+
+<p>Với những ai đang thắc mắc không biết nên khám chữa bệnh lậu ở đâu tốt nhất tại TPHCM thì Bệnh viện Đại học Y Dược TP.HCM là một trong những địa chỉ tốt, uy tín mà mọi người có thể lựa chọn.</p>
+
+<p>Bệnh viện Đại học Y Dược TP.HCM được thành lập vào năm 1994 theo chủ trương và quyết định của Bộ y tế. Sau hơn 30 năm hình thành và phát triển đến nay bệnh viện đã có quy mô tương đối lớn với khuôn viên rộng lớn, sạch đẹp cùng đầy đủ các hệ thống phòng ban chức năng với đội ngũ y bác sĩ đều là những người giỏi, nắm chắc chuyên môn, dày dặn kinh nghiệm trong quy trình khám chữa bệnh lậu, nhiều bác sĩ giữ chức vụ cao như: Giáo sư, phó giáo sư, tiến sĩ, thạc sĩ, giảng viên trường Đại học Y Dược TP.HCM.</p>
+
+<p>Bên cạnh đó, bệnh viện cũng rất chú trọng đến việc đầu tư máy móc – trang thiết bị y tế tân tiến, hiện đại, nhằm giúp quá trình điều trị bệnh lậu mang đến hiệu quả cao, giúp điều trị triệt để mầm bệnh cho bệnh nhân.</p>
+
+<p>Tuy nhiên, bệnh viện có số lượng bệnh nhân rất lớn đến khám chữa bệnh mỗi ngày, do đó tình trạng quá tải diễn ra khiến cho quá trình khám chữa bệnh lậu tại đây sẽ mất khá nhiều thời gian.</p>
+
+<p>Bệnh viện Đại học Y Dược TP.HCM chắc hẳn là cái tên không ai xa lạ. Đây là một trong những đơn vị y tế tuyến trung ương nổi tiếng. Bệnh viện là cái nôi đào tạo các Y sĩ, Dược sĩ chất lượng cao cho cả nước. Đồng thời, nơi đây là nơi nghiên cứu y học, thực hiện khám chữa bệnh cho mọi người.</p>
+
+<p>Nếu bạn muốn đi khám chữa bệnh lậu mà muốn tiết kiệm chi phí thì có thể tham khảo Bệnh viện Đại học Y Dược TP.HCM. Là cơ sở khám chữa bệnh chất lượng cao, đảm bảo an toàn được giới chuyên môn đánh giá cao.</p>
+
+<p>Tuy nhiên, lượng bệnh nhân đến khám và điều trị hàng ngày khá đông, người bệnh phải chờ đợi lâu. Ngoài ra, các bác sĩ Bệnh viện Đại học Y Dược TP.HCM chỉ khám vào các buổi sáng trong tuần, người bệnh cần sắp xếp thời gian hợp lý.</p>
+
+<h3>6. Bệnh viện Từ Dũ</h3>
+
+<p>Địa chỉ: 284 Cống Quỳnh, Phường Phạm Ngũ Lão, Quận 1, TPHCM.</p>
+
+<p>Nhắc đến Bệnh viện Từ Dũ, đây là cái tên không còn xa lạ với người dân nội thành TPHCM và các tỉnh vùng lân cận xung quanh khu vực miền nam. Đây là một trong những cơ sở y tế được nhiều chuyên gia y tế đánh giá là địa chỉ khám chữa bệnh lậu uy tín, chất lượng, hiệu quả tại TPHCM.</p>
+
+<p>Bệnh viện được xây dựng với mô hình cơ sở vật chất – hạ tầng khang trang, sạch sẽ cùng các phòng ban chức năng được cung cấp đầy đủ thiết bị máy móc tân tiến, hiện đại nhằm mang đến cho người bệnh một môi trường khám chữa bệnh chất lượng, chính xác và hiệu quả.</p>
+
+<p>Thêm vào đó, khi khám chữa bệnh lậu tại Bệnh viện Từ Dũ, bệnh nhân sẽ được tiếp nhận điều trị từ các bác sĩ chuyên khoa dày dặn kinh nghiệm, có trình độ chuyên môn cao và tay nghề giỏi. Vì vậy mà Bệnh viện Từ Dũ là một lựa chọn tốt cho những ai đang có nhu cầu đi khám chữa bệnh lậu.</p>
+
+<h3>7. Khám chữa bệnh lậu ở đâu uy tín tại Bệnh viện Chợ Rẫy</h3>
+
+<p>Địa chỉ: 201B Nguyễn Chí Thanh, Phường 12, Quận 5, TPHCM.</p>
+
+<p>Vào năm 1900, Bệnh viện Chợ Rẫy được thành lập và là một trong những bệnh viện lâu đời nhất tại TPHCM.</p>
+
+<p>Hơn 120 năm hình thành, đổi mới và phát triển cùng với nhiều thành tựu nổi bật đạt được, Bệnh viện Chợ Rẫy là cơ sở y tế đã vinh dự được Nhà nước trao tặng danh hiệu Anh hùng lao động. Với mục tiêu mang đến cơ sở y tế tiêu chuẩn Châu Á, bệnh viện đã luôn nỗ lực cố gắng cải thiện, xây dựng cơ sở vật chất – hạ tầng khang trang, sạch đẹp cùng với hệ thống máy móc trang thiết bị y tế hiện đại.</p>
+
+<p>Cùng với đó bệnh viện còn sở hữu được đội ngũ y bác sĩ đều là những người giàu kinh nghiệm, tay nghề cao, kết hợp cùng các chuyên gia y tế đến từ các nước phát triển y học. Chính vì vậy mà khi người bệnh có nhu cầu khám chữa bệnh lậu có thể tham khảo lựa chọn Bệnh viện Chợ Rẫy là điểm đến.</p>
+
+<h3>8. Khám chữa bệnh lậu ở đâu tại Bệnh viện Bình Dân</h3>
+
+<p>Địa chỉ: 371 Điện Biên Phủ, Phường 4, Quận 3, TPHCM</p>
+
+<p>Giờ hoạt động: Thứ Hai - Thứ Sáu, 7:30 sáng - 11:30. Chiều 13h30 - 16h30</p>
+
+<p>Người bệnh nếu muốn biết đi khám và điều trị bệnh lậu ở đâu tại TPHCM thì có thể gửi gắm sức khỏe của mình đến Bệnh viện Bình Dân. Đây là bệnh viện có cơ sở vật chất, trang thiết bị y tế khang trang. Thiết bị y tế hiện đại nhập từ các nước ..</p>
+
+<p>Bệnh viện có đội ngũ bác sĩ chuyên khoa bệnh xã hội giỏi, chuyên nghiệp, có trình độ và kinh nghiệm, ... Bệnh nhân khi tới đây bác sĩ sẽ khám và chữa cẩn thận.</p>
+
+<p>Để nâng cao hiệu quả điều trị, bệnh viện áp dụng các phương pháp điều trị hiện đại, hiệu quả chữa bệnh rất rõ rệt. Tuy nhiên, bệnh viện vẫn còn tồn tại một vài bất cập nhỏ.</p>
+
+<h3>9. Bệnh viện Phạm Ngọc Thạch</h3>
+
+<p>Địa chỉ: 120 Hồng Bàng, Phường 12, Quận 5, TPHCM</p>
+
+<p>Bạn băn khoăn không biết khám chữa bệnh lậu ở đâu uy tín tại TPHCM thì Bệnh viện Phạm Ngọc Thạch là địa chỉ đáng tin cậy dành cho mọi người ở TPHCM.</p>
+
+<h3>10. Khám chữa bệnh lậu ở đâu tốt tại Bệnh viện Nhân Dân 115</h3>
+
+<p>Địa chỉ: 527 Sư Vạn Hạnh, Phường 12, Quận 10, TPHCM.</p>
+
+<p>Một trong những địa chỉ phòng khám chữa bệnh lậu tốt tại TPHCM, mà mọi người không thể nào bỏ qua đó là cái tên Bệnh viện Nhân Dân 115.</p>
+
+<p>Bệnh viện Nhân Dân 115 được thành lập vào năm 1989, sau quãng thời gian dài hình thành, thay đổi, hội nhập và phát triển, đến nay bệnh viện đã trở thành một trong những Trung tâm y tế chuyên sâu thuộc bệnh viện chuyên khoa hạng đặc biệt của thành phố TPHCM.</p>
+
+<p>Hiện nay bệnh viện đang rất chú trọng đến việc cải tạo, tu sửa và xây dựng lại cơ sở vật chất – hạ tầng khang trang, rộng rãi, sạch đẹp, bên cạnh đó là việc đầu tư về hệ thống máy móc, trang thiết bị y tế tân tiến, hiện đại. Nhằm đem đến một môi trường khám chữa bệnh lậu an toàn, đạt được hiệu quả cao cho người bệnh.</p>
+
+<p>Tuy nhiên, do bệnh viện có chất lượng khám chữa bệnh tốt nên luôn gặp phải tình trạng quá tải bệnh nhân. Do đó, nếu bạn có nhu cầu khám chữa bệnh lậu tại đây thì nên chủ động đi sớm để được lấy số khám trước.</p>
+
+<p>Qua nội dung bài viết, mọi người đã biết được địa chỉ khám chữa bệnh lậu ở TPHCM chất lượng và an toàn. Điều đặc biệt quan trọng là lựa chọn địa chỉ y tế uy tín, có đội ngũ bác sĩ tay nghề cao. Mọi thắc mắc vui lòng gọi đến hotline để được giải đáp miễn phí.</p>
+
+<div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+</body>
+</html>
+    `;
+}
