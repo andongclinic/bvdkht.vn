@@ -1291,6 +1291,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-la
 <h2>Những thông tin về bệnh lậu mà bạn cần biết</h2>
 <p>Bệnh lậu là căn bệnh xã hội vô cùng nguy hiểm do vi khuẩn có tên là Neisseria gonorrhoeae gây ra. Đồng thời, đây cũng là căn bệnh xã hội khá phổ biến hiện nay và thường lây truyền chủ yếu qua quan hệ tình dục không an toàn ở nam giới và nữ giới.</p>
 <p>Ngoài con đường lây truyền chủ yếu qua quan hệ tình dục không an toàn, nguyên nhân gây ra bệnh lậu còn lây truyền qua nhiều con đường khác nhau như: Sử dụng chung đồ dùng cá nhân, tiếp xúc với vết thương hở và dịch mủ của người mắc bệnh lậu, lây truyền từ mẹ sang con.</p>
+<img src="https://prod-cdn.pharmacity.io/blog/jHghypmY-benh-lau-la-gi-1.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUYXZVMJMURHIYJSN%2F20240708%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20240708T061934Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=c58b1f8d31fdc0f46603322d9f4afe355b244c68467e88399c3fe16700c93bd4" alt="Những thông tin về bệnh lậu mà bạn cần biết" width="600" height="400">
 <p>Bên cạnh đó, trong hầu hết các trường hợp bệnh lậu sau khi xâm nhập vào cơ thể người sẽ có thời gian ủ bệnh khá ngắn từ 3 – 5 ngày. Sau đó, người bệnh sẽ xuất hiện các triệu chứng phổ biến như sau:</p>
 <ul>
     <li>Cơ thể xuất hiện biểu hiện đi tiểu nhiều lần, đau rát khi đi tiểu, tiểu ra máu,..</li>
@@ -1309,6 +1310,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-la
     <li>Khám chữa bệnh lậu ở đâu TPHCM đang cập nhật và áp dụng các tiến bộ công nghệ y tế mới nhất để hỗ trợ chẩn đoán và điều trị hiệu quả.</li>
     <li>Khám chữa bệnh lậu ở đâu TPHCM đáp ứng các thông tin từ những người đã trải qua khám và điều trị tại địa chỉ đó có thể cung cấp một cái nhìn thực tế về chất lượng dịch vụ. Đánh giá từ bệnh nhân trước đó có thể được tìm thấy trên các diễn đàn y tế hoặc trang web đánh giá dịch vụ y tế.</li>
     <li>Khám chữa bệnh lậu ở đâu TPHCM tuân thủ chặt chẽ các quy tắc về bảo mật thông tin bệnh nhân và tôn trọng quyền riêng tư của họ.</li>
+    <img src="https://i.pinimg.com/736x/61/4d/d0/614dd09ff0923beb76781533f765555f.jpg" alt="Khám bệnh lậu ở đâu uy tín tại TPHCM" width="600" height="400">
     <li>Khám chữa bệnh lậu ở đâu TPHCM nên cung cấp thông tin đầy đủ và chi tiết về các dịch vụ, quy trình khám và điều trị, cũng như các chi phí liên quan.</li>
     <li>Khám bệnh lậu ở đâu TPHCM đó có giấy phép hoạt động hợp pháp từ các cơ quan y tế có thẩm quyền.</li>
     <li>Khám bệnh lậu ở đâu TPHCM có thể cung cấp các dịch vụ hỗ trợ như tư vấn, hướng dẫn về bệnh, và giải đáp thắc mắc của bệnh nhân.</li>
@@ -1521,6 +1523,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-la
 
 <p>Bệnh lậu đang được điều trị an toàn và hiệu quả tại Bệnh viện Da Liễu TP.HCM. Tuy nhiên, do quá tải bệnh nhân nên các thủ tục khám chữa bệnh mất nhiều thời gian.</p>
 
+<p><a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" target="_blank" rel="noopener"><img src="https://andongclinic.vn/ckfinder/userfiles/images/Chat/Chat-Dakhoa.gif" alt="Liên hệ ngay" width="500" height="150"></a></p>
 <h3>4. Khám chữa bệnh lậu ở đâu tại Trung tâm Y khoa Medic</h3>
 
 <p>Nói đến địa chỉ phòng khám chữa bệnh lậu tốt tại TPHCM, thì Trung tâm Y khoa Medic là cái tên không thể nào không kể đến. Đây là một trong những phòng khám đa khoa được rất nhiều chuyên gia y tế đánh giá cao từ chất lượng dịch vụ, cơ sở vật chất hạ tầng sạch đẹp, thoáng mát, đến hệ thống máy móc trang thiết bị y tế đều rất hiện đại, tất cả đều được ban lãnh đạo phòng khám nhập về từ các nước có nền Y học phát triển.</p>
@@ -1536,6 +1539,8 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-la
 <h3>5. Khám chữa bệnh lậu ở đâu tại Bệnh viện Đại học Y Dược TP.HCM</h3>
 
 <p>Địa chỉ: 215 Hồng Bàng, Phường 11, Quận 5, TPHCM</p>
+
+<img src="https://khdt.edu.vn/wp-content/uploads/2022/12/toa-nha-bv.jpg" alt="Khám chữa bệnh lậu ở đâu tại Bệnh viện Đại học Y Dược TP.HCM" width="600" height="400">
 
 <p>Giờ hoạt động: Thứ Hai - Thứ Sáu, 7:30 sáng - 11:30. Chiều 13h30 - 16h30</p>
 
@@ -1584,7 +1589,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-la
 <p>Bệnh viện có đội ngũ bác sĩ chuyên khoa bệnh xã hội giỏi, chuyên nghiệp, có trình độ và kinh nghiệm, ... Bệnh nhân khi tới đây bác sĩ sẽ khám và chữa cẩn thận.</p>
 
 <p>Để nâng cao hiệu quả điều trị, bệnh viện áp dụng các phương pháp điều trị hiện đại, hiệu quả chữa bệnh rất rõ rệt. Tuy nhiên, bệnh viện vẫn còn tồn tại một vài bất cập nhỏ.</p>
-
+<p><a href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" target="_blank" rel="noopener"><img src="https://andongclinic.vn/ckfinder/userfiles/images/Chat/Chat-Dakhoa.gif" alt="Liên hệ ngay" width="500" height="150"></a></p>
 <h3>9. Bệnh viện Phạm Ngọc Thạch</h3>
 
 <p>Địa chỉ: 120 Hồng Bàng, Phường 12, Quận 5, TPHCM</p>
@@ -1594,6 +1599,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-la
 <h3>10. Khám chữa bệnh lậu ở đâu tốt tại Bệnh viện Nhân Dân 115</h3>
 
 <p>Địa chỉ: 527 Sư Vạn Hạnh, Phường 12, Quận 10, TPHCM.</p>
+<img src="https://cdn.youmed.vn/tin-tuc/wp-content/uploads/2019/05/cong-so-2-benh-vien-pham-ngoc-thach-1024x767.jpg" alt="bệnh viện khám và điều trị bệnh lậu tốt ở TPHCM" width="600" height="400">
 
 <p>Một trong những địa chỉ phòng khám chữa bệnh lậu tốt tại TPHCM, mà mọi người không thể nào bỏ qua đó là cái tên Bệnh viện Nhân Dân 115.</p>
 
