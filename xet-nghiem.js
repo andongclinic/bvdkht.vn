@@ -129,8 +129,10 @@ if (crurl.includes("https://bvdkht.vn/feedback/2850/14-dia-chi-kham-chua-sui-mao
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
         <title>14 Địa chỉ khám và chữa sùi mào gà ở đâu tốt nhất TPHCM</title>
-        <meta content="Tìm hiểu quy trình, chi phí và các cơ sở xét nghiệm tinh dịch đồ chất lượng tại TP.HCM." name="description">
-        <meta content="Danh sách 14 địa chỉ khám chữa bệnh sùi mào gà ở đâu tốt nhất TPHCM là Bệnh viện chữa sùi mào gà Tâm Anh, Khám sùi mào gà Bệnh viện Da liễu TPHCM, Phòng khám bệnh sùi mào gà An Đông, Bệnh viện Từ Dũ, Bệnh viện Bình Dân, Bệnh viện Nhân dân 115, Bệnh viện xét nghiệm sùi mào gà Chợ Rẫy, Điều trị sùi mào gà Bệnh viện Đại học Y Dược TPHCM." name="keywords">
+        <meta content="Danh sách 14 địa chỉ khám chữa bệnh sùi mào gà ở đâu tốt nhất TPHCM là Bệnh viện chữa sùi mào gà Tâm Anh, Khám sùi mào gà Bệnh viện Da liễu TPHCM, Phòng khám bệnh sùi mào gà An Đông, Bệnh viện Từ Dũ, Bệnh viện Bình Dân, Bệnh viện Nhân dân 115, Bệnh viện xét nghiệm sùi mào gà Chợ Rẫy, Điều trị sùi mào gà Bệnh viện Đại học Y Dược TPHCM." name="description">
+        <meta content="ChatGPT đã nói:
+
+chữa sùi mào gà ở đâu tốt nhất tphcm, địa chỉ chữa sùi mào gà uy tín tphcm, phòng khám chữa sùi mào gà tphcm, chữa sùi mào gà an toàn ở tphcm, bác sĩ chữa sùi mào gà giỏi tphcm, nơi điều trị sùi mào gà hiệu quả tphcm, bệnh viện chữa sùi mào gà tốt tphcm, chi phí chữa sùi mào gà tphcm" name="keywords">
         <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"14 Địa chỉ khám và chữa sùi mào gà ở đâu tốt nhất TPHCM","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.7","ratingCount":"160","bestRating":"10","worstRating":"1"}}
@@ -144,8 +146,15 @@ if (crurl.includes("https://bvdkht.vn/feedback/2850/14-dia-chi-kham-chua-sui-mao
     </head>
     <body>
 <div class="header" style="display: flex; justify-content: center;">
-    <div class="logo"> <a href="#"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo"  width="410" height="80"> </a></div></div>
-        <div id="content">
+  <div class="logo">
+    <a href="#">
+      <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg"
+           alt="Logo" title="Logo"
+           style="width: 410px; height: 80px; object-fit: contain;">
+    </a>
+  </div>
+</div>
+<div id="content">
 <h1>14 Địa chỉ khám và chữa sùi mào gà ở đâu tốt nhất TPHCM</h1>
 <p>Danh sách 14 địa chỉ khám chữa bệnh sùi mào gà ở đâu tốt nhất TPHCM gồm: Bệnh viện chữa sùi mào gà Tâm Anh, Khám sùi mào gà Bệnh viện Da liễu TPHCM, Phòng khám bệnh sùi mào gà An Đông, Bệnh viện Từ Dũ, Bệnh viện Bình Dân, Bệnh viện Nhân dân 115, Bệnh viện xét nghiệm sùi mào gà Chợ Rẫy, Điều trị sùi mào gà Bệnh viện Đại học Y Dược TPHCM.</p>
 
@@ -351,5 +360,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2850/14-dia-chi-kham-chua-sui-mao
 </html>
     `;
 }
+
 
 
