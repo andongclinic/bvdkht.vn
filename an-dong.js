@@ -1443,7 +1443,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-la
 
 <ul>
     <li>Gói khám sức khỏe tổng quát chỉ với giá 320.000 đồng.</li>
-    <li>Gói khám bệnh xã hội chỉ 260k</li>
+    <li>Gói khám bệnh xã hội chỉ 300k</li>
     <li>Giảm thêm 30% chi phí điều trị bệnh lậu bằng phương pháp miễn dịch DHA.</li>
 </ul>
 
@@ -1486,7 +1486,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-la
 
 <div class="highlight">
     <h3>Ưu đãi khám bệnh xã hội tổng quát</h3>
-    <p>Liên hệ 02877779888 (gọi hoặc kb zalo) miễn phí ✅Ưu đãi gói khám bệnh xã hội #260k</p>
+    <p>Liên hệ 02877779888 (gọi hoặc kb zalo) miễn phí ✅Ưu đãi gói khám bệnh xã hội 300k</p>
 </div>
 
 <h3>2. Khám chữa bệnh lậu ở đâu tại Bệnh viện Bệnh Nhiệt Đới TP.HCM</h3>
