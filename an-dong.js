@@ -1246,8 +1246,8 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-la
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
         <title>14 Địa chỉ khám và chữa sùi mào gà ở đâu tốt nhất TPHCM</title>
-        <meta content="Danh sách 14 địa chỉ khám chữa bệnh sùi mào gà ở đâu tốt nhất TPHCM là Bệnh viện chữa sùi mào gà Tâm Anh, Khám sùi mào gà Bệnh viện Da liễu TPHCM, Phòng khám bệnh sùi mào gà An Đông, Bệnh viện Từ Dũ, Bệnh viện Bình Dân, Bệnh viện Nhân dân 115, Bệnh viện xét nghiệm sùi mào gà Chợ Rẫy, Điều trị sùi mào gà Bệnh viện Đại học Y Dược TPHCM." name="description">
-        <meta content="chữa sùi mào gà ở đâu tốt nhất tphcm, địa chỉ chữa sùi mào gà uy tín tphcm, phòng khám chữa sùi mào gà tphcm, chữa sùi mào gà an toàn ở tphcm, bác sĩ chữa sùi mào gà giỏi tphcm, nơi điều trị sùi mào gà hiệu quả tphcm, bệnh viện chữa sùi mào gà tốt tphcm, chi phí chữa sùi mào gà tphcm" name="keywords">
+        <meta content="Địa chỉ chữa bệnh lậu ở đâu tốt nhất tại TPHCM uy tín hay khám bệnh lậu ở đâu tốt nhất tại TPHCM đang là vấn đề nan giải của những ai không may mắc bệnh. Bệnh lậu là căn bệnh xã hội nguy hiểm, đe dọa đến sức khỏe con người." name="description">
+        <meta content="chữa bệnh lậu ở đâu tốt nhất tphcm, địa chỉ chữa bệnh lậu uy tín tphcm, bệnh viện chữa bệnh lậu tphcm, phòng khám chữa bệnh lậu tốt tphcm, nơi chữa bệnh lậu hiệu quả tphcm, chỗ chữa bệnh lậu chất lượng tphcm, điều trị bệnh lậu ở đâu tphcm, khám bệnh lậu ở đâu tphcm, chữa bệnh lậu an toàn tphcm" name="keywords">
         <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"14 Địa chỉ khám và chữa sùi mào gà ở đâu tốt nhất TPHCM","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.7","ratingCount":"160","bestRating":"10","worstRating":"1"}}
