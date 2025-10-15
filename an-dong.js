@@ -1609,7 +1609,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-la
 
 <p>Tuy nhiên, do bệnh viện có chất lượng khám chữa bệnh tốt nên luôn gặp phải tình trạng quá tải bệnh nhân. Do đó, nếu bạn có nhu cầu khám chữa bệnh lậu tại đây thì nên chủ động đi sớm để được lấy số khám trước.</p>
 
-<p>Qua nội dung bài viết, mọi người đã biết được địa chỉ khám chữa bệnh lậu ở TPHCM chất lượng và an toàn. Điều đặc biệt quan trọng là lựa chọn địa chỉ y tế uy tín, có đội ngũ bác sĩ tay nghề cao. Mọi thắc mắc vui lòng gọi đến hotline để được giải đáp miễn phí.</p>
+<p>Qua nội dung bài viết, mọi người đã biết được <strong>địa chỉ khám chữa bệnh lậu ở TPHCM</strong> chất lượng và an toàn. Điều đặc biệt quan trọng là lựa chọn địa chỉ y tế uy tín, có đội ngũ bác sĩ tay nghề cao. Mọi thắc mắc vui lòng gọi đến <strong>hotline 028.7777.9888</strong> để được giải đáp miễn phí.</p>
 
 <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
     <div class="chat">
