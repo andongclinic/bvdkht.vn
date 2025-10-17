@@ -1629,8 +1629,8 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
         <meta content="width=device-width,initial-scale=1" name="viewport">
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
-        <title>Phòng khám chuyên khoa An Đông 360 An Dương Vương, P. Chợ Quán (Quận 5 cũ), TP.HCM</title>
-        <meta content="Phòng khám Chuyên khoa An Đông địa chỉ 360 An Dương Vương, Phường Chợ Quán đã trở thành một biểu tượng của sự uy tín và chất lượng trong lĩnh vực chăm sóc sức khỏe tại khu vực TPHCM." name="description">
+        <title>Phòng khám chuyên khoa An Đông - 360 An Dương Vương, P. Chợ Quán (Q.5 cũ), TP.HCM</title>
+        <meta content="Phòng khám chuyên khoa An Đông địa chỉ 360 An Dương Vương, phường Chợ Quán (quận 5 cũ) được nhiều người đánh giá cao về dịch vụ cũng như hiệu quả khám chữa bệnh" name="description">
         <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Phòng khám chuyên khoa An Đông","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.8","ratingCount":"789","bestRating":"10","worstRating":"1"}}
@@ -1645,7 +1645,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
 <div class="header" style="display: flex; justify-content: center;">
     <div class="logo"> <a href="#"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
         <div id="content">
-<h1>Phòng khám chuyên khoa An Đông - 360 An Dương Vương, Phường Chợ Quán (Quận 5 cũ), TP.HCM</h1>
+<h1>Phòng khám chuyên khoa An Đông - 360 An Dương Vương, P. Chợ Quán (Q.5 cũ), TP.HCM</h1>
 <p>Quận 5 là khu vực sôi động với mật độ dân cư cao và nhiều cơ sở y tế chất lượng. <strong>Phòng khám chuyên khoa An Đông</strong> nổi bật như một địa chỉ chăm sóc sức khỏe uy tín, hiện đại, được đông đảo bệnh nhân tin tưởng. Với phương châm "Lấy bệnh nhân làm trung tâm", <strong>Phòng khám chuyên khoa An Đông</strong> không ngừng nâng cao chất lượng dịch vụ, đầu tư công nghệ y tế tiên tiến và phát triển đội ngũ chuyên môn để mang đến trải nghiệm khám chữa bệnh toàn diện cho người dân TP.HCM và các tỉnh lân cận.</p>
 
     <div class="contact-info">
