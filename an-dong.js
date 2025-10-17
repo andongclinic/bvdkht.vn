@@ -1629,7 +1629,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
         <meta content="width=device-width,initial-scale=1" name="viewport">
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
-        <title>Phòng khám chuyên khoa An Đông - 360 An Dương Vương, Phường Chợ Quán (Quận 5 cũ), TP.HCM</title>
+        <title>Phòng khám chuyên khoa An Đông 360 An Dương Vương, P. Chợ Quán (Quận 5 cũ), TP.HCM</title>
         <meta content="Phòng khám Chuyên khoa An Đông địa chỉ 360 An Dương Vương, Phường Chợ Quán đã trở thành một biểu tượng của sự uy tín và chất lượng trong lĩnh vực chăm sóc sức khỏe tại khu vực TPHCM." name="description">
         <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
@@ -1637,10 +1637,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
         </script>
         <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
         <style>
-        body { font-family: Arial, sans-serif; line-height: 1.8; margin: 20px; }
-        h1, h2 { color: #2c3e50; }
-        h2 { border-bottom: 2px solid #3498db; padding-bottom: 10px; }
-        ul, ol { margin-left: 20px; }
         .contact-info { background: #ecf0f1; padding: 15px; border-radius: 5px; margin: 20px 0; }
         img { max-width: 100%; height: auto; margin: 20px 0; }
     </style>
@@ -1701,7 +1697,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
     
     <p><strong>Phòng khám chuyên khoa An Đông</strong> hoạt động linh hoạt từ 8h sáng đến 20h tối tất cả các ngày trong tuần, kể cả lễ Tết. Dịch vụ khám ngoài giờ đặc biệt phù hợp với nhân viên văn phòng và những người bận rộn. Bệnh nhân có thể đặt lịch khám cuối tuần hoặc buổi tối mà không ảnh hưởng đến công việc. Sau khi hoàn tất điều trị, <strong>Phòng khám chuyên khoa An Đông</strong> cung cấp hướng dẫn chi tiết về chế độ chăm sóc tại nhà và lịch tái khám.</p>
     
-    <img src="https://i.pinimg.com/736x/09/e0/f8/09e0f86b4e877d0e5ecdbabda88e42b0.jpg" alt="Phòng khám Chuyên khoa An Đông" width="600" height="400">
+    <img src="https://i.pinimg.com/736x/10/d5/6b/10d56b371bd2cc208ba188108dcc41ee.jpg" alt="Phòng khám Chuyên khoa An Đông" width="600" height="400">
     
     <p>Hệ thống nhắc lịch tự động qua SMS và email giúp bệnh nhân không bỏ lỡ các buổi theo dõi quan trọng. Quy trình thanh toán minh bạch với nhiều hình thức tiện lợi từ tiền mặt, thẻ ngân hàng đến chuyển khoản, tất cả đều được in hóa đơn chi tiết. Sự đơn giản và hiệu quả trong quy trình không chỉ giúp bệnh nhân tiết kiệm thời gian mà còn giảm stress, tạo tâm lý thoải mái cho quá trình điều trị. Đây chính là một trong những yếu tố then chốt khiến <strong>Phòng khám chuyên khoa An Đông</strong> được đánh giá cao và trở thành lựa chọn ưu tiên của nhiều bệnh nhân tại TP.HCM.</p>
 
