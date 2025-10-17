@@ -1630,7 +1630,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
         <title>Phòng khám chuyên khoa An Đông - 360 An Dương Vương, P. Chợ Quán (Q.5 cũ), TP.HCM</title>
-        <meta content="Phòng khám chuyên khoa An Đông địa chỉ 360 An Dương Vương, phường Chợ Quán (quận 5 cũ) được nhiều người đánh giá cao về dịch vụ cũng như hiệu quả khám chữa bệnh" name="description">
+        <meta content="Phòng khám chuyên khoa An Đông địa chỉ 360 An Dương Vương, phường Chợ Quán (quận 5 cũ) được nhiều người đánh giá cao về dịch vụ cũng như hiệu quả khám chữa bệnh." name="description">
         <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Phòng khám chuyên khoa An Đông","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.8","ratingCount":"789","bestRating":"10","worstRating":"1"}}
