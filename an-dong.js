@@ -1633,7 +1633,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
         <meta content="Phòng khám chuyên khoa An Đông địa chỉ 360 An Dương Vương, phường Chợ Quán (quận 5 cũ) được nhiều người đánh giá cao về dịch vụ cũng như hiệu quả khám chữa bệnh." name="description">
         <link href="https://i.pinimg.com/736x/d9/49/2d/d9492d813487e6c14244a18381e6c41c.jpg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
-            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Phòng khám chuyên khoa An Đông","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.8","ratingCount":"789","bestRating":"10","worstRating":"1"}}
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Phòng khám chuyên khoa An Đông","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.8","ratingCount":"689","bestRating":"10","worstRating":"1"}}
         </script>
         <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
         <style>
