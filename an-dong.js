@@ -1622,7 +1622,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/10-dia-chi-kham-chua-benh-la
 }
 
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-dong-phuong-cho-quan.html")) {
+if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-dong-p-cho-quan.html")) {
     document.querySelector('html').innerHTML = `
     <html lang="vi">
     <head>
@@ -1646,7 +1646,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-do
   <div class="logo"> <img src="https://sun9-71.userapi.com/bXIcAdVLLJOuUoR3pM5-5h8Llxtggpfv8mcQVw/bt2cdVGlMZQ.jpg" alt="Logo" title="Logo" style="width: 410px; height: 80px; object-fit: contain;"> </div> </div>
         <div id="content">
 <h1 style="font-size:8px; text-align:center;"> Phòng khám chuyên khoa An Đông - 360 An Dương Vương, P. Chợ Quán (Q.5 cũ), TP.HCM </h1>
-<p>Quận 5 là khu vực sôi động với mật độ dân cư cao và nhiều cơ sở y tế chất lượng. <strong><a href="https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-dong-phuong-cho-quan.html">Phòng khám chuyên khoa An Đông</a></strong> nổi bật như một địa chỉ chăm sóc sức khỏe uy tín, hiện đại, được đông đảo bệnh nhân tin tưởng. Với phương châm "Lấy bệnh nhân làm trung tâm", <strong>Phòng khám chuyên khoa An Đông</strong> không ngừng nâng cao chất lượng dịch vụ, đầu tư công nghệ y tế tiên tiến và phát triển đội ngũ chuyên môn để mang đến trải nghiệm khám chữa bệnh toàn diện cho người dân TP.HCM và các tỉnh lân cận.</p>
+<p>Quận 5 là khu vực sôi động với mật độ dân cư cao và nhiều cơ sở y tế chất lượng. <strong><a href="https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-dong-p-cho-quan.html">Phòng khám chuyên khoa An Đông</a></strong> nổi bật như một địa chỉ chăm sóc sức khỏe uy tín, hiện đại, được đông đảo bệnh nhân tin tưởng. Với phương châm "Lấy bệnh nhân làm trung tâm", <strong>Phòng khám chuyên khoa An Đông</strong> không ngừng nâng cao chất lượng dịch vụ, đầu tư công nghệ y tế tiên tiến và phát triển đội ngũ chuyên môn để mang đến trải nghiệm khám chữa bệnh toàn diện cho người dân TP.HCM và các tỉnh lân cận.</p>
 
     <div class="contact-info">
         <strong>Địa chỉ:</strong> 360 An Dương Vương, Phường Chợ Quán, TP.HCM<br>
