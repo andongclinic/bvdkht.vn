@@ -101,7 +101,6 @@ h2{border-left:4px solid 	#f2073e;padding-left:10px;}
         <a target="_blank" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&p=thuongseo" rel="nofollow">
             <img src="https://dakhoahoancau.neocities.org/icon/chat-with-bs.gif" alt="Live Chat"></a></div></div>
             <a rel="follow,noopener" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&p=thuongseo" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
-<div style="position:absolute;left: 0px;padding-top: 10px;font-size:16px;width:100%;background: #008080;text-align: center;"><p style="color: #fff;text-align: center;margin-left: 10%;margin-right: 10%;">Nội dung bài viết chỉ mang tính tham khảo. Vui lòng liên hệ bác sĩ hoặc chuyên viên y tế tại Phòng khám Đa khoa Nhật Việt để được tư vấn cụ thể.</p></div>
 </body>
 </html>
     `;
