@@ -1,5 +1,5 @@
 var crurl = window.location.href;
-if (crurl.includes("https://dogruadimlar.com/admin/production/ckeditor/kcfinder/upload/file/phongkham.shtml?top-10-dia-chi-kham-viem-duong-tiet-nieu-o-dau-tot-tai-tphcm.html")) {
+if (crurl.includes("https://dogruadimlar.com/admin/production/ckeditor/kcfinder/upload/file/phongkham.shtml?top-10-dia-chi-kham-viem-duong-tiet-nieu-o-dau-tot-tai-tphcm.htm")) {
     document.querySelector('html').innerHTML = `
     <html lang="vi">
     <head>
