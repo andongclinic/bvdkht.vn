@@ -121,7 +121,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2850/xet-nghiem-tinh-trung-o-tphc
 }
 
 var crurl = window.location.href;
-if (crurl.includes("https://afmc.edu.bd/public/backend/ckeditor/kcfinder/upload/file/xetnghiem.shtml?top-10-phong-kham-xet-nghiem-va-dieu-tri-benh-xa-hoi-uy-tin-o-tphcm.htm")) {
+if (crurl.includes("https://afmc.edu.bd/public/backend/ckeditor/kcfinder/upload/file/xetnghiem.shtml?10-phong-kham-xet-nghiem-va-dieu-tri-benh-xa-hoi-uy-tin-o-tphcm.htm")) {
     document.querySelector('html').innerHTML = `
     <html lang="vi">
     <head>
