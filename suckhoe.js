@@ -76,18 +76,35 @@ h2{border-left:4px solid 	#f2073e;padding-left:10px;}
     `;
 }
 
-<html lang="vi-VN">
-<head>
-    <meta charset="UTF-8">
-    <title>Top 10 địa chỉ cắt bao quy đầu ở Long An ngoài giờ, chi phí rẻ【TP.HCM】</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://v.timduongdi.com/giaodiens.css"/><script language="javascript" src="https://timduongdi.com/chat.js"></script><script src="https://v.timduongdi.com/hs/76469.js"></script>
-    <script type="application/ld+json">{		"@context": "https://schema.org/",	"@type": "CreativeWorkSeason",		"name": "Top 10 địa chỉ cắt bao quy đầu ở Long An ngoài giờ, chi phí rẻ【TP.HCM】",		"aggregateRating": 	{		"@type": "AggregateRating",			"ratingValue": "9.7",			"ratingCount": "76469",			"bestRating": "10",			"worstRating": "1"		}	}</script>
-</head>
-<body>
-    <div id="content">
-        <div class="logo-s"><img src="https://timduongdi.com/logo.png" alt="logo"></div>
-        
+var crurl = window.location.href;
+if (crurl.includes("https://amavet.com.vn/kcfinder/upload/file/suc-khoe.shtml?top-10-dia-chi-cat-bao-quy-dau-o-long-an-ngoai-gio-chi-phi-re.html")) {
+    document.querySelector('html').innerHTML = `
+    <html lang="vi">
+    <head>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 10 địa chỉ cắt bao quy đầu ở Long An ngoài giờ, chi phí rẻ【TP.HCM】</title>
+        <meta content="Top 10 địa chỉ cắt bao quy đầu ở Long An ngoài giờ, chi phí rẻ" name="description">
+        <meta content="cắt bao quy đầu Long An" name="keywords">
+        <link href="https://dakhoahoancau.neocities.org/phong-kham-da-khoa-nhat-viet-logo.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 10 địa chỉ cắt bao quy đầu ở Long An ngoài giờ, chi phí rẻ【TP.HCM】","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.6","ratingCount":"2578","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://dakhoahoancau.neocities.org/giaodien.css" rel="stylesheet">
+<style>
+p img{
+  max-width:100%;
+  height:auto;
+  display:block;
+  margin:10px auto;
+}
+body{padding-top:20px;}
+h2{border-left:4px solid 	#f2073e;padding-left:10px;}
+</style>
+    </head>
+    <body>
+<div style="position:sticky;top:0;background:#fff;text-align:center;z-index:999;border:1px solid #02ad91;"><img src="https://dakhoahoancau.neocities.org/logo-jv.jpg" style="height:70px;margin:5px 0;"></div>
         <h1 style="text-align:center;">Top 10 địa chỉ cắt bao quy đầu ở Long An ngoài giờ, chi phí rẻ【TP.HCM】</h1>
         
 <p dir="ltr" style="text-align:justify;"><em><span style="color:#000000;"><span style="font-size:18px;"><span style="font-family:times new roman,serif;">Cắt bao quy đầu l&agrave; một phương ph&aacute;p được c&aacute;c chuy&ecirc;n gia khuyến nghị khi nam giới c&oacute; những dấu hiệu bất thường tại dương vật. Nhưng đ&acirc;u mới l&agrave; địa chỉ cắt bao quy đầu an to&agrave;n? B&agrave;i viết sau đ&acirc;y sẽ gợi &yacute; cho bạn <strong>Top 10 địa chỉ cắt bao quy đầu ở Long An</strong></span></span></span><span style="color:#000000;"><span style="font-size:18px;"><span style="font-family:times new roman,serif;">&nbsp;ngo&agrave;i giờ an to&agrave;n, chi ph&iacute; phải chăng để bạn c&oacute; th&ecirc;m th&ocirc;ng tin tham khảo trước khi thực hiện.</span></span></span></em></p>
@@ -146,3 +163,5 @@ h2{border-left:4px solid 	#f2073e;padding-left:10px;}
 <div style="position:absolute;left: 0px;padding-top: 10px;font-size:16px;width:100%;background: #327ffa;text-align: justify;"><p style="color: #fff;text-align: center;margin-left: 10%;margin-right: 10%;">Mọi thông tin trên website chỉ mang tính tham khảo. Hiệu quả thăm khám và hỗ trợ điều trị có thể khác nhau tùy từng trường hợp cụ thể.</p></div>
 </body>
 </html>
+    `;
+}
