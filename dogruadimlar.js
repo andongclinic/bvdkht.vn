@@ -105,3 +105,135 @@ h2{border-left:4px solid 	#f2073e;padding-left:10px;}
 </html>
     `;
 }
+
+var crurl = window.location.href;
+if (crurl.includes("https://dogruadimlar.com/admin/production/ckeditor/kcfinder/upload/file/phongkham.shtml?top-10-dia-chi-kham-xet-nghiem-va-dieu-tri-benh-xa-hoi-uy-tin-tai-tphcm.htm")) {
+    document.querySelector('html').innerHTML = `
+    <html lang="vi">
+    <head>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 10 địa chỉ khám, xét nghiệm và điều trị bệnh xã hội uy tín tại TP.HCM</title>
+        <meta content="Top 10 địa chỉ khám, xét nghiệm và điều trị bệnh xã hội uy tín tại TP.HCM" name="description">
+        <meta content="địa chỉ xét nghiệm bệnh xã hội ở tphcm, nơi xét nghiệm bệnh xã hội uy tín tphcm, phòng khám xét nghiệm bệnh xã hội tphcm, cơ sở xét nghiệm bệnh xã hội tại tphcm, xét nghiệm bệnh lây truyền qua đường tình dục tphcm, khám và xét nghiệm bệnh xã hội ở tphcm, trung tâm xét nghiệm bệnh xã hội tphcm, địa chỉ kiểm tra bệnh xã hội chính xác tại tphcm" name="keywords">
+        <link href="https://dakhoahoancau.neocities.org/phong-kham-da-khoa-nhat-viet-logo.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 10 địa chỉ khám, xét nghiệm và điều trị bệnh xã hội uy tín tại TP.HCM","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"13860","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://dakhoahoancau.neocities.org/giaodien.css" rel="stylesheet">
+<style>
+p img{
+  max-width:100%;
+  height:auto;
+  display:block;
+  margin:10px auto;
+}
+body{padding-top:20px;}
+h2{border-left:4px solid 	#f2073e;padding-left:10px;}
+</style>
+    </head>
+    <body>
+<div style="position:sticky;top:0;background:#fff;text-align:center;z-index:999;border:1px solid #32d2fa;"><img src="https://dakhoahoancau.neocities.org/logo-jv.jpg" style="height:70px;margin:5px 0;"></div>
+<h1 style="color:#000;margin:15px 0;font-size:36px !important;font-weight:400;line-height:1.4;font-family:'Crimson Text', serif;">Top 10 địa chỉ khám, xét nghiệm và điều trị bệnh xã hội uy tín tại TP.HCM</h1>
+<p style="text-align: justify;"><span style="font-weight: 400;">Khi nghi ngờ mắc c&aacute;c bệnh l&acirc;y truyền qua đường t&igrave;nh dục như s&ugrave;i m&agrave;o g&agrave;, giang mai, lậu hay mụn rộp sinh dục, việc t&igrave;m kiếm một cơ sở y tế uy t&iacute;n để thăm kh&aacute;m l&agrave; điều v&ocirc; c&ugrave;ng cần thiết. Tại TPHCM, người bệnh c&oacute; thể lựa chọn giữa hệ thống bệnh viện c&ocirc;ng lập lớn hoặc c&aacute;c ph&ograve;ng kh&aacute;m đa khoa tư nh&acirc;n t&ugrave;y thuộc v&agrave;o nhu cầu c&aacute; nh&acirc;n, điều kiện kinh tế v&agrave; quỹ thời gian.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Dưới đ&acirc;y l&agrave; th&ocirc;ng tin </span><strong><a href="" onclick="this.href=window.location.href">Top 10 địa chỉ xét nghiệm và khám bệnh xã hội uy tín, kín đáo tại TPHCM</a></strong><span style="font-weight: 400;"> được nhiều người quan t&acirc;m hiện nay.</span></p>
+<h2 style="text-align: justify;"><strong>T&igrave;m hiểu chung về bệnh x&atilde; hội v&agrave; dấu hiệu nhận biết</strong></h2>
+<p style="text-align: justify;"><span style="font-weight: 400;">Bệnh x&atilde; hội l&agrave; thuật ngữ d&ugrave;ng để chỉ c&aacute;c bệnh l&yacute; c&oacute; khả năng l&acirc;y lan nhanh ch&oacute;ng trong cộng đồng, chủ yếu qua đường quan hệ t&igrave;nh dục kh&ocirc;ng an to&agrave;n. Nh&oacute;m bệnh n&agrave;y c&oacute; thể gặp ở cả nam v&agrave; nữ trong mọi độ tuổi, nhưng phổ biến nhất l&agrave; nh&oacute;m đối tượng trong độ tuổi sinh sản (từ 20 đến 40 tuổi).</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;"><img src="https://nhatnhat.com/pic/Customer/images/cac-benh-lay-truyen-qua-duong-tinh-duc.jpg" alt="xét nghiệm bệnh xã hội ở đâu tại TPHCM" width="600" height="400" /></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">C&aacute;c biểu hiện thường gặp bao gồm:</span></p>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><span style="font-weight: 400;">Xuất hiện c&aacute;c nốt mụn, u nh&uacute;, vết lo&eacute;t hoặc tổn thương da bất thường tại v&ugrave;ng k&iacute;n, hậu m&ocirc;n hoặc khoang miệng.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">C&oacute; cảm gi&aacute;c đau r&aacute;t, tiểu buốt, tiểu rắt hoặc đi tiểu ra mủ.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cơ quan sinh dục tiết dịch bất thường, c&oacute; m&ugrave;i h&ocirc;i hoặc thay đổi m&agrave;u sắc.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Đau r&aacute;t khi quan hệ t&igrave;nh dục; ở phụ nữ c&oacute; thể k&egrave;m theo xuất huyết &acirc;m đạo bất thường giữa chu kỳ.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Thể trạng mệt mỏi, nổi hạch ở bẹn, một số trường hợp c&oacute; thể sốt nhẹ hoặc ớn lạnh.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400;">C&aacute;c triệu chứng n&agrave;y đ&ocirc;i khi xuất hiện muộn hoặc dễ nhầm lẫn với vi&ecirc;m nhiễm th&ocirc;ng thường. V&igrave; vậy, việc thực hiện c&aacute;c x&eacute;t nghiệm chuy&ecirc;n s&acirc;u tại một </span><strong>địa chỉ x&eacute;t nghiệm bệnh x&atilde; hội ở TPHCM</strong><span style="font-weight: 400;"> l&agrave; c&aacute;ch duy nhất để chẩn đo&aacute;n ch&iacute;nh x&aacute;c t&igrave;nh trạng sức khỏe.</span></p>
+<h2 style="text-align: justify;"><strong>Review c&aacute;c địa chỉ kh&aacute;m x&eacute;t nghiệm bệnh x&atilde; hội tại TPHCM</strong></h2>
+<p style="text-align: justify;"><span style="font-weight: 400;">Để người bệnh c&oacute; g&oacute;c nh&igrave;n tổng quan, dưới đ&acirc;y l&agrave; danh s&aacute;ch c&aacute;c cơ sở y tế được sắp xếp v&agrave; đ&aacute;nh gi&aacute; dựa tr&ecirc;n c&aacute;c ti&ecirc;u ch&iacute; về năng lực chuy&ecirc;n m&ocirc;n, quy tr&igrave;nh dịch vụ v&agrave; chi ph&iacute;.</span></p>
+<h3 style="text-align: justify;"><strong>1. Bệnh viện Da liễu TPHCM</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 2 Nguyễn Th&ocirc;ng, Phường 6, Quận 3, TPHCM</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400;">Bệnh viện Da liễu TPHCM l&agrave; bệnh viện chuy&ecirc;n khoa hạng I, tuyến cao nhất tại khu vực ph&iacute;a Nam về điều trị c&aacute;c bệnh l&yacute; về da v&agrave; bệnh l&acirc;y truyền qua đường t&igrave;nh dục. Nơi đ&acirc;y quy tụ đội ngũ chuy&ecirc;n gia, b&aacute;c sĩ đầu ng&agrave;nh với chuy&ecirc;n m&ocirc;n s&acirc;u. Hệ thống ph&ograve;ng x&eacute;t nghiệm đạt chuẩn gi&uacute;p đưa ra kết quả chẩn đo&aacute;n tối ưu cho cả những ca bệnh phức tạp. Chi ph&iacute; kh&aacute;m chữa bệnh tại đ&acirc;y được ni&ecirc;m yết r&otilde; r&agrave;ng theo quy định v&agrave; c&oacute; &aacute;p dụng Bảo hiểm y tế (BHYT). Tuy nhi&ecirc;n, do l&agrave; bệnh viện tuyến cuối n&ecirc;n số lượng bệnh nh&acirc;n đổ về mỗi ng&agrave;y rất đ&ocirc;ng. Người bệnh thường phải xếp h&agrave;ng chờ đợi l&acirc;u từ kh&acirc;u lấy số, kh&aacute;m l&acirc;m s&agrave;ng cho đến khi đợi kết quả.</span></p>
+<h3 style="text-align: justify;"><strong>2. Bệnh viện Đại học Y Dược TPHCM</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 215 Hồng B&agrave;ng, Phường 11, Quận 5, TPHCM</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400;">Đ&acirc;y l&agrave; một trung t&acirc;m y tế đa khoa lớn v&agrave; hiện đại tại TPHCM, kết hợp giữa c&ocirc;ng t&aacute;c điều trị chuy&ecirc;n s&acirc;u v&agrave; nghi&ecirc;n cứu đ&agrave;o tạo. Người bệnh sẽ được thăm kh&aacute;m bởi c&aacute;c b&aacute;c sĩ l&agrave; giảng vi&ecirc;n tại Đại học Y Dược TPHCM, c&oacute; tr&igrave;nh độ chuy&ecirc;n m&ocirc;n cao như Thạc sĩ, Tiến sĩ, Ph&oacute; Gi&aacute;o sư. Cơ sở vật chất, trang thiết bị y tế tại đ&acirc;y rất khang trang v&agrave; ti&ecirc;n tiến. Quy tr&igrave;nh dịch vụ được số h&oacute;a gi&uacute;p giảm thiểu thời gian xử l&yacute; hồ sơ. Mặc d&ugrave; vậy, chi ph&iacute; kh&aacute;m dịch vụ v&agrave; một số x&eacute;t nghiệm tại đ&acirc;y nh&igrave;n chung cao hơn so với mặt bằng chung. Khu vực xung quanh bệnh viện cũng thường xuy&ecirc;n xảy ra t&igrave;nh trạng &ugrave;n tắc giao th&ocirc;ng v&agrave;o giờ cao điểm. Việc chủ động t&igrave;m kiếm một </span><strong>nơi x&eacute;t nghiệm bệnh x&atilde; hội uy t&iacute;n TPHCM</strong><span style="font-weight: 400;"> sẽ gi&uacute;p bạn an t&acirc;m hơn khi tầm so&aacute;t.</span></p>
+<h3 style="text-align: justify;"><strong>3. Ph&ograve;ng kh&aacute;m Đa khoa Nhật Việt</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 73 Kinh Dương Vương, Phường 12, Quận 6, TPHCM</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400;">Đối với những người bận rộn hoặc e ngại kh&ocirc;ng gian đ&ocirc;ng đ&uacute;c tại c&aacute;c bệnh viện lớn, <a href="https://ivtrans.com/public/elfinder/upload/elfinder/index.htm" target="_blank">Ph&ograve;ng kh&aacute;m Đa khoa Nhật Việt</a> l&agrave; một lựa chọn thay thế thuộc khối tư nh&acirc;n. Ph&ograve;ng kh&aacute;m hoạt động dưới sự cấp ph&eacute;p của Sở Y tế TPHCM, kh&aacute;m bệnh ngoại khoa, sản phụ khoa v&agrave; c&aacute;c bệnh l&yacute; l&acirc;y truyền qua đường t&igrave;nh dục.</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;"><img src="https://i.pinimg.com/1200x/43/cc/0f/43cc0f76cc2ddde47b4922d17195fa73.jpg" alt="phòng khám xét nghiệm bệnh xã hội TPHCM" width="600" height="400" /></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Điểm cộng lớn tại đ&acirc;y l&agrave; thời gian l&agrave;m việc linh hoạt từ 8h00 đến 20h00, kể cả cuối tuần v&agrave; ng&agrave;y lễ, ph&ugrave; hợp cho người muốn đi kh&aacute;m ngo&agrave;i giờ h&agrave;nh ch&iacute;nh. Thủ tục đăng k&yacute; nhanh ch&oacute;ng, bảo mật th&ocirc;ng tin tốt v&agrave; c&oacute; hệ thống tư vấn trực tuyến qua hotline để đặt lịch trước, hạn chế chờ đợi. Ph&ograve;ng kh&aacute;m cũng thường triển khai c&aacute;c g&oacute;i kh&aacute;m tầm so&aacute;t bệnh x&atilde; hội với mức chi ph&iacute; hợp l&yacute;.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">V&igrave; l&agrave; m&ocirc; h&igrave;nh ph&ograve;ng kh&aacute;m đa khoa tư nh&acirc;n n&ecirc;n đối với c&aacute;c trường hợp bệnh biến chứng qu&aacute; nặng, cần can thiệp kỹ thuật hồi sức chuy&ecirc;n s&acirc;u diện rộng, ph&ograve;ng kh&aacute;m sẽ hướng dẫn người bệnh chuyển tuyến sang c&aacute;c bệnh viện lớn để đảm bảo an to&agrave;n tối đa.</span></p>
+<h3 style="text-align: justify;"><strong>4. Bệnh viện Chợ Rẫy TPHCM</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 201B Nguyễn Ch&iacute; Thanh, Phường 12, Quận 5, TPHCM</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400;">Bệnh viện Chợ Rẫy l&agrave; bệnh viện đa khoa tuyến trung ương hạng đặc biệt, nổi tiếng với năng lực điều trị c&aacute;c ca bệnh kh&oacute; v&agrave; phức tạp. Đội ngũ y b&aacute;c sĩ tại đ&acirc;y c&oacute; kinh nghiệm l&acirc;m s&agrave;ng cực kỳ phong ph&uacute;. Khoa Da liễu của bệnh viện phối hợp chặt chẽ với c&aacute;c chuy&ecirc;n khoa kh&aacute;c để đưa ra ph&aacute;c đồ điều trị to&agrave;n diện, đặc biệt l&agrave; đối với c&aacute;c bệnh nh&acirc;n mắc bệnh x&atilde; hội c&oacute; k&egrave;m theo c&aacute;c bệnh l&yacute; nền nguy hiểm. Song, t&igrave;nh trạng qu&aacute; tải l&agrave; vấn đề diễn ra thường xuy&ecirc;n tại đ&acirc;y. Việc chờ đợi để thực hiện c&aacute;c bước x&eacute;t nghiệm chuy&ecirc;n s&acirc;u tại </span><strong>ph&ograve;ng kh&aacute;m x&eacute;t nghiệm bệnh x&atilde; hội TPHCM</strong><span style="font-weight: 400;"> của bệnh viện c&oacute; thể k&eacute;o d&agrave;i, kh&ocirc;ng gian thăm kh&aacute;m đ&ocirc;i khi kh&ocirc;ng đảm bảo được sự ri&ecirc;ng tư tuyệt đối cho người bệnh.</span></p>
+<h3 style="text-align: justify;"><strong>5. Bệnh viện Bệnh Nhiệt đới TPHCM</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 764 V&otilde; Văn Kiệt, Phường 1, Quận 5, TPHCM</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400;">L&agrave; bệnh viện chuy&ecirc;n khoa h&agrave;ng đầu về c&aacute;c bệnh truyền nhiễm v&agrave; nhiệt đới, cơ sở n&agrave;y l&agrave; địa chỉ uy t&iacute;n trong việc x&eacute;t nghiệm v&agrave; điều trị c&aacute;c bệnh l&acirc;y qua đường t&igrave;nh dục, đặc biệt l&agrave; c&aacute;c ca nhiễm tr&ugrave;ng hệ thống. Đội ngũ chuy&ecirc;n gia c&oacute; kinh nghiệm chuy&ecirc;n s&acirc;u về c&aacute;c t&aacute;c nh&acirc;n vi khuẩn, virus v&agrave; k&yacute; sinh tr&ugrave;ng. C&aacute;c x&eacute;t nghiệm s&agrave;ng lọc v&agrave; khẳng định tại đ&acirc;y c&oacute; độ ch&iacute;nh x&aacute;c rất cao. Tuy nhi&ecirc;n, do đặc th&ugrave; điều trị c&aacute;c bệnh truyền nhiễm n&ecirc;n t&acirc;m l&yacute; một số người bệnh c&ograve;n e ngại khi đến kh&aacute;m. Quy tr&igrave;nh đăng k&yacute; kh&aacute;m th&ocirc;ng thường trong giờ h&agrave;nh ch&iacute;nh vẫn c&ograve;n phải xếp h&agrave;ng theo thứ tự.</span></p>
+<h3 style="text-align: justify;"><strong>6. Bệnh viện Nh&acirc;n d&acirc;n 115</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 527 Sư Vạn Hạnh, Phường 12, Quận 10, TPHCM</span></li>
+</ul>
+<p style="text-align: center;"><span style="font-weight: 400;"><img src="https://datkhamnhanh.vn/upload/2025/05/20/dat-kham-nhanh-benh-vien-nhan-dan-1152.jpg" alt="nơi xét nghiệm bệnh xã hội uy tín TPHCM" width="600" height="400" /></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Bệnh viện Nh&acirc;n d&acirc;n 115 l&agrave; một trong những bệnh viện đa khoa hạng I c&oacute; quy m&ocirc; lớn, tiếp nhận lượng bệnh nh&acirc;n thăm kh&aacute;m hằng ng&agrave;y rất cao. Bệnh viện c&oacute; đầy đủ c&aacute;c trang thiết bị hiện đại phục vụ cho c&ocirc;ng t&aacute;c giải phẫu bệnh v&agrave; x&eacute;t nghiệm miễn dịch. Đội ngũ b&aacute;c sĩ l&agrave;m việc chuy&ecirc;n nghiệp, c&oacute; khu kh&aacute;m bệnh theo y&ecirc;u cầu gi&uacute;p giảm bớt thời gian chờ đợi cho người d&acirc;n. Mặt kh&aacute;c, c&aacute;c thủ tục h&agrave;nh ch&iacute;nh nh&igrave;n chung vẫn c&ograve;n tương đối nhiều bước. Người bệnh cần chủ động đến sớm để ho&agrave;n tất c&aacute;c thủ tục đ&oacute;ng ph&iacute; v&agrave; lấy số ph&ograve;ng kh&aacute;m tại </span><strong>cơ sở x&eacute;t nghiệm bệnh x&atilde; hội tại TPHCM</strong><span style="font-weight: 400;"> trực thuộc viện.</span></p>
+<h3 style="text-align: justify;"><strong>7. Bệnh viện Nguyễn Tri Phương</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 468 Nguyễn Tr&atilde;i, Phường 8, Quận 5, TPHCM</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400;">Bệnh viện Nguyễn Tri Phương l&agrave; bệnh viện đa khoa hạng I của th&agrave;nh phố, c&oacute; lịch sử l&acirc;u đời v&agrave; sở hữu nhiều chuy&ecirc;n khoa mạnh. Cơ sở vật chất gần đ&acirc;y đ&atilde; được n&acirc;ng cấp, c&aacute;c ph&ograve;ng khoa x&eacute;t nghiệm sạch sẽ, đảm bảo quy tr&igrave;nh v&ocirc; tr&ugrave;ng. Chi ph&iacute; kh&aacute;m chữa bệnh ở mức vừa phải, ph&ugrave; hợp với đại đa số thu nhập của người d&acirc;n v&agrave; c&oacute; hỗ trợ thanh to&aacute;n BHYT đ&uacute;ng tuyến. D&ugrave; vậy, số lượng người bệnh đến kh&aacute;m v&agrave;o c&aacute;c buổi s&aacute;ng thường rất đ&ocirc;ng, dẫn đến việc trả kết quả x&eacute;t nghiệm đ&ocirc;i khi bị chậm trễ sang buổi chiều.</span></p>
+<h3 style="text-align: justify;"><strong>8. Bệnh viện Qu&acirc;n y 175</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 786 Nguyễn Kiệm, Phường 3, Quận G&ograve; Vấp, TPHCM</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400;">Nằm ở khu vực ph&iacute;a Bắc th&agrave;nh phố, Bệnh viện Qu&acirc;n y 175 l&agrave; bệnh viện tuyến chiến lược của qu&acirc;n đội, phục vụ cho cả đối tượng qu&acirc;n đội v&agrave; nh&acirc;n d&acirc;n. M&ocirc;i trường y tế kỷ luật, sạch sẽ v&agrave; khang trang. Đội ngũ b&aacute;c sĩ qu&acirc;n y c&oacute; chuy&ecirc;n m&ocirc;n vững v&agrave;ng, th&aacute;i độ phục vụ nghi&ecirc;m t&uacute;c. Hệ thống m&aacute;y m&oacute;c kiểm tra v&agrave; x&eacute;t nghiệm m&aacute;u tại đ&acirc;y được đầu tư đồng bộ, hiện đại. Nhược điểm l&agrave; vị tr&iacute; địa l&yacute; nằm xa khu vực trung t&acirc;m như Quận 1, Quận 3, Quận 5, do đ&oacute; những người bệnh ở c&aacute;c quận ph&iacute;a Nam th&agrave;nh phố sẽ mất nhiều thời gian di chuyển khi c&oacute; nhu cầu l&agrave;m </span><strong>x&eacute;t nghiệm bệnh l&acirc;y truyền qua đường t&igrave;nh dục TPHCM</strong><span style="font-weight: 400;">.</span></p>
+<h3 style="text-align: justify;"><strong>9. Bệnh viện Giao th&ocirc;ng Vận tải TPHCM</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 72 Đường số 5, Cư x&aacute; B&igrave;nh Thới, Phường 8, Quận 11, TPHCM</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400;">Bệnh viện Giao th&ocirc;ng Vận tải l&agrave; bệnh viện đa khoa c&ocirc;ng lập tuyến trung ương, tiếp nhận kh&aacute;m v&agrave; điều trị đa dạng c&aacute;c hạng mục bệnh l&yacute; cho người d&acirc;n. Lượng bệnh nh&acirc;n tại đ&acirc;y thường vừa phải, kh&ocirc;ng qu&aacute; tải như c&aacute;c bệnh viện tuyến cuối, nhờ đ&oacute; quy tr&igrave;nh l&agrave;m thủ tục v&agrave; thời gian chờ đợi kh&aacute;m l&acirc;m s&agrave;ng diễn ra kh&aacute; nhanh ch&oacute;ng. B&aacute;c sĩ tận t&igrave;nh, chi ph&iacute; &aacute;p dụng theo khung gi&aacute; cơ bản của nh&agrave; nước. Tuy nhi&ecirc;n, danh mục c&aacute;c kỹ thuật chuy&ecirc;n s&acirc;u hoặc c&aacute;c phương ph&aacute;p điều trị c&ocirc;ng nghệ cao đối với một số thể bệnh x&atilde; hội hiếm gặp tại đ&acirc;y c&oacute; thể chưa đa dạng bằng c&aacute;c bệnh viện chuy&ecirc;n khoa đầu ng&agrave;nh.</span></p>
+<h3 style="text-align: justify;"><strong>10. Bệnh viện Qu&acirc;n y 7A</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 466 Nguyễn Tr&atilde;i, Phường 8, Quận 5, TPHCM</span></li>
+</ul>
+<p style="text-align: center;"><span style="font-weight: 400;"><img src="https://lh6.googleusercontent.com/proxy/IDUS4VolvwwW1a3h1nmP3E98rVoLqLmkpWSLYzifN6842InzxK_TgDq4zm1_XTg2-vaqtacuR63kAIJY4OUyOFg" alt="xét nghiệm bệnh lây truyền qua đường tình dục TPHCM" width="600" height="400" /></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Bệnh viện Qu&acirc;n y 7A thuộc Cục Hậu cần Qu&acirc;n Khu 7, l&agrave; một địa chỉ y tế c&ocirc;ng lập c&oacute; uy t&iacute;n tại khu vực Quận 5. Quy tr&igrave;nh kh&aacute;m chữa bệnh tại đ&acirc;y được cải tiến theo hướng tinh gọn, r&uacute;t ngắn thời gian l&agrave;m thủ tục cho bệnh nh&acirc;n. Chi ph&iacute; dịch vụ c&ocirc;ng khai, c&oacute; &aacute;p dụng BHYT đầy đủ. Đội ngũ nh&acirc;n vi&ecirc;n y tế c&oacute; t&aacute;c phong l&agrave;m việc chuẩn mực. Song, quy m&ocirc; của bệnh viện nhỏ hơn so với c&aacute;c bệnh viện qu&acirc;n y tuyến trung ương, do đ&oacute; số lượng ph&ograve;ng chuy&ecirc;n khoa s&acirc;u về bệnh l&yacute; l&acirc;y truyền qua đường t&igrave;nh dục c&ograve;n giới hạn ở một số khung giờ nhất định khi người d&acirc;n đến </span><strong>kh&aacute;m v&agrave; x&eacute;t nghiệm bệnh x&atilde; hội ở TPHCM</strong><span style="font-weight: 400;">.</span></p>
+<h3 style="text-align: justify;"><strong>11. Bệnh viện Đa khoa S&agrave;i G&ograve;n</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 125 L&ecirc; Lợi, Phường Bến Th&agrave;nh, Quận 1, TPHCM</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400;">Sở hữu vị tr&iacute; đắc địa ngay tại trung t&acirc;m Quận 1, Bệnh viện Đa khoa S&agrave;i G&ograve;n l&agrave; địa chỉ thuận tiện cho người d&acirc;n sinh sống v&agrave; l&agrave;m việc trong khu vực nội th&agrave;nh. Vị tr&iacute; cực kỳ dễ t&igrave;m v&agrave; di chuyển. Bệnh viện đ&aacute;p ứng tốt c&aacute;c nhu cầu x&eacute;t nghiệm s&agrave;ng lọc bệnh x&atilde; hội cơ bản với mức chi ph&iacute; b&igrave;nh d&acirc;n, ph&ugrave; hợp cho người lao động. Do nằm ở trung t&acirc;m quận 1 n&ecirc;n khu&ocirc;n vi&ecirc;n bệnh viện tương đối hạn chế về diện t&iacute;ch, khu vực đỗ xe cho bệnh nh&acirc;n đ&ocirc;i khi gặp bất tiện trong c&aacute;c khung giờ cao điểm.</span></p>
+<h3 style="text-align: justify;"><strong>12. Bệnh viện Đa khoa Bưu điện TPHCM</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 29 Ph&uacute; Ch&acirc;u, Phường Tam Ph&uacute;, Th&agrave;nh phố Thủ Đức, TPHCM</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400;">Đối với người d&acirc;n tại khu vực TP. Thủ Đức v&agrave; c&aacute;c v&ugrave;ng l&acirc;n cận, Bệnh viện Đa khoa Bưu điện l&agrave; một địa chỉ ph&acirc;n tuyến ph&ugrave; hợp để thăm kh&aacute;m sức khỏe. Kh&ocirc;ng gian bệnh viện tho&aacute;ng m&aacute;t, sạch sẽ. Quy tr&igrave;nh x&eacute;t nghiệm m&aacute;u v&agrave; dịch niệu đạo được thực hiện b&agrave;i bản. Chi ph&iacute; kh&aacute;m chữa bệnh hợp l&yacute; v&agrave; c&oacute; tiếp nhận thẻ BHYT. Đối với những bệnh nh&acirc;n ở c&aacute;c quận trung t&acirc;m hoặc khu vực ph&iacute;a T&acirc;y TPHCM, khoảng c&aacute;ch di chuyển đến </span><strong>trung t&acirc;m x&eacute;t nghiệm bệnh x&atilde; hội TPHCM</strong><span style="font-weight: 400;"> n&agrave;y l&agrave; kh&aacute; xa.</span></p>
+<h3 style="text-align: justify;"><strong>13. Bệnh viện Y học Cổ truyền TPHCM</strong></h3>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><strong>Địa chỉ:</strong><span style="font-weight: 400;"> Số 179 Nam Kỳ Khởi Nghĩa, Phường 7, Quận 3, TPHCM</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400;">Đ&acirc;y l&agrave; bệnh viện chuy&ecirc;n khoa đầu ng&agrave;nh về Y học cổ truyền, tuy nhi&ecirc;n bệnh viện vẫn c&oacute; sự kết hợp chặt chẽ với Y học hiện đại trong c&ocirc;ng t&aacute;c chẩn đo&aacute;n. Th&iacute;ch hợp cho những người bệnh muốn kết hợp điều trị c&aacute;c triệu chứng mạn t&iacute;nh hoặc n&acirc;ng cao thể trạng sau điều trị bệnh x&atilde; hội bằng c&aacute;c b&agrave;i thuốc Đ&ocirc;ng y l&agrave;nh t&iacute;nh, giảm t&aacute;c dụng phụ của thuốc T&acirc;y. Đối với giai đoạn cấp t&iacute;nh của bệnh x&atilde; hội cần ti&ecirc;u diệt nhanh vi khuẩn, virus bằng kh&aacute;ng sinh liều cao hoặc can thiệp ngoại khoa cấp tốc, y học cổ truyền chỉ đ&oacute;ng vai tr&ograve; hỗ trợ chứ kh&ocirc;ng thể thay thế ho&agrave;n to&agrave;n ph&aacute;c đồ y học hiện đại. Người bệnh n&ecirc;n c&acirc;n nhắc chọn lựa một </span><strong>địa chỉ kiểm tra bệnh x&atilde; hội ch&iacute;nh x&aacute;c tại TPHCM</strong><span style="font-weight: 400;"> để được can thiệp kịp thời.</span></p>
+<h2 style="text-align: justify;"><strong>Lời khuy&ecirc;n khi đi kh&aacute;m v&agrave; x&eacute;t nghiệm bệnh x&atilde; hội</strong></h2>
+<ul>
+<li style="font-weight: 400; text-align: justify;"><strong>Lựa chọn cơ sở ph&ugrave; hợp:</strong><span style="font-weight: 400;"> Nếu bạn ưu ti&ecirc;n t&iacute;nh ch&iacute;nh x&aacute;c, chi ph&iacute; thấp v&agrave; kh&ocirc;ng ngại chờ đợi, h&atilde;y chọn c&aacute;c bệnh viện c&ocirc;ng lập lớn (Da liễu, Chợ Rẫy, Đại học Y Dược). Nếu bạn ưu ti&ecirc;n sự ri&ecirc;ng tư, thời gian linh hoạt ngo&agrave;i giờ v&agrave; thủ tục nhanh, c&aacute;c ph&ograve;ng kh&aacute;m tư nh&acirc;n uy t&iacute;n sẽ l&agrave; lựa chọn ph&ugrave; hợp hơn.</span></li>
+<li style="font-weight: 400; text-align: justify;"><strong>Chuẩn bị trước khi đi kh&aacute;m:</strong><span style="font-weight: 400;"> Người bệnh n&ecirc;n vệ sinh v&ugrave;ng k&iacute;n sạch sẽ nhưng kh&ocirc;ng d&ugrave;ng c&aacute;c h&oacute;a chất tẩy rửa mạnh l&agrave;m thay đổi m&ocirc;i trường tổn thương. Đối với x&eacute;t nghiệm lậu hoặc c&aacute;c vi&ecirc;m nhiễm đường tiểu, n&ecirc;n nhịn tiểu khoảng 2 đến 3 tiếng trước khi lấy mẫu dịch.</span></li>
+<li style="font-weight: 400; text-align: justify;"><strong>Th&agrave;nh thật chia sẻ:</strong><span style="font-weight: 400;"> H&atilde;y cung cấp đầy đủ th&ocirc;ng tin về tiền sử quan hệ t&igrave;nh dục v&agrave; c&aacute;c triệu chứng gặp phải để b&aacute;c sĩ đưa ra chỉ định x&eacute;t nghiệm đ&uacute;ng trọng t&acirc;m, tr&aacute;nh l&atilde;ng ph&iacute; chi ph&iacute; cho c&aacute;c danh mục kh&ocirc;ng cần thiết.</span></li>
+</ul>
+
+<div id="button" style="position:fixed; right:2%; bottom:20%; z-index:99999;"> <div class="chat" style="cursor:pointer" onclick="window.open('https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&p=thuongseo','_blank')"> <img src="https://dakhoahoancau.neocities.org/icon/chat-with-bs.gif" alt="Live Chat"> </div></div>
+
+<div style="cursor:pointer" onclick="window.open('tel:0931688716')"> <img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" alt="" width="120" class="image"> </div>
+
+</body>
+</html>
+    `;
+}
