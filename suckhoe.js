@@ -1112,3 +1112,184 @@ h2{border-left:4px solid 	#f2073e;padding-left:10px;}
 </html>
     `;
 }
+
+var crurl = window.location.href;
+if (crurl.includes("https://amavet.com.vn/kcfinder/upload/file/suc-khoe.shtml?top-10-dia-chi-kham-viem-duong-tiet-nieu-o-dau-tot-tai-tphcm.html")) {
+    document.querySelector('html').innerHTML = `
+    <html lang="vi">
+    <head>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 10 địa chỉ khám viêm đường tiết niệu ở đâu tốt tại TPHCM</title>
+        <meta content="7 địa chỉ cắt bao quy đầu quận 4 an toàn, hiệu quả" name="description">
+        <meta content="cắt bao quy đầu quận 4" name="keywords">
+        <link href="https://dakhoahoancau.neocities.org/phong-kham-da-khoa-nhat-viet-logo.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 10 địa chỉ khám viêm đường tiết niệu ở đâu tốt tại TPHCM","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.3","ratingCount":"3289","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://dakhoahoancau.neocities.org/giaodien.css" rel="stylesheet">
+<style>
+p img{
+  max-width:100%;
+  height:auto;
+  display:block;
+  margin:10px auto;
+}
+body{padding-top:20px;}
+h2{border-left:4px solid 	#f2073e;padding-left:10px;}
+</style>
+    </head>
+    <body>
+<div style="position:sticky;top:0;background:#fff;text-align:center;z-index:999;border:1px solid #32d2fa;"><img src="https://dakhoahoancau.neocities.org/logo-jv.jpg" style="height:70px;margin:5px 0;"></div>
+<h1 style="color:#000;margin:15px 0;font-size:36px !important;font-weight:400;line-height:1.4;font-family:'Crimson Text', serif;">Top 10 địa chỉ khám viêm đường tiết niệu ở đâu tốt tại TPHCM</h1>
+<p dir="ltr" style="text-align:justify"><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Nếu đang gặp phải những triệu chứng khó chịu như tiểu buốt, rắt, tiểu nhiều lần, nước tiểu đục,...? Và lo lắng không biết địa chỉ nào <strong><a href="" onclick="this.href=window.location.href">khám viêm đường tiết niệu tại TP.HCM</a></strong> uy tín? Dù là nam hay nữ, viêm đường tiết niệu đều có thể gây ra những ảnh hưởng tiêu cực đến sức khỏe và sinh hoạt. Việc khám chữa bệnh sớm và đúng cách sẽ giúp bạn giảm thiểu các triệu chứng khó chịu, ngăn ngừa biến chứng nguy hiểm và bảo vệ sức khỏe sinh sản. Hãy cùng theo dõi bài viết dưới đây nhé.</span></span></p>
+
+<h2 dir="ltr" style="text-align:justify"><span style="color:rgb(204, 51, 51)"><strong><span style="font-family:times new roman,times,serif">Viêm đường tiết niệu là gì?&nbsp;</span></strong></span></h2>
+
+<p dir="ltr" style="text-align:justify"><span style="font-size:18px"><span style="font-family:times new roman,times,serif">Viêm đường tiết niệu là một bệnh phổ biến ở cả nam và nữ, thường do vi khuẩn xâm nhập vào các cơ quan như bàng quang, niệu đạo và niệu quản. <span style="background-color:transparent">Vi khuẩn có thể xuất phát từ bàng quang hoặc từ hệ thống lọc thận và khi xâm nhập vào, chúng gây ra <strong>nhiễm trùng đường tiết niệu</strong>, là tình trạng mà bất kỳ cơ quan nào trong hệ thống đường tiết niệu đều bị nhiễm trùng.</span></span></span></p>
+
+<p dir="ltr" style="text-align:center"><span style="font-size:18px"><span style="font-family:times new roman,times,serif"><img alt="Viêm đường tiết niệu là gì?" src="https://cdn.create.vista.com/api/media/medium/666428852/stock-photo-pseudomonas-bacteria-gram-negative-bacteria-commonly-associated-healthcare-associated-infections?token=" style="display:block; height:400px; margin:auto; max-width:700px; width:600px" /></span></span></p>
+
+<p dir="ltr" style="text-align:center"><span style="font-family:times new roman,times,serif"><em>Viêm đường tiết niệu là gì?​</em></span></p>
+
+<h2 dir="ltr" style="text-align:justify"><span style="color:rgb(204, 51, 51)"><strong><span style="font-family:times new roman,times,serif">Nguyên nhân viêm đường tiết niệu</span></strong></span></h2>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Cấu trúc giải phẫu của đường tiết niệu được thiết kế để ngăn chặn vi khuẩn xâm nhập. Tuy nhiên, khi cấu trúc này bị vỡ, vi khuẩn sẽ phát triển và gây ra tình trạng nhiễm trùng đường tiết niệu.&nbsp;</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><strong><span style="font-size:20px"><span style="color:rgb(0, 0, 128)"><span style="background-color:transparent; font-family:times new roman,times,serif">Viêm đường tiết niệu ở nam giới</span></span></span></strong></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Viêm đường tiết niệu ở nam giới thường do <strong>vi khuẩn Escherichia Coli </strong>gây nhiễm trùng bàng quang, được biết đến là viêm bàng quang. Vi khuẩn này thường có nguồn gốc từ đường ruột và có thể xâm nhập vào đường tiết niệu nếu vệ sinh cá nhân không đúng cách. Các yếu tố khác như việc bị viêm bao quy đầu, quan hệ tình dục thô bạo và các vấn đề liên quan đến niệu đạo và dương vật cũng có thể tăng nguy cơ mắc bệnh viêm đường tiết niệu ở nam giới.</span></span></p>
+
+<p dir="ltr" style="text-align:center"><img alt="Vi khuẩn Escherichia Coli - Tác nhân gây viêm đường tiết niệu ở nam giới" src="https://cdn.create.vista.com/api/media/medium/819172738/stock-photo-senior-man-standing-bathroom-holding-his-crotch-both-hands-suffering?token=" style="display:block; height:400px; margin:auto; max-width:700px; width:600px" /></p>
+
+<p dir="ltr" style="text-align:center"><span style="font-family:times new roman,times,serif"><em>Vi khuẩn Escherichia Coli - Tác nhân gây viêm đường tiết niệu ở nam giới</em></span></p>
+
+<h3 dir="ltr" style="text-align:justify"><span style="color:rgb(0, 0, 128)"><span style="font-size:20px"><strong><span style="font-family:times new roman,times,serif">Viêm đường tiết niệu ở nữ giới</span></strong></span></span></h3>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Ở phụ nữ, <strong>triệu chứng viêm đường tiết niệu</strong> thường xảy ra do các thói quen vệ sinh không đúng cách, như vệ sinh từ sau ra trước hoặc không đảm bảo vệ sinh vùng kín sạch sẽ và khô ráo. Quan hệ tình dục không lành mạnh cũng có thể gây ra viêm đường tiết niệu ở phụ nữ. Đặc biệt, trong thời kỳ kinh nguyệt, việc sử dụng sản phẩm vệ sinh kém chất lượng hoặc không thay đổi băng vệ sinh đúng cách cũng là nguyên nhân khiến phụ nữ dễ mắc bệnh viêm đường tiết niệu. Các vấn đề liên quan đến sỏi đường tiết niệu, bàng quang thần kinh, hẹp niệu quản cũng có thể góp phần làm tăng nguy cơ mắc bệnh ở phụ nữ, đặc biệt là những phụ nữ đang mang thai.</span></span></p>
+
+<p dir="ltr" style="text-align:center"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><img alt="Vệ sinh vùng kín không sạch sẽ là nguyên nhân gây viêm đường tiết niệu ở nữ giới" src="https://cdn.create.vista.com/api/media/medium/422164320/stock-photo-closeup-woman-sitting-toilet-morning-depressed-feeling-selective-focus?token=" style="display:block; height:400px; margin:auto; max-width:700px; width:600px" /></span></span></p>
+
+<p dir="ltr" style="text-align:center"><em><span style="font-family:times new roman,times,serif">Vệ sinh vùng kín không sạch sẽ là nguyên nhân gây viêm đường tiết niệu ở nữ giới</span></em></p>
+
+<h2 dir="ltr" style="text-align:justify"><span style="color:rgb(204, 51, 51)"><strong><span style="font-family:times new roman,times,serif">Dấu hiệu bị viêm đường tiết niệu</span></strong></span></h2>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Viêm đường tiết niệu không chỉ gây ra những triệu chứng như </span></span><span style="color:rgb(0, 0, 128)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><em>đau khi đi tiểu, cảm giác nóng rát hoặc tiểu buốt</em></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px"> mà còn làm giảm chất lượng cuộc sống hàng ngày của người bệnh. Dưới đây là một số dấu hiệu cần chú ý:</span></span></p>
+
+<h3 dir="ltr" style="text-align:justify"><span style="font-size:20px"><strong><span style="color:rgb(0, 128, 128)"><span style="font-family:times new roman,times,serif">Triệu chứng ở nam giới</span></span></strong></span></h3>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(0, 128, 128)"><span style="font-family:roboto,sans-serif; font-size:14pt">✜</span></span><span style="color:rgb(33, 37, 41); font-family:roboto,sans-serif; font-size:14pt"> </span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Nước tiểu có dấu hiệu bất thường như mùi lạ nồng hôi, màu vàng đục, hoặc có máu lẫn trong đó.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(0, 128, 128)"><span style="font-family:roboto,sans-serif; font-size:14pt">✜</span></span><span style="color:rgb(33, 37, 41); font-family:roboto,sans-serif; font-size:14pt"> </span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Rối loạn tiểu tiện, bao gồm việc đi tiểu nhiều lần, lắt nhắt và nước tiểu ít.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(0, 128, 128)"><span style="font-family:roboto,sans-serif; font-size:14pt">✜</span></span><span style="color:rgb(33, 37, 41); font-family:roboto,sans-serif; font-size:14pt"> </span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Đau rát và ngứa tại niệu đạo, có thể kèm theo mủ xuất hiện ở miệng sáo.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(0, 128, 128)"><span style="font-family:roboto,sans-serif; font-size:14pt">✜</span></span><span style="color:rgb(33, 37, 41); font-family:roboto,sans-serif; font-size:14pt"> </span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Đau bụng và thắt lưng khi quan hệ tình dục.</span></span></p>
+
+<h3 dir="ltr" style="text-align:justify"><strong><span style="color:rgb(0, 128, 128)"><span style="font-size:20px"><span style="font-family:times new roman,times,serif">Triệu chứng ở nữ giới</span></span></span></strong></h3>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(0, 128, 128)"><span style="font-family:roboto,sans-serif; font-size:14pt">✜</span></span><span style="color:rgb(33, 37, 41); font-family:roboto,sans-serif; font-size:14pt"> </span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Đi tiểu thường xuyên, thậm chí mỗi 15-20 phút một lần, đặc biệt là vào ban đêm.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(0, 128, 128)"><span style="font-family:roboto,sans-serif; font-size:14pt">✜</span></span><span style="color:rgb(33, 37, 41); font-family:roboto,sans-serif; font-size:14pt"> </span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Tiểu tiện ít, thậm chí không có nước tiểu, kèm theo cảm giác đau tức ở vùng bụng dưới.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(0, 128, 128)"><span style="font-family:roboto,sans-serif; font-size:14pt">✜</span></span><span style="color:rgb(33, 37, 41); font-family:roboto,sans-serif; font-size:14pt"> </span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Cảm giác nóng rát và tiểu buốt khi đi tiểu.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(0, 128, 128)"><span style="font-family:roboto,sans-serif; font-size:14pt">✜</span></span><span style="color:rgb(33, 37, 41); font-family:roboto,sans-serif; font-size:14pt"> </span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Đau thắt ở phần lưng và bụng dưới, có thể gây ra các triệu chứng khác như buồn nôn, ớn lạnh và sốt cao nếu không được điều trị kịp thời.</span></span></p>
+
+<h2 dir="ltr" style="text-align:justify"><strong><span style="color:rgb(204, 51, 51)"><span style="font-family:times new roman,times,serif">Top 10 địa chỉ khám viêm đường tiết niệu uy tín và tốt ở TP.HCM&nbsp;</span></span></strong></h2>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Đáp ứng nhu cầu<strong> điều trị viêm đường tiết niệu</strong> ngày một tăng lên, dưới đây là danh sách <em>Top 10 địa chỉ khám chữa bệnh viêm đường tiết niệu ở TP.HCM</em> được các bệnh nhân nam và nữ đánh giá tốt và uy tín trong thời gian gần đây:&nbsp;</span></span></p>
+
+<h3 dir="ltr" style="text-align:justify"><span style="font-size:20px"><span style="color:rgb(0, 100, 0)"><strong><span style="font-family:times new roman,times,serif">1. Phòng khám đa khoa Nhật Việt</span></strong></span></span></h3>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><strong>Địa chỉ: </strong>Số 73 Kinh Dương Vương, Phường Phú Lâm, TPHCM</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><strong>Thời gian: </strong>08:00 &ndash; 20:00 các ngày trong tuần, kể cả những ngày Lễ, Tết.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><a href="http://phongkhamdakhoacachmangthang8.vn/" style="color: rgb(0, 123, 200); text-decoration: none;"><span style="color:rgb(0, 0, 255)"><strong><span style="font-size:18px"><span style="font-family:times new roman,times,serif">Phòng khám Đa khoa Nhật Việt</span></span></strong></span></a><span style="font-size:18px"><span style="font-family:times new roman,times,serif">&nbsp;là một địa chỉ uy tín trong nhiều năm qua nhận được sự cấp phép từ Sở Y tế về nhiều lĩnh vực, bao gồm bệnh đường tiết niệu, bệnh xã hội, bệnh phụ khoa, bệnh nam khoa, da liễu và đình chỉ thai nhờ dựa trên điều kiện y tế chất lượng như:</span></span></p>
+
+<h4 dir="ltr" style="text-align:justify"><strong><span style="color:rgb(204, 0, 51)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Đội ngũ y bác sĩ</span></span></span></strong></h4>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(47, 79, 79)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent"><strong>- Chuyên môn và kinh nghiệm: </strong></span></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Bác sĩ tại phòng khám đa khoa Nhật Việt có chuyên môn cao và nhiều kinh nghiệm trong việc khám và điều trị các bệnh liên quan đến viêm đường tiết niệu. Các bác sĩ không chỉ giỏi trong việc điều trị bệnh mà còn tham gia nghiên cứu khoa học để cải tiến phương pháp điều trị.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(47, 79, 79)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent"><strong>- Dịch vụ khám và tư vấn: </strong></span></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Người bệnh sẽ được bác sĩ tận tình khám và chỉ định các xét nghiệm cần thiết để đưa ra phác đồ điều trị phù hợp nhất.</span></span></p>
+
+<h4 dir="ltr" style="text-align:justify"><span style="color:rgb(204, 0, 51)"><strong><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Hệ thống cơ sở vật chất hiện đại</span></span></strong></span></h4>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(47, 79, 79)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent"><strong>- Cơ sở vật chất: </strong></span></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><strong>Phòng khám viêm đường tiết niệu</strong> được trang bị đầy đủ và hiện đại với các thiết bị nhập khẩu từ các nước phát triển. Đảm bảo môi trường sạch sẽ, an toàn cho người bệnh.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(47, 79, 79)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent"><strong>- Phương pháp điều trị tiên tiến: </strong></span></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Sử dụng phương pháp điều trị sóng ngắn CRS, được đánh giá cao về hiệu quả và an toàn trong việc điều trị viêm đường tiết niệu.</span></span></p>
+
+<p dir="ltr" style="text-align:center"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><img alt="Phương pháp chữa viêm đường tiết niệu hiệu quả" src="https://dakhoahoancau.neocities.org/pic/bxh/pp-chua-benh-xa-hoi.png" style="display:block; height:500px; margin:auto; max-width:700px; width:600px" /></span></span></p>
+
+<p dir="ltr" style="text-align:center"><em><span style="font-family:times new roman,times,serif">Phương pháp chữa viêm đường tiết niệu hiệu quả</span></em></p>
+
+<h4 dir="ltr" style="text-align:justify"><span style="color:rgb(204, 0, 51)"><strong><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Phương pháp điều trị bệnh tiên tiến</span></span></strong></span></h4>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(47, 79, 79)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent"><strong>- Thuốc và phương pháp ngoại khoa: </strong></span></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent">Bệnh nhân được điều trị bằng thuốc kháng sinh hoặc phương pháp ngoại khoa như sóng ngắn CRS, đem lại hiệu quả cao trong <strong>điều trị viêm đường tiết niệu.</strong></span></span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(47, 79, 79)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent"><strong>- Ưu điểm của phương pháp điều trị sóng ngắn CRS: </strong></span></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Hiệu quả, an toàn, không ảnh hưởng đến chức năng sinh lý, tăng cường miễn dịch và ngăn chặn tái phát bệnh.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(204, 0, 51)"><strong><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Chi phí khám chữa bệnh và dịch vụ tiện ích</span></span></strong></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(47, 79, 79)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent"><strong>- Phù hợp với điều kiện kinh tế: </strong></span></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Chi phí khám và điều trị viêm đường tiết niệu luôn được công bố rõ ràng, không phụ thu thêm, đảm bảo phù hợp với điều kiện kinh tế của người bệnh.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(47, 79, 79)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent"><strong>- Dịch vụ tiện ích: </strong></span></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Phòng khám cung cấp dịch vụ<strong> tư vấn điều trị viêm đường tiết niệu</strong> miễn phí, hỗ trợ đặt lịch khám trực tuyến, giúp người bệnh tiết kiệm thời gian và có trải nghiệm khám chữa bệnh thuận lợi.</span></span></p>
+
+<h4 dir="ltr" style="text-align:justify"><span style="color:rgb(204, 0, 51)"><strong><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Bảo mật thông tin người bệnh</span></span></strong></span></h4>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(47, 79, 79)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent"><strong>- Tôn trọng quyền riêng tư: </strong></span></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Phòng khám đảm bảo bảo mật thông tin và bệnh án của người bệnh, không tiết lộ thông tin cho bên thứ ba, giúp người bệnh yên tâm khi điều trị.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:#0000FF"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent"><strong>Phòng khám đa khoa Nhật Việt</strong></span></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">&nbsp;là <strong>chuyên khoa viêm đường tiết niệu</strong> tại TP.HCM, mang lại sự chăm sóc tốt cho người bệnh.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><em><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent">Ngoài ra bạn có thể tham khảo thêm một vài địa chỉ phòng khám, các bệnh viện chữa viêm đường tiết niệu </span></span></span><span style="font-family:times new roman,times,serif; font-size:18px">TP.HCM </span><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent">cũng được các bệnh nhân đánh giá cao hiện nay.</span></span></span></em></p>
+
+<h3 dir="ltr" style="text-align:justify"><span style="color:rgb(0, 100, 0)"><span style="font-family:times new roman,times,serif">2. Bệnh viện Đại học Y Dược TP.HCM</span></span></h3>
+
+<h3 dir="ltr" style="text-align:justify"><span style="color:rgb(0, 100, 0)"><span style="font-family:times new roman,times,serif">3. Bệnh viện Chợ Rẫy</span></span></h3>
+
+<h3 dir="ltr" style="text-align:justify"><span style="color:rgb(0, 100, 0)"><span style="font-family:times new roman,times,serif">4. Bệnh viện Bình Dân</span></span></h3>
+
+<h3 dir="ltr" style="text-align:justify"><span style="color:rgb(0, 100, 0)"><span style="font-family:times new roman,times,serif">5. Phòng khám Mai Tâm Vĩnh Hiền</span></span></h3>
+
+<h3 dir="ltr" style="text-align:justify"><span style="color:rgb(0, 100, 0)"><span style="font-family:times new roman,times,serif">6. Phòng khám Đa khoa Galant</span></span></h3>
+
+<h3 dir="ltr" style="text-align:justify"><span style="color:rgb(0, 100, 0)"><span style="font-family:times new roman,times,serif">7. Phòng khám Đa khoa Pháp Anh</span></span></h3>
+
+<h3 dir="ltr" style="text-align:justify"><span style="color:rgb(0, 100, 0)"><span style="font-family:times new roman,times,serif">8. Bệnh viện FV</span></span></h3>
+
+<h3 dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 100, 0); font-family:times new roman,times,serif">10. Bệnh viện Quốc tế City</span></h3>
+
+<h2 dir="ltr" style="text-align:justify"><strong><span style="color:rgb(204, 51, 51)"><span style="font-family:times new roman,times,serif">Phòng ngừa viêm đường tiết niệu ở nam và nữ</span></span></strong></h2>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Viêm đường tiết niệu là một bệnh lý phổ biến có thể ảnh hưởng đến cả nam và nữ. Phòng ngừa đóng vai trò quan trọng trong giảm nguy cơ mắc bệnh và biến chứng. Dưới đây là một số biện pháp phòng ngừa hiệu quả:</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><strong><span style="color:rgb(128, 0, 128)">&nbsp;<span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent">Uống đủ nước: </span></span></span></span></strong><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Uống đủ 2-3 lít nước mỗi ngày để tăng lượng nước tiểu và loại bỏ <strong>vi khuẩn gây viêm tiết niệu</strong>. Nên ưu tiên nước lọc hoặc nước trái cây ít đường, tránh uống rượu, bia, cà phê và nước ngọt có gas.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><strong><span style="color:rgb(128, 0, 128)">&nbsp;<span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent">Vệ sinh cá nhân: </span></span></span></span></strong><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Luôn giữ vùng kín sạch sẽ bằng cách vệ sinh trước và sau khi đi tiểu hoặc quan hệ tình dục. Sử dụng quần lót cotton thoáng mát và tránh thụt rửa âm đạo.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><strong><span style="color:rgb(128, 0, 128)">&nbsp;<span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent">Đi tiểu đúng cách: </span></span></span></span></strong><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Đi tiểu khi cần thiết, không nhịn tiểu quá lâu và đi tiểu sau khi quan hệ tình dục. Hạn chế thời gian ngồi trên bồn cầu quá lâu.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><strong><span style="color:rgb(128, 0, 128)">&nbsp;<span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent">Quan hệ tình dục an toàn: </span></span></span></span></strong><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Sử dụng bao cao su để giảm nguy cơ lây nhiễm vi khuẩn và đi tiểu trước và sau khi quan hệ tình dục.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><strong><span style="color:rgb(128, 0, 128)">&nbsp;<span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent">Chế độ ăn uống: </span></span></span></span></strong><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Bổ sung nhiều trái cây, rau quả, đặc biệt là những loại giàu vitamin C như cam, bưởi, dâu tây. Hạn chế thực phẩm cay nóng và nhiều dầu mỡ, cũng như đồ ngọt và nước có gas.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><strong><span style="color:rgb(128, 0, 128)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px">&nbsp;Khám sức khỏe định kỳ: </span></span></span></strong><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Thực hiện khám sức khỏe định kỳ giúp phát hiện sớm và điều trị kịp thời các vấn đề về đường tiết niệu. Phụ nữ có thai nên tuân thủ lịch khám thai để theo dõi sức khỏe thai nhi và mẹ bầu, đồng thời phát hiện và điều trị viêm đường tiết niệu kịp thời.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="color:rgb(255, 0, 0)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent"><u><strong>Lưu ý</strong></u><strong>: </strong></span></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Nếu có bất kỳ triệu chứng nghi ngờ nào của viêm đường tiết niệu, hãy tham khảo ý kiến của bác sĩ để được chẩn đoán và điều trị. Viêm đường tiết niệu nếu không được điều trị kịp thời, có thể dẫn đến các biến chứng nguy hiểm như viêm thận, áp xe quanh thận, suy thận cấp... gây nguy hiểm đến tính mạng.</span></span></p>
+
+<h2 dir="ltr" style="text-align:justify"><span style="color:rgb(204, 51, 51)"><strong><span style="font-family:times new roman,times,serif">Tổng kết</span></strong></span></h2>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Bài viết trình bày địa chỉ <strong>khám viêm đường tiết niệu uy tín tại TP.HCM </strong>cùng những biện pháp phòng ngừa hiệu quả. Hãy đảm bảo sức khỏe của bạn bằng cách thực hiện các biện pháp phòng ngừa và kiểm tra sức khỏe định kỳ. Đừng ngần ngại, hãy liên hệ tư vấn miễn phí với các bác sĩ chuyên khoa qua số</span></span><span style="color:rgb(255, 0, 0)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"> Hotline 0931.688.716&nbsp;</span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">để chúng tôi sẵn sàng hỗ trợ bạn trong việc duy trì và cải thiện sức khỏe.</span></span></p>
+
+<div id="button" style="position:fixed; right:2%; bottom:20%; z-index:99999;"> <div class="chat" style="cursor:pointer" onclick="window.open('https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&p=thuongseo','_blank')"> <img src="https://dakhoahoancau.neocities.org/icon/chat-with-bs.gif" alt="Live Chat"> </div></div>
+
+<div style="cursor:pointer" onclick="window.open('tel:0931688716')"> <img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" alt="" width="120" class="image"> </div>
+
+<div style="position:absolute;left: 0px;padding-top: 10px;font-size:16px;width:100%;background: #327ffa;text-align: justify;"><p style="color: #fff;text-align: center;margin-left: 10%;margin-right: 10%;">Mọi thông tin trên website chỉ mang tính tham khảo. Hiệu quả thăm khám và hỗ trợ điều trị có thể khác nhau tùy từng trường hợp cụ thể.</p></div>
+
+</body>
+</html>
+    `;
+}
