@@ -1149,7 +1149,7 @@ h2{border-left:4px solid 	#f2073e;padding-left:10px;}
 
 <p dir="ltr" style="text-align:justify"><span style="font-size:18px"><span style="font-family:times new roman,times,serif">Viêm đường tiết niệu là một bệnh phổ biến ở cả nam và nữ, thường do vi khuẩn xâm nhập vào các cơ quan như bàng quang, niệu đạo và niệu quản. <span style="background-color:transparent">Vi khuẩn có thể xuất phát từ bàng quang hoặc từ hệ thống lọc thận và khi xâm nhập vào, chúng gây ra <strong>nhiễm trùng đường tiết niệu</strong>, là tình trạng mà bất kỳ cơ quan nào trong hệ thống đường tiết niệu đều bị nhiễm trùng.</span></span></span></p>
 
-<p dir="ltr" style="text-align:center"><span style="font-size:18px"><span style="font-family:times new roman,times,serif"><img alt="Viêm đường tiết niệu là gì?" src="https://cdn.create.vista.com/api/media/medium/666428852/stock-photo-pseudomonas-bacteria-gram-negative-bacteria-commonly-associated-healthcare-associated-infections?token=" style="display:block; height:400px; margin:auto; max-width:700px; width:600px" /></span></span></p>
+<p style="text-align: center;"><span style="font-size:12pt;font-family:Tahoma,sans-serif;"><img src="https://cdn.create.vista.com/api/media/medium/666428852/stock-photo-pseudomonas-bacteria-gram-negative-bacteria-commonly-associated-healthcare-associated-infections?token=" alt="Viêm đường tiết niệu là gì?" style="width: 600px; height: 400px;"></span></p>
 
 <p dir="ltr" style="text-align:center"><span style="font-family:times new roman,times,serif"><em>Viêm đường tiết niệu là gì?​</em></span></p>
 
@@ -1161,7 +1161,7 @@ h2{border-left:4px solid 	#f2073e;padding-left:10px;}
 
 <p dir="ltr" style="text-align:justify"><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Viêm đường tiết niệu ở nam giới thường do <strong>vi khuẩn Escherichia Coli </strong>gây nhiễm trùng bàng quang, được biết đến là viêm bàng quang. Vi khuẩn này thường có nguồn gốc từ đường ruột và có thể xâm nhập vào đường tiết niệu nếu vệ sinh cá nhân không đúng cách. Các yếu tố khác như việc bị viêm bao quy đầu, quan hệ tình dục thô bạo và các vấn đề liên quan đến niệu đạo và dương vật cũng có thể tăng nguy cơ mắc bệnh viêm đường tiết niệu ở nam giới.</span></span></p>
 
-<p dir="ltr" style="text-align:center"><img alt="Vi khuẩn Escherichia Coli - Tác nhân gây viêm đường tiết niệu ở nam giới" src="https://cdn.create.vista.com/api/media/medium/819172738/stock-photo-senior-man-standing-bathroom-holding-his-crotch-both-hands-suffering?token=" style="display:block; height:400px; margin:auto; max-width:700px; width:600px" /></p>
+<p style="text-align: center;"><span style="font-size:12pt;font-family:Tahoma,sans-serif;"><img src="https://cdn.create.vista.com/api/media/medium/819172738/stock-photo-senior-man-standing-bathroom-holding-his-crotch-both-hands-suffering?token=" alt="Vi khuẩn Escherichia Coli - Tác nhân gây viêm đường tiết niệu ở nam giới" style="width: 600px; height: 400px;"></span></p>
 
 <p dir="ltr" style="text-align:center"><span style="font-family:times new roman,times,serif"><em>Vi khuẩn Escherichia Coli - Tác nhân gây viêm đường tiết niệu ở nam giới</em></span></p>
 
@@ -1169,7 +1169,7 @@ h2{border-left:4px solid 	#f2073e;padding-left:10px;}
 
 <p dir="ltr" style="text-align:justify"><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Ở phụ nữ, <strong>triệu chứng viêm đường tiết niệu</strong> thường xảy ra do các thói quen vệ sinh không đúng cách, như vệ sinh từ sau ra trước hoặc không đảm bảo vệ sinh vùng kín sạch sẽ và khô ráo. Quan hệ tình dục không lành mạnh cũng có thể gây ra viêm đường tiết niệu ở phụ nữ. Đặc biệt, trong thời kỳ kinh nguyệt, việc sử dụng sản phẩm vệ sinh kém chất lượng hoặc không thay đổi băng vệ sinh đúng cách cũng là nguyên nhân khiến phụ nữ dễ mắc bệnh viêm đường tiết niệu. Các vấn đề liên quan đến sỏi đường tiết niệu, bàng quang thần kinh, hẹp niệu quản cũng có thể góp phần làm tăng nguy cơ mắc bệnh ở phụ nữ, đặc biệt là những phụ nữ đang mang thai.</span></span></p>
 
-<p dir="ltr" style="text-align:center"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><img alt="Vệ sinh vùng kín không sạch sẽ là nguyên nhân gây viêm đường tiết niệu ở nữ giới" src="https://cdn.create.vista.com/api/media/medium/422164320/stock-photo-closeup-woman-sitting-toilet-morning-depressed-feeling-selective-focus?token=" style="display:block; height:400px; margin:auto; max-width:700px; width:600px" /></span></span></p>
+<p style="text-align: center;"><span style="font-size:12pt;font-family:Tahoma,sans-serif;"><img src="https://cdn.create.vista.com/api/media/medium/422164320/stock-photo-closeup-woman-sitting-toilet-morning-depressed-feeling-selective-focus?token=" alt="Vệ sinh vùng kín không sạch sẽ là nguyên nhân gây viêm đường tiết niệu ở nữ giới" style="width: 600px; height: 400px;"></span></p>
 
 <p dir="ltr" style="text-align:center"><em><span style="font-family:times new roman,times,serif">Vệ sinh vùng kín không sạch sẽ là nguyên nhân gây viêm đường tiết niệu ở nữ giới</span></em></p>
 
@@ -1221,7 +1221,7 @@ h2{border-left:4px solid 	#f2073e;padding-left:10px;}
 
 <p dir="ltr" style="text-align:justify"><span style="color:rgb(47, 79, 79)"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><span style="background-color:transparent"><strong>- Phương pháp điều trị tiên tiến: </strong></span></span></span></span><span style="font-family:times new roman,times,serif"><span style="font-size:18px">Sử dụng phương pháp điều trị sóng ngắn CRS, được đánh giá cao về hiệu quả và an toàn trong việc điều trị viêm đường tiết niệu.</span></span></p>
 
-<p dir="ltr" style="text-align:center"><span style="font-family:times new roman,times,serif"><span style="font-size:18px"><img alt="Phương pháp chữa viêm đường tiết niệu hiệu quả" src="https://dakhoahoancau.neocities.org/pic/bxh/pp-chua-benh-xa-hoi.png" style="display:block; height:500px; margin:auto; max-width:700px; width:600px" /></span></span></p>
+<p style="text-align: center;"><span style="font-size:12pt;font-family:Tahoma,sans-serif;"><img src="https://dakhoahoancau.neocities.org/pic/bxh/pp-chua-benh-xa-hoi.png" alt="Phương pháp chữa viêm đường tiết niệu hiệu quả" style="width: 600px; height: 400px;"></span></p>
 
 <p dir="ltr" style="text-align:center"><em><span style="font-family:times new roman,times,serif">Phương pháp chữa viêm đường tiết niệu hiệu quả</span></em></p>
 
